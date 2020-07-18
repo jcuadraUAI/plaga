@@ -84,13 +84,14 @@ and [PUC](http://www.puc.cl) programmes.
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UAI.jpg" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IAPUC.png" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NPF.jpg" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICM.jpg" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MPE.gif" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MPG.png" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Dustbusters.png" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.png" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANID.png" style="height: 100px">	
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UAI.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UA_PhA.jpg" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IAPUC.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NPF.jpg" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICM.jpg" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MPE.gif" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MPG.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Dustbusters.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANID.png" style="height: 80px">	
 </figure>
