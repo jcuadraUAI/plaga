@@ -82,7 +82,7 @@ We are also grateful for funding from different [ANID](www.anid.cl)
 and [PUC](www.puc.cl) programmes.
 
 
-# **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!--  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**  -->
 
 
 
