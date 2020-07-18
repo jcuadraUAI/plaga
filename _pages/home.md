@@ -64,7 +64,7 @@ formation, and other accreting systems (see [Research](research)).
 
 Our work on formation and evolution of planetary systems is carried
 out as part of the [Millennium Nucleus on Planet Formation
-(NPF)](www.npf.cl), funded by the [Iniciativa Científica
+(NPF)](http://www.npf.cl), funded by the [Iniciativa Científica
 Milenio](http://www.iniciativamilenio.cl/).
 
 Our research on the Galactic Centre is carried out as the [Max Planck
