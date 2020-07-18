@@ -74,9 +74,9 @@ collaboration with [MPE's Infrared/Submillimeter Astronomy
 group](http://www.mpe.mpg.de/ir/), funded by the [Max Planck
 Society](https://www.mpg.de/).
 
-Our group at PUC is part of the "Dust and gas in planet forming discs
-— DUSTBUSTERS" Marie Skłodowska-Curie Research and Innovation Staff
-Exchange network, funded by the European Commission.
+Our group at PUC is part of the [Dust and gas in planet forming discs
+— DUSTBUSTERS](https://dustbusters.fisica.unimi.it/) MSCA-RISE network,
+funded by the European Commission.
 
 We are also grateful for funding from different [ANID](www.anid.cl)
 and [PUC](www.puc.cl) programmes.
