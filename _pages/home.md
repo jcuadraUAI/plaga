@@ -25,22 +25,22 @@ We are a research group lead by Jorge Cuadra at [Universidad Adolfo Ibáñez](ht
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GCVR_snap.jpg" alt=“Galactic Center VR snapshot” />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GCVR_snap.jpg" alt=“Galactic Center VR snapshot" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/flyby.jpg" alt=“Flyby” />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/flyby.jpg" alt=“Flyby" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group.jpg" alt=“Group Picture” />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group.jpg" alt=“Group Picture" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GCdisc.jpg" alt=“Disc in the Galactic Centre“ />
         </div>
         <div class="item">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jup-Nep.jpg" alt=“Jupiter and Neptune by a red giant” />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jup-Nep.jpg" alt=“Jupiter and Neptune by a red giant" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/minispiral.jpg" alt=“Minispiral observed by ALMA” />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/minispiral.jpg" alt=“Minispiral observed by ALMA" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dustyclumps.jpg" alt=“Dusty Clumps“ />
