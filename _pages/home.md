@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "PLAGA - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Planets, Accretion, and Galactic Centre Astrophysics"
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a research group lead by Jorge Cuadra at [Universidad Adolfo Ibáñez](https://www.uai.cl/) in Viña del Mar, but with most members located at [PUC's Institute for Astrophysics](http://www.astro.puc.cl/) in Santiago, Chile.  We work on different topics in Astrophysics, with a focus on theoretical studies of the Galactic Centre, planet formation, and other accreting systems.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
