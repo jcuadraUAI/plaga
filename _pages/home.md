@@ -82,10 +82,6 @@ We are also grateful for funding from different [ANID](www.anid.cl)
 and [PUC](www.puc.cl) programmes.
 
 
-<!--  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**  -->
-
-
-
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UAI.jpg" style="width: 110px">
