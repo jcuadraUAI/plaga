@@ -321,3 +321,42 @@
   highlight: 0  
   news2:    
 
+- title: "Size and density sorting of dust grains in SPH simulations of protoplanetary discs" 
+  image: dummy.png 
+  description:  
+  authors: Pignatale, Gonzalez, Cuello, Bourdon, and Fitoussi 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.469..237P  
+    display: MNRAS 469, 237 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "A second decoupling between merging binary black holes and the inner disc - impact on the electromagnetic counterpart" 
+  image: dummy.png 
+  description:  
+  authors: Fontecilla, Chen, and Cuadra 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.468L..50F  
+    display: MNRAS 468, L50 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Voxel Datacubes for 3D Visualization in Blender" 
+  image: dummy.png 
+  description:  
+  authors: Gárate 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017PASP..129e8010G  
+    display: PASP 129, 058010 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Satellite infall and mass deposition on the Galactic Centre" 
+  image: dummy.png 
+  description:  
+  authors: Gallego and Cuadra 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.467L..41G  
+    display: MNRAS 467, L41 (2017)  
+  highlight: 0  
+  news2:    
