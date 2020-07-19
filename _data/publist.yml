@@ -78,7 +78,7 @@
     url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...2C  
     display: ApJL 888, L2 (2020)  
   highlight: 1  
-  news2:    <a href="http://astro.uc.cl/item-3-menu-izquierdo-2/545-astronomos-prueban-que-existe-un-disco-de-gas-en-torno-al-agujero-negro-en-el-centro-de-nuestra-galaxia">Nota en espanol</a>
+  news2: <a href="http://astro.uc.cl/item-3-menu-izquierdo-2/545-astronomos-prueban-que-existe-un-disco-de-gas-en-torno-al-agujero-negro-en-el-centro-de-nuestra-galaxia">Nota en espanol</a>
 
 - title: "Signatures of an eccentric disc cavity: Dust and gas in IRS 48" 
   image: dummy.png 
