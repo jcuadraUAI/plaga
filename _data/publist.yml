@@ -78,4 +78,25 @@
     url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...2C  
     display: ApJL 888, L2 (2020)  
   highlight: 1  
-  news2:    <a href="http://astro.uc.cl/item-3-menu-izquierdo-2/545-astronomos-prueban-que-existe-un-disco-de-gas-en-torno-al-agujero-negro-en-el-centro-de-nuestra-galaxia">Nota en espanol</a>  
+  news2:    <a href="http://astro.uc.cl/item-3-menu-izquierdo-2/545-astronomos-prueban-que-existe-un-disco-de-gas-en-torno-al-agujero-negro-en-el-centro-de-nuestra-galaxia">Nota en espanol</a>
+
+- title: "Signatures of an eccentric disc cavity: Dust and gas in IRS 48" 
+  image: dummy.png 
+  description:  
+  authors: Calcino, Price, Pinte,  et al. (incl. __Cuello__)
+  authorsall: Calcino, Price, Pinte, van der Marel, Ragusa, Dipierro, Cuello, and Christiaens 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2579C  
+    display: MNRAS 490, 2579 (2019)  
+  highlight: 0  
+  news2:    
+
+- title: "Ploonets: formation, evolution, and detectability of tidally detached exomoons" 
+  image: dummy.png 
+  description:  
+  authors: __Sucerquia__, Alvarado-Montes, Zuluaga, __Cuello__, and Giuppone 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2313S  
+    display: MNRAS 489, 2313 (2019)  
+  highlight: 0  
+  news2:    
