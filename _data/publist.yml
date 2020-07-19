@@ -10,13 +10,13 @@
 
 - title: "Binary-induced spiral arms inside the disc cavity of AB Aurigae" 
   image: dummy.png 
-  description:  
+  description: We use numerical simulations to show that the inner spiral structure observed in AB Aurigae can be created by a binary star orbiting inside the dust cavity. We constrain the inclination of the binary with respect to the circumbinary disc to range between 60° and 90°.  
   authors: __Poblete__, Calcino, __Cuello__, Macías, Ribas, Price, __Cuadra__, and Pinte 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2362P  
     display: MNRAS 496, 2362 (2020)  
   highlight: 1  
-  news2:    
+  news2: "Nota del NPF: [Astrónomos ponen en duda que un planeta en formación sea el causante de épica imagen](http://www.npf.cl/2020/05/29/astronomos-ponen-en-duda-que-un-planeta-en-formacion-sea-el-causante-de-epica-imagen-de-un-planeta-en-formacion/)"   
 
 - title: "Setting the Stage: Planet Formation and Volatile Delivery" 
   image: 2020SSRv..216...86V.png
