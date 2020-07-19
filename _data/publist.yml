@@ -530,3 +530,64 @@
     display: ApJ 811, 92 (2015)  
   highlight: 0  
   news2:    
+
+- title: "Planet Formation Signposts: Observability of Circumplanetary Disks via Gas Kinematics" 
+  image: dummy.png 
+  description:  
+  authors: Perez, Dunhill, Casassus, Roman, Szulágyi, Flores, Marino, and Montesinos 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811L...5P  
+    display: ApJL 811, L5 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "Supermassive Black Holes in a Star-forming Gaseous Circumnuclear Disk" 
+  image: dummy.png 
+  description:  
+  authors: del Valle, Escala, Maureira-Fredes, Molina, Cuadra, and Amaro-Seoane 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811...59D  
+    display: ApJ 811, 59 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "The role of feedback in accretion on low-luminosity AGN: Sgr A* case study" 
+  image: dummy.png 
+  description:  
+  authors: Cuadra, Nayakshin, and Wang 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.450..277C  
+    display: MNRAS 450, 277 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "Protoplanetary Disks Including Radiative Feedback from Accreting Planets" 
+  image: dummy.png 
+  description:  
+  authors: Montesinos, Cuadra, Perez, Baruteau, and Casassus 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...806..253M  
+    display: ApJ 806, 253 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "Precession and accretion in circumbinary discs: the case of HD 104237" 
+  image: dummy.png 
+  description:  
+  authors: Dunhill, Cuadra, and Dougados 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.448.3545D  
+    display: MNRAS 448, 3545 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "1D accretion discs around eccentric planets: observable near-infrared variability." 
+  image: dummy.png 
+  description:  
+  authors: Dunhill 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.448L..67D  
+    display: MNRAS 448, L67 (2015)  
+  highlight: 0  
+  news2:    
+
