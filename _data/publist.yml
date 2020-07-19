@@ -72,14 +72,14 @@
 
 - title: "Flybys in protoplanetary discs - II. Observational signatures" 
   image: 2020MNRAS.491..504C.png 
-  description: Observational signatures of the passage of a perturber star nearby a protoplanetary disc. 
+  description: Flybys produce warped discs, spirals with evolving pitch angles, increasing accretion rates, and disc truncation. Here, we present the corresponding observational signatures of these features in optical/near-infrared scattered light and (sub) millimetre continuum and CO line emission.
   authors: __Cuello__, Louvet, Mentiplay, et al. (incl. __Cuadra__)
   authorsall: Cuello, Louvet, Mentiplay, Pinte, Price, Winter, Nealon, Ménard, Lodato, Dipierro, Christiaens, Montesinos, Cuadra, Laibe, Cieza, Dong, and Alexander 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..504C  
     display: MNRAS 491, 504 (2020)  
   highlight: 1  
-  news2: <a href="http://www.npf.cl/2019/12/27/escenas-de-crimen-astrofisicas-como-se-ve-un-disco-protoplanetario-luego-de-un-encuentro-estelar/">Nota en espanol.</a>
+  news2: "Nota del NPF: [Escenas de crimen astrofísicas: ¿Cómo se ve un disco protoplanetario luego de un encuentro estelar?](http://www.npf.cl/2019/12/27/escenas-de-crimen-astrofisicas-como-se-ve-un-disco-protoplanetario-luego-de-un-encuentro-estelar/)"
 
 - title: "Resolving the FU Orionis System with ALMA: Interacting Twin Disks?" 
   image: dummy.png 
