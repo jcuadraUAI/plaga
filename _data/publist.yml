@@ -280,3 +280,44 @@
     display: MNRAS 477, 1270 (2018)  
   highlight: 0  
   news2:    
+
+- title: "Planetary-like spirals caused by moving shadows in transition discs" 
+  image: dummy.png 
+  description:  
+  authors: Montesinos and Cuello 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..35M  
+    display: MNRAS 475, L35 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "HD 169142 in the eyes of ZIMPOL/SPHERE" 
+  image: dummy.png 
+  description:  
+  authors: Bertrang, Avenhaus, Casassus, Montesinos, Kirchschlager, Perez, Cieza, and Wolf 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.5105B  
+    display: MNRAS 474, 5105 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "Proper motions in the VVV Survey: Results for more than 15 million stars across NGC 6544" 
+  image: dummy.png 
+  description:  
+  authors: Contreras Ramos, Zoccali, Rojas, Rojas-Arriagada, Gárate, Huijse, Gran, Soto, Valcarce, Estévez, and Minniti 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017A&A...608A.140C  
+    display: A&A 608, A140 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Infalling clouds on to supermassive black hole binaries - II. Binary evolution and the final parsec problem" 
+  image: dummy.png 
+  description:  
+  authors: Goicovic, Sesana, Cuadra, and Stasyszyn 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.472..514G  
+    display: MNRAS 472, 514 (2017)  
+  highlight: 0  
+  news2:    
+
