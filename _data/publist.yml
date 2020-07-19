@@ -6,12 +6,13 @@
     url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
     display: SSRv 216, 86 (2020)  
   highlight: 1  
-  news2: <a href="http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/">Nota en espanol</a>   
+  news1: <a href="http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/">Nota en espanol</a>   
 
 - title: "Ongoing flyby in the young multiple system UX Tauri" 
   image: dummy.png 
   description:  
-  authors: Ménard, Cuello, Ginski, van der Plas, Villenave, Gonzalez, Pinte, Benisty, Boccaletti, Price, Boehler, Chripko, de Boer, Dominik, Garufi, Gratton, Hagelberg, Henning, Langlois, Maire, Pinilla, Ruane, Schmid, van Holstein, Vigan, Zurlo, Hubin, Pavlov, Rochat, Sauvage, and Stadler 
+  authors: Ménard, **Cuello**, Ginski, et al.
+  authorsall: Ménard, Cuello, Ginski, van der Plas, Villenave, Gonzalez, Pinte, Benisty, Boccaletti, Price, Boehler, Chripko, de Boer, Dominik, Garufi, Gratton, Hagelberg, Henning, Langlois, Maire, Pinilla, Ruane, Schmid, van Holstein, Vigan, Zurlo, Hubin, Pavlov, Rochat, Sauvage, and Stadler 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020A&A...639L...1M  
     display: A&A 639, L1 (2020)  
