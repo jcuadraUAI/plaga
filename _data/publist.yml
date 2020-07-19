@@ -69,3 +69,13 @@
     display: ApJ 889, 59 (2020)  
   highlight: 0  
   news2:    
+
+- title: "Stellar Winds Pump the Heart of the Milky Way" 
+  image: 2020ApJ...888L...2C.png 
+  description: Numerical models of the Wolf-Rayet winds show that cold gas accummulates and forms a disc around Sgr A*
+  authors: __Calderón__, __Cuadra__, Schartmann, Burkert, and __Russell__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...2C  
+    display: ApJL 888, L2 (2020)  
+  highlight: 1  
+  news2:    
