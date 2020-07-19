@@ -6,7 +6,7 @@
     url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
     display: SSRv 216, 86 (2020)  
   highlight: 1  
-  news1: <a href="http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/">Nota en espanol</a>   
+  news2: <a href="http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/">Nota en espanol</a>   
 
 - title: "Ongoing flyby in the young multiple system UX Tauri" 
   image: dummy.png 
@@ -21,12 +21,12 @@
 
 - title: "Three-dimensional simulations of clump formation in stellar wind collisions" 
   image: dummy.png 
-  description:  
-  authors: Calderón, Cuadra, Schartmann, Burkert, Prieto, and Russell 
+  description:  Stellar wind collisions do produce clumps, although much less massive than what analytical estimates allow.
+  authors: **Calderón**, **Cuadra**, Schartmann, Burkert, Prieto, and **Russell** 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..447C  
     display: MNRAS 493, 447 (2020)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Colliding winds in and around the stellar group IRS 13E at the galactic centre" 
