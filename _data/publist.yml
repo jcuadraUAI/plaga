@@ -360,3 +360,54 @@
     display: MNRAS 467, L41 (2017)  
   highlight: 0  
   news2:    
+
+- title: "Redistribution of CO at the location of the CO ice line in evolving gas and dust disks" 
+  image: dummy.png 
+  description:  
+  authors: Stammler, Birnstiel, Panić, Dullemond, and Dominik 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017A&A...600A.140S  
+    display: A&A 600, A140 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Inner mean-motion resonances with eccentric planets: a possible origin for exozodiacal dust clouds" 
+  image: dummy.png 
+  description:  
+  authors: Faramaz, Ertel, Booth, Cuadra, and Simmonds 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.2352F  
+    display: MNRAS 465, 2352 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Modelling the thermal X-ray emission around the Galactic Centre from colliding Wolf-Rayet winds" 
+  image: dummy.png 
+  description:  
+  authors: Russell, Wang, and Cuadra 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.4958R  
+    display: MNRAS 464, 4958 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "The TDE ASASSN-14li and Its Host Resolved at Parsec Scales with the EVN" 
+  image: dummy.png 
+  description:  
+  authors: Romero-Cañizales, Prieto, Chen, Kochanek, Dong, Holoien, Stanek, and Liu 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...832L..10R  
+    display: ApJL 832, L10 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "94 Ceti: a triple star with a planet and dust disc" 
+  image: dummy.png 
+  description:  
+  authors: Wiegert, Faramaz, and Cruz-Saenz de Miera 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1735W  
+    display: MNRAS 462, 1735 (2016)  
+  highlight: 0  
+  news2:    
+
