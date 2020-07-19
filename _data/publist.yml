@@ -1,7 +1,7 @@
 - title: "Setting the Stage: Planet Formation and Volatile Delivery" 
   image: 2020SSRv..216...86V.png
   description: Review on planet formation.
-  authors: Venturini, **Ronco**, and **Guilera** 
+  authors: Venturini, __Ronco__, and __Guilera__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
     display: SSRv 216, 86 (2020)  
@@ -11,7 +11,7 @@
 - title: "Ongoing flyby in the young multiple system UX Tauri" 
   image: dummy.png 
   description:  
-  authors: Ménard, **Cuello**, Ginski, et al.
+  authors: Ménard, __Cuello__, Ginski, et al.
   authorsall: Ménard, Cuello, Ginski, van der Plas, Villenave, Gonzalez, Pinte, Benisty, Boccaletti, Price, Boehler, Chripko, de Boer, Dominik, Garufi, Gratton, Hagelberg, Henning, Langlois, Maire, Pinilla, Ruane, Schmid, van Holstein, Vigan, Zurlo, Hubin, Pavlov, Rochat, Sauvage, and Stadler 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020A&A...639L...1M  
@@ -22,7 +22,7 @@
 - title: "Three-dimensional simulations of clump formation in stellar wind collisions" 
   image: 2020MNRAS.493..447C.png
   description:  Stellar wind collisions do produce clumps, although much less massive than what analytical estimates allow.
-  authors: __Calderón__, **Cuadra**, Schartmann, Burkert, Prieto, and **Russell** 
+  authors: __Calderón__, __Cuadra__, Schartmann, Burkert, Prieto, and __Russell__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..447C  
     display: MNRAS 493, 447 (2020)  
