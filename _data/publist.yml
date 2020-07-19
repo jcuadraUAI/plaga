@@ -145,14 +145,14 @@
   news2:    
 
 - title: "Planet formation and stability in polar circumbinary discs" 
-  image: dummy.png 
-  description:  
+  image: 2019A&A...628A.119C.png 
+  description: "We confirm previous analytical predictions on circumbinary disc  alignment, but find an unexpected symmetry breaking between prograde and retrograde configurations, which results in higher likelihood for polar discs.  Additionally, Tatooines on polar orbits are stable over a wide range of binary parameters." 
   authors: __Cuello__ and Giuppone 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019A&A...628A.119C  
     display: A&A 628, A119 (2019)  
-  highlight: 0  
-  news2:    
+  highlight: 1  
+  news2: "Nota del NPF: [No por ser muchos todo se alinea: Investigación concluye que los discos protoplanetarios ortogonales son más comunes de los que se creía](http://www.npf.cl/2019/07/26/no-por-ser-muchos-todo-se-alinea-investigacion-concluye-que-los-discos-protoplanetarios-ortogonales-son-mas-comunes-de-los-que-se-creia/)"   
 
 - title: "Thermal torque effects on the migration of growing low-mass planets" 
   image: dummy.png 
