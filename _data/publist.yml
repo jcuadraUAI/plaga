@@ -21,13 +21,13 @@
 
 - title: "Setting the Stage: Planet Formation and Volatile Delivery" 
   image: 2020SSRv..216...86V.png
-  description: Review on planet formation.
+  description: "This review aims to summarise the key concepts and processes operating during planet formation, with a focus on the delivery of volatiles to the inner regions of the planetary system."
   authors: Venturini, __Ronco__, and __Guilera__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
     display: SSRv 216, 86 (2020)  
   highlight: 1  
-  news2: <a href="http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/">Nota en espanol</a>   
+  news2: "Nota del NPF: [Preparando el escenario: Resumen sobre lo que sabemos de la formación planetaria](http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/)"
 
 - title: "Ongoing flyby in the young multiple system UX Tauri" 
   image: dummy.png 
