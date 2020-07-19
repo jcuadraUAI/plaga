@@ -42,7 +42,7 @@
 
 - title: "Three-dimensional simulations of clump formation in stellar wind collisions" 
   image: 2020MNRAS.493..447C.png
-  description:  We present a statistical study of the clump formation process in unstable wind collisions, based on AMR simulations. The most massive clumps are about three orders of magnitude less massive than theoretical upper limits. Applying these results to the Galactic Centre, we find the clumps do not survive for long enough to fall on to the central supermassive black hole.
+  description:  We develop AMR simulations to characterise the clump formation process in unstable wind collisions. Applying the results to the Galactic Centre, we find the clumps do not survive for long enough to fall on to the central supermassive black hole.
   authors: __Calderón__, __Cuadra__, Schartmann, Burkert, Prieto, and __Russell__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..447C  
