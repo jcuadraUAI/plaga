@@ -93,13 +93,14 @@
 
 - title: "Stellar Winds Pump the Heart of the Milky Way" 
   image: 2020ApJ...888L...2C.png 
-  description: Numerical models of the Wolf-Rayet winds show that cold gas accummulates and forms a disc around Sgr A*
+  description: We show that the Wolf-Rayet winds in the Galactic Centre can naturally account for both the hot, inefficient accretion flow, as well as the formation of a cold disk-like structure. 
   authors: __Calderón__, __Cuadra__, Schartmann, Burkert, and __Russell__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...2C  
     display: ApJL 888, L2 (2020)  
   highlight: 1  
-  news2: <a href="http://astro.uc.cl/item-3-menu-izquierdo-2/545-astronomos-prueban-que-existe-un-disco-de-gas-en-torno-al-agujero-negro-en-el-centro-de-nuestra-galaxia">Nota en espanol</a>
+  news2: "Articulo en La Tercera: [Astrónomos chilenos prueban que existe un disco de gas en torno al agujero negro en el centro de nuestra galaxia](https://www.latercera.com/que-pasa/noticia/astronomos-disco-gas/1007208/)"
+  news1: "Research highlight feature in Nature Astronomy: [Feeding frenzy has faded](https://rdcu.be/b1bAz)"
 
 - title: "Signatures of an eccentric disc cavity: Dust and gas in IRS 48" 
   image: dummy.png 
