@@ -4,7 +4,7 @@
   authors: Venturini, Ronco, and Guilera 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
-    display: SSRv 216, (2020)  
+    display: SSRv 216, 86 (2020)  
   highlight: 0  
   news2:    
 
@@ -14,7 +14,7 @@
   authors: Ménard, Cuello, Ginski, van der Plas, Villenave, Gonzalez, Pinte, Benisty, Boccaletti, Price, Boehler, Chripko, de Boer, Dominik, Garufi, Gratton, Hagelberg, Henning, Langlois, Maire, Pinilla, Ruane, Schmid, van Holstein, Vigan, Zurlo, Hubin, Pavlov, Rochat, Sauvage, and Stadler 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020A&A...639L...1M  
-    display: A&A 639, (2020)  
+    display: A&A 639, L1 (2020)  
   highlight: 0  
   news2:    
 
@@ -24,7 +24,7 @@
   authors: Calderón, Cuadra, Schartmann, Burkert, Prieto, and Russell 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..447C  
-    display: MNRAS 493, 467 (2020)  
+    display: MNRAS 493, 447 (2020)  
   highlight: 0  
   news2:    
 
@@ -34,7 +34,7 @@
   authors: Wang, Li, Russell, and Cuadra 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.2481W  
-    display: MNRAS 492, 2496 (2020)  
+    display: MNRAS 492, 2481 (2020)  
   highlight: 0  
   news2:    
 
@@ -44,7 +44,7 @@
   authors: Nealon, Cuello, and Alexander 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4108N  
-    display: MNRAS 491, 4115 (2020)  
+    display: MNRAS 491, 4108 (2020)  
   highlight: 0  
   news2:    
 
@@ -54,7 +54,37 @@
   authors: Cuello, Louvet, Mentiplay, Pinte, Price, Winter, Nealon, Ménard, Lodato, Dipierro, Christiaens, Montesinos, Cuadra, Laibe, Cieza, Dong, and Alexander 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..504C  
-    display: MNRAS 491, 514 (2020)  
+    display: MNRAS 491, 504 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Resolving the FU Orionis System with ALMA: Interacting Twin Disks?" 
+  image: dummy.png 
+  description:  
+  authors: Pérez, Hales, Liu, Zhu, Casassus, Williams, Zurlo, Cuello, Cieza, and Principe 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...889...59P  
+    display: ApJ 889, 59 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Stellar Winds Pump the Heart of the Milky Way" 
+  image: dummy.png 
+  description:  
+  authors: Calderón, Cuadra, Schartmann, Burkert, and Russell 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...2C  
+    display: ApJL 888, L2 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Signatures of an eccentric disc cavity: Dust and gas in IRS 48" 
+  image: dummy.png 
+  description:  
+  authors: Calcino, Price, Pinte, van der Marel, Ragusa, Dipierro, Cuello, and Christiaens 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2579C  
+    display: MNRAS 490, 2579 (2019)  
   highlight: 0  
   news2:    
 
