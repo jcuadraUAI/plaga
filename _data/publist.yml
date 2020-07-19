@@ -126,7 +126,7 @@
 - title: "Dusty clumps in circumbinary discs" 
   image: dummy.png 
   description:  
-  authors: Poblete, Cuello, and Cuadra 
+  authors: __Poblete__, __Cuello__, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2204P  
     display: MNRAS 489, 2204 (2019)  
@@ -136,7 +136,8 @@
 - title: "From Scattered-light to Millimeter Emission: A Comprehensive View of the Gigayear-old System of HD 202628 and its Eccentric Debris Ring" 
   image: dummy.png 
   description:  
-  authors: Faramaz, Krist, Stapelfeldt, Bryden, Mamajek, Matrà, Booth, Flaherty, Hales, Hughes, Bayo, Casassus, Cuadra, Olofsson, Su, and Wilner 
+  authors: Faramaz, Krist, Stapelfeldt, et al. (incl. __Cuadra__)
+  authorsall: Faramaz, Krist, Stapelfeldt, Bryden, Mamajek, Matrà, Booth, Flaherty, Hales, Hughes, Bayo, Casassus, Cuadra, Olofsson, Su, and Wilner 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019AJ....158..162F  
     display: AJ 158, 162 (2019)  
@@ -146,7 +147,7 @@
 - title: "Planet formation and stability in polar circumbinary discs" 
   image: dummy.png 
   description:  
-  authors: Cuello and Giuppone 
+  authors: __Cuello__ and Giuppone 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019A&A...628A.119C  
     display: A&A 628, A119 (2019)  
@@ -156,7 +157,7 @@
 - title: "Thermal torque effects on the migration of growing low-mass planets" 
   image: dummy.png 
   description:  
-  authors: Guilera, Cuello, Montesinos, Miller Bertolami, Ronco, Cuadra, and Masset 
+  authors: __Guilera__, __Cuello__, Montesinos, Miller Bertolami, __Ronco__, __Cuadra__, and Masset 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.5690G  
     display: MNRAS 486, 5690 (2019)  
@@ -166,7 +167,7 @@
 - title: "Planetesimal fragmentation and giant planet formation. II. Dependencies with planetesimal relative velocities and compositions" 
   image: dummy.png 
   description:  
-  authors: San Sebastián, Guilera, and Parisi 
+  authors: San Sebastián, __Guilera__, and Parisi 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019A&A...625A.138S  
     display: A&A 625, A138 (2019)  
@@ -176,7 +177,7 @@
 - title: "Flybys in protoplanetary discs: I. Gas and dust dynamics" 
   image: dummy.png 
   description:  
-  authors: Cuello, Dipierro, Mentiplay, Price, Pinte, Cuadra, Laibe, Ménard, Poblete, and Montesinos 
+  authors: __Cuello__, Dipierro, Mentiplay, Price, Pinte, __Cuadra__, Laibe, Ménard, __Poblete__, and Montesinos 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4114C  
     display: MNRAS 483, 4114 (2019)  
@@ -186,7 +187,7 @@
 - title: "Non-steady-state long-term evolution of supermassive black hole binaries surrounded by accretion discs" 
   image: dummy.png 
   description:  
-  authors: Fontecilla, Haiman, and Cuadra 
+  authors: __Fontecilla__, Haiman, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.4383F  
     display: MNRAS 482, 4383 (2019)  
@@ -196,7 +197,7 @@
 - title: "Dusty spirals triggered by shadows in transition discs" 
   image: dummy.png 
   description:  
-  authors: Cuello, Montesinos, Stammler, Louvet, and Cuadra 
+  authors: __Cuello__, Montesinos, __Stammler__, Louvet, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019A&A...622A..43C  
     display: A&A 622, A43 (2019)  
@@ -206,7 +207,7 @@
 - title: "Is there really a debris disc around ζ<SUP>2</SUP> Reticuli?" 
   image: dummy.png 
   description:  
-  authors: Faramaz, Bryden, Stapelfeldt, Booth, Bayo, Beust, Casassus, Cuadra, Hales, Hughes, Olofsson, Su, and Wilner 
+  authors: Faramaz, Bryden, Stapelfeldt, et al. (incl. __Cuadra__)
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.481...44F  
     display: MNRAS 481, 44 (2018)  
@@ -216,7 +217,7 @@
 - title: "Formation of Solar system analogues - II. Post-gas-phase growthand water accretion in extended discs via N-body simulations" 
   image: dummy.png 
   description:  
-  authors: Ronco and de Elía 
+  authors: __Ronco__ and de Elía 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.5362R  
     display: MNRAS 479, 5362 (2018)  
@@ -226,7 +227,7 @@
 - title: "Accretion of clumpy cold gas onto massive black hole binaries: a possible fast route to binary coalescence" 
   image: dummy.png 
   description:  
-  authors: Goicovic, Maureira-Fredes, Sesana, Amaro-Seoane, and Cuadra 
+  authors: __Goicovic__, Maureira-Fredes, Sesana, Amaro-Seoane, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.3438G  
     display: MNRAS 479, 3438 (2018)  
@@ -236,7 +237,7 @@
 - title: "The Galactic Centre source G2 was unlikely born in any of the known massive binaries" 
   image: dummy.png 
   description:  
-  authors: Calderón, Cuadra, Schartmann, Burkert, Plewa, Eisenhauer, and Habibi 
+  authors: __Calderón__, __Cuadra__, Schartmann, Burkert, Plewa, Eisenhauer, and Habibi 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.3494C  
     display: MNRAS 478, 3494 (2018)  
@@ -246,7 +247,8 @@
 - title: "OJ287: deciphering the `Rosetta stone of blazars" 
   image: dummy.png 
   description:  
-  authors: Britzen, Fendt, Witzel, Qian, Pashchenko, Kurtanidze, Zajacek, Martinez, Karas, Aller, Aller, Eckart, Nilsson, Arévalo, Cuadra, Subroweit, and Witzel 
+  authors: Britzen, Fendt, Witzel, et al. (incl. __Cuadra__)
+  authorsall: Britzen, Fendt, Witzel, Qian, Pashchenko, Kurtanidze, Zajacek, Martinez, Karas, Aller, Aller, Eckart, Nilsson, Arévalo, Cuadra, Subroweit, and Witzel 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.3199B  
     display: MNRAS 478, 3199 (2018)  
@@ -256,7 +258,7 @@
 - title: "Accretion of clumpy cold gas on to massive black hole binaries: the challenging formation of extended circumbinary structures" 
   image: dummy.png 
   description:  
-  authors: Maureira-Fredes, Goicovic, Amaro-Seoane, and Sesana 
+  authors: Maureira-Fredes, __Goicovic__, Amaro-Seoane, and Sesana 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.1726M  
     display: MNRAS 478, 1726 (2018)  
@@ -266,7 +268,7 @@
 - title: "Non-thermal X-rays from colliding wind shock acceleration in the massive binary Eta Carinae" 
   image: dummy.png 
   description:  
-  authors: Hamaguchi, Corcoran, Pittard, Sharma, Takahashi, Russell, Grefenstette, Wik, Gull, Richardson, Madura, and Moffat 
+  authors: Hamaguchi, Corcoran, Pittard, et al. (incl. __Russell__)
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018NatAs...2..731H  
     display: NatAs 2, 731 (2018)  
@@ -276,7 +278,8 @@
 - title: "Circumbinary, not transitional: on the spiral arms, cavity, shadows, fast radial flows, streamers, and horseshoe in the HD 142527 disc" 
   image: dummy.png 
   description:  
-  authors: Price, Cuello, Pinte, Mentiplay, Casassus, Christiaens, Kennedy, Cuadra, Sebastian Perez, Marino, Armitage, Zurlo, Juhasz, Ragusa, Laibe, and Lodato 
+  authors: Price, __Cuello__, Pinte, et al. (incl. __Cuadra__)
+  authorsall: Price, Cuello, Pinte, Mentiplay, Casassus, Christiaens, Kennedy, Cuadra, Sebastian Perez, Marino, Armitage, Zurlo, Juhasz, Ragusa, Laibe, and Lodato 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1270P  
     display: MNRAS 477, 1270 (2018)  
@@ -286,7 +289,7 @@
 - title: "Planetary-like spirals caused by moving shadows in transition discs" 
   image: dummy.png 
   description:  
-  authors: Montesinos and Cuello 
+  authors: __Montesinos__ and __Cuello__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..35M  
     display: MNRAS 475, L35 (2018)  
@@ -296,7 +299,7 @@
 - title: "HD 169142 in the eyes of ZIMPOL/SPHERE" 
   image: dummy.png 
   description:  
-  authors: Bertrang, Avenhaus, Casassus, Montesinos, Kirchschlager, Perez, Cieza, and Wolf 
+  authors: Bertrang, Avenhaus, Casassus, __Montesinos__, Kirchschlager, Perez, Cieza, and Wolf 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.5105B  
     display: MNRAS 474, 5105 (2018)  
@@ -306,7 +309,7 @@
 - title: "Proper motions in the VVV Survey: Results for more than 15 million stars across NGC 6544" 
   image: dummy.png 
   description:  
-  authors: Contreras Ramos, Zoccali, Rojas, Rojas-Arriagada, Gárate, Huijse, Gran, Soto, Valcarce, Estévez, and Minniti 
+  authors: Contreras Ramos, Zoccali, Rojas, Rojas-Arriagada, __Gárate__, Huijse, Gran, Soto, Valcarce, Estévez, and Minniti 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017A&A...608A.140C  
     display: A&A 608, A140 (2017)  
@@ -316,7 +319,7 @@
 - title: "Infalling clouds on to supermassive black hole binaries - II. Binary evolution and the final parsec problem" 
   image: dummy.png 
   description:  
-  authors: Goicovic, Sesana, Cuadra, and Stasyszyn 
+  authors: __Goicovic__, Sesana, __Cuadra__, and Stasyszyn 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.472..514G  
     display: MNRAS 472, 514 (2017)  
@@ -326,7 +329,7 @@
 - title: "Size and density sorting of dust grains in SPH simulations of protoplanetary discs" 
   image: dummy.png 
   description:  
-  authors: Pignatale, Gonzalez, Cuello, Bourdon, and Fitoussi 
+  authors: Pignatale, Gonzalez, __Cuello__, Bourdon, and Fitoussi 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.469..237P  
     display: MNRAS 469, 237 (2017)  
@@ -336,7 +339,7 @@
 - title: "A second decoupling between merging binary black holes and the inner disc - impact on the electromagnetic counterpart" 
   image: dummy.png 
   description:  
-  authors: Fontecilla, Chen, and Cuadra 
+  authors: __Fontecilla__, __Chen__, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.468L..50F  
     display: MNRAS 468, L50 (2017)  
@@ -346,7 +349,7 @@
 - title: "Voxel Datacubes for 3D Visualization in Blender" 
   image: dummy.png 
   description:  
-  authors: Gárate 
+  authors: __Gárate__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017PASP..129e8010G  
     display: PASP 129, 058010 (2017)  
@@ -356,7 +359,7 @@
 - title: "Satellite infall and mass deposition on the Galactic Centre" 
   image: dummy.png 
   description:  
-  authors: Gallego and Cuadra 
+  authors: __Gallego__ and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.467L..41G  
     display: MNRAS 467, L41 (2017)  
@@ -366,7 +369,7 @@
 - title: "Redistribution of CO at the location of the CO ice line in evolving gas and dust disks" 
   image: dummy.png 
   description:  
-  authors: Stammler, Birnstiel, Panić, Dullemond, and Dominik 
+  authors: __Stammler__, Birnstiel, Panić, Dullemond, and Dominik 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017A&A...600A.140S  
     display: A&A 600, A140 (2017)  
@@ -376,7 +379,7 @@
 - title: "Inner mean-motion resonances with eccentric planets: a possible origin for exozodiacal dust clouds" 
   image: dummy.png 
   description:  
-  authors: Faramaz, Ertel, Booth, Cuadra, and Simmonds 
+  authors: __Faramaz__, Ertel, Booth, __Cuadra__, and Simmonds 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.2352F  
     display: MNRAS 465, 2352 (2017)  
@@ -386,7 +389,7 @@
 - title: "Modelling the thermal X-ray emission around the Galactic Centre from colliding Wolf-Rayet winds" 
   image: dummy.png 
   description:  
-  authors: Russell, Wang, and Cuadra 
+  authors: Russell, Wang, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.4958R  
     display: MNRAS 464, 4958 (2017)  
@@ -396,7 +399,7 @@
 - title: "The TDE ASASSN-14li and Its Host Resolved at Parsec Scales with the EVN" 
   image: dummy.png 
   description:  
-  authors: Romero-Cañizales, Prieto, Chen, Kochanek, Dong, Holoien, Stanek, and Liu 
+  authors: Romero-Cañizales, Prieto, __Chen__, Kochanek, Dong, Holoien, Stanek, and Liu 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...832L..10R  
     display: ApJL 832, L10 (2016)  
@@ -406,7 +409,7 @@
 - title: "94 Ceti: a triple star with a planet and dust disc" 
   image: dummy.png 
   description:  
-  authors: Wiegert, Faramaz, and Cruz-Saenz de Miera 
+  authors: Wiegert, __Faramaz__, and Cruz-Saenz de Miera 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1735W  
     display: MNRAS 462, 1735 (2016)  
@@ -416,7 +419,7 @@
 - title: "Searching for molecular outflows in hyperluminous infrared galaxies" 
   image: dummy.png 
   description:  
-  authors: Calderón, Bauer, Veilleux, Graciá-Carpio, Sturm, Lira, Schulze, and Kim 
+  authors: __Calderón__, Bauer, Veilleux, Graciá-Carpio, Sturm, Lira, Schulze, and Kim 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.460.3052C  
     display: MNRAS 460, 3052 (2016)  
@@ -426,7 +429,7 @@
 - title: "SDSS J0159+0105: A Radio-Quiet Quasar with a Centi-Parsec Supermassive Black Hole Binary Candidate" 
   image: dummy.png 
   description:  
-  authors: Zheng, Butler, Shen, Jiang, Wang, Chen, and Cuadra 
+  authors: Zheng, Butler, Shen, Jiang, Wang, __Chen__, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...827...56Z  
     display: ApJ 827, 56 (2016)  
@@ -436,7 +439,7 @@
 - title: "Resolving the planetesimal belt of HR 8799 with ALMA" 
   image: dummy.png 
   description:  
-  authors: Booth, Jordán, Casassus, Hales, Dent, Faramaz, Matrà, Barkats, Brahm, and Cuadra 
+  authors: Booth, Jordán, Casassus, Hales, Dent, Faramaz, Matrà, Barkats, Brahm, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.460L..10B  
     display: MNRAS 460, L10 (2016)  
@@ -446,7 +449,7 @@
 - title: "Probing dark matter crests with white dwarfs and IMBHs" 
   image: dummy.png 
   description:  
-  authors: Amaro-Seoane, Casanellas, Schödel, Davidson, and Cuadra 
+  authors: Amaro-Seoane, Casanellas, Schödel, Davidson, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.459..695A  
     display: MNRAS 459, 695 (2016)  
@@ -456,7 +459,7 @@
 - title: "The γ-ray afterglows of tidal disruption events" 
   image: dummy.png 
   description:  
-  authors: Chen, Gómez-Vargas, and Guillochon 
+  authors: __Chen__, Gómez-Vargas, and Guillochon 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.3314C  
     display: MNRAS 458, 3314 (2016)  
@@ -466,7 +469,7 @@
 - title: "Relativistic mergers of black hole binaries have large, similar masses, low spins and are circular" 
   image: dummy.png 
   description:  
-  authors: Amaro-Seoane and Chen 
+  authors: Amaro-Seoane and __Chen__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.3075A  
     display: MNRAS 458, 3075 (2016)  
@@ -476,7 +479,7 @@
 - title: "Spiral Waves Triggered by Shadows in Transition Disks" 
   image: dummy.png 
   description:  
-  authors: Montesinos, Perez, Casassus, Marino, Cuadra, and Christiaens 
+  authors: Montesinos, Perez, Casassus, Marino, __Cuadra__, and Christiaens 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...823L...8M  
     display: ApJL 823, L8 (2016)  
@@ -486,7 +489,7 @@
 - title: "Unbound Debris Streams and Remnants Resulting from the Tidal Disruptions of Stars by Supermassive Black Holes" 
   image: dummy.png 
   description:  
-  authors: Guillochon, McCourt, Chen, Johnson, and Berger 
+  authors: Guillochon, McCourt, __Chen__, Johnson, and Berger 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...822...48G  
     display: ApJ 822, 48 (2016)  
@@ -496,7 +499,7 @@
 - title: "Stability of Gas Clouds in Galactic Nuclei: An Extended Virial Theorem" 
   image: dummy.png 
   description:  
-  authors: Chen, Amaro-Seoane, and Cuadra 
+  authors: __Chen__, Amaro-Seoane, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...819..138C  
     display: ApJ 819, 138 (2016)  
@@ -506,7 +509,7 @@
 - title: "Clump formation through colliding stellar winds in the Galactic Centre" 
   image: dummy.png 
   description:  
-  authors: Calderón, Ballone, Cuadra, Schartmann, Burkert, and Gillessen 
+  authors: __Calderón__, Ballone, __Cuadra__, Schartmann, Burkert, and Gillessen 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.4388C  
     display: MNRAS 455, 4388 (2016)  
@@ -516,7 +519,7 @@
 - title: "Infalling clouds on to supermassive black hole binaries - I. Formation of discs, accretion and gas dynamics" 
   image: dummy.png 
   description:  
-  authors: Goicovic, Cuadra, Sesana, Stasyszyn, Amaro-Seoane, and Tanaka 
+  authors: __Goicovic__, __Cuadra__, Sesana, Stasyszyn, Amaro-Seoane, and Tanaka 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.1989G  
     display: MNRAS 455, 1989 (2016)  
@@ -526,7 +529,7 @@
 - title: "Accretion Kinematics through the Warped Transition Disk in HD142527 from Resolved CO(6-5) Observations" 
   image: dummy.png 
   description:  
-  authors: Casassus, Marino, Pérez, Roman, Dunhill, Armitage, Cuadra, Wootten, van der Plas, Cieza, Moral, Christiaens, and Montesinos 
+  authors: Casassus, Marino, Pérez, Roman, __Dunhill__, Armitage, __Cuadra__, Wootten, van der Plas, Cieza, Moral, Christiaens, and Montesinos 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811...92C  
     display: ApJ 811, 92 (2015)  
@@ -536,7 +539,7 @@
 - title: "Planet Formation Signposts: Observability of Circumplanetary Disks via Gas Kinematics" 
   image: dummy.png 
   description:  
-  authors: Perez, Dunhill, Casassus, Roman, Szulágyi, Flores, Marino, and Montesinos 
+  authors: Perez, __Dunhill__, Casassus, Roman, Szulágyi, Flores, Marino, and Montesinos 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811L...5P  
     display: ApJL 811, L5 (2015)  
@@ -546,7 +549,7 @@
 - title: "Supermassive Black Holes in a Star-forming Gaseous Circumnuclear Disk" 
   image: dummy.png 
   description:  
-  authors: del Valle, Escala, Maureira-Fredes, Molina, Cuadra, and Amaro-Seoane 
+  authors: del Valle, Escala, Maureira-Fredes, Molina, __Cuadra__, and Amaro-Seoane 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811...59D  
     display: ApJ 811, 59 (2015)  
@@ -556,7 +559,7 @@
 - title: "The role of feedback in accretion on low-luminosity AGN: Sgr A* case study" 
   image: dummy.png 
   description:  
-  authors: Cuadra, Nayakshin, and Wang 
+  authors: __Cuadra__, Nayakshin, and Wang 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.450..277C  
     display: MNRAS 450, 277 (2015)  
@@ -566,7 +569,7 @@
 - title: "Protoplanetary Disks Including Radiative Feedback from Accreting Planets" 
   image: dummy.png 
   description:  
-  authors: Montesinos, Cuadra, Perez, Baruteau, and Casassus 
+  authors: __Montesinos__, __Cuadra__, Perez, Baruteau, and Casassus 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...806..253M  
     display: ApJ 806, 253 (2015)  
@@ -576,7 +579,7 @@
 - title: "Precession and accretion in circumbinary discs: the case of HD 104237" 
   image: dummy.png 
   description:  
-  authors: Dunhill, Cuadra, and Dougados 
+  authors: __Dunhill__, __Cuadra__, and Dougados 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.448.3545D  
     display: MNRAS 448, 3545 (2015)  
