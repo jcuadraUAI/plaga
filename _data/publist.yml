@@ -176,8 +176,9 @@
 
 - title: "Flybys in protoplanetary discs: I. Gas and dust dynamics" 
   image: dummy.png 
-  description:  
-  authors: __Cuello__, Dipierro, Mentiplay, Price, Pinte, __Cuadra__, Laibe, Ménard, __Poblete__, and Montesinos 
+  description:  We find that flybys by a stellar perturber induce evolving spiral structure in a protoplanetary disc, which can persist for thousands of years after periastron. The remnant discs are truncated and warped.
+  authors: __Cuello__, Dipierro, Mentiplay, et al. (incl. __Cuadra__ and  __Poblete__)
+  authorsall: __Cuello__, Dipierro, Mentiplay, Price, Pinte, __Cuadra__, Laibe, Ménard, __Poblete__, and Montesinos 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4114C  
     display: MNRAS 483, 4114 (2019)  
