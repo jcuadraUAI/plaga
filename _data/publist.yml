@@ -1,12 +1,12 @@
 - title: "Setting the Stage: Planet Formation and Volatile Delivery" 
-  image: dummy.png 
-  description:  
+  image: Pub_hBN.png
+  description: Review on planet formation.
   authors: Venturini, **Ronco**, and **Guilera** 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
     display: SSRv 216, 86 (2020)  
-  highlight: 0  
-  news2:    
+  highlight: 1  
+  news2: <a href="http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/">Nota en espanol</a>   
 
 - title: "Ongoing flyby in the young multiple system UX Tauri" 
   image: dummy.png 
