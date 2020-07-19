@@ -4,10 +4,30 @@
   authors: Venturini, Ronco, and Guilera 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
-    display: 2020SSRv..216...86V  
+    display: SSRv 216, 86 (2020)  
   highlight: 0  
   news2:    
- 
+
+- title: "Ongoing flyby in the young multiple system UX Tauri" 
+  image: dummy.png 
+  description:  
+  authors: Ménard, Cuello, Ginski, van der Plas, Villenave, Gonzalez, Pinte, Benisty, Boccaletti, Price, Boehler, Chripko, de Boer, Dominik, Garufi, Gratton, Hagelberg, Henning, Langlois, Maire, Pinilla, Ruane, Schmid, van Holstein, Vigan, Zurlo, Hubin, Pavlov, Rochat, Sauvage, and Stadler 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...639L...1M  
+    display: A&A 639, L1 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Three-dimensional simulations of clump formation in stellar wind collisions" 
+  image: dummy.png 
+  description:  
+  authors: Calderón, Cuadra, Schartmann, Burkert, Prieto, and Russell 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..447C  
+    display: MNRAS 493, 447-467 (2020)  
+  highlight: 0  
+  news2:    
+
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
   description:
