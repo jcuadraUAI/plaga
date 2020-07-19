@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "PLAGA - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "PLAGA group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Full List (since 2015)
 
 {% for publi in site.data.publist %}
 
