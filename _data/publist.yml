@@ -309,7 +309,7 @@
 - title: "Proper motions in the VVV Survey: Results for more than 15 million stars across NGC 6544" 
   image: dummy.png 
   description:  
-  authors: Contreras Ramos, Zoccali, Rojas, Rojas-Arriagada, __Gárate__, Huijse, Gran, Soto, Valcarce, Estévez, and Minniti 
+  authors: Contreras Ramos, Zoccali, et al. (incl.  __Gárate__)
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017A&A...608A.140C  
     display: A&A 608, A140 (2017)  
@@ -529,7 +529,8 @@
 - title: "Accretion Kinematics through the Warped Transition Disk in HD142527 from Resolved CO(6-5) Observations" 
   image: dummy.png 
   description:  
-  authors: Casassus, Marino, Pérez, Roman, __Dunhill__, Armitage, __Cuadra__, Wootten, van der Plas, Cieza, Moral, Christiaens, and Montesinos 
+  authors: Casassus, Marino, Pérez, et al. (__Dunhill__ and __Cuadra__)
+  authorsall: Casassus, Marino, Pérez, Roman, __Dunhill__, Armitage, __Cuadra__, Wootten, van der Plas, Cieza, Moral, Christiaens, and Montesinos 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811...92C  
     display: ApJ 811, 92 (2015)  
