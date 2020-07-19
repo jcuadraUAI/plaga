@@ -38,3 +38,25 @@
     display: MNRAS 492, 2481 (2020)  
   highlight: 1  
   news2:    
+
+- title: "Flyby-induced misalignments in planet-hosting discs" 
+  image: dummy.png 
+  description:  
+  authors: Nealon, __Cuello__, and Alexander 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4108N  
+    display: MNRAS 491, 4108 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Flybys in protoplanetary discs - II. Observational signatures" 
+  image: dummy.png 
+  description:  
+  authors: __Cuello__, Louvet, Mentiplay, et al. (incl. __Cuadra__)
+  authorsall: Cuello, Louvet, Mentiplay, Pinte, Price, Winter, Nealon, Ménard, Lodato, Dipierro, Christiaens, Montesinos, Cuadra, Laibe, Cieza, Dong, and Alexander 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..504C  
+    display: MNRAS 491, 504 (2020)  
+  highlight: 0  
+  news2:    
+
