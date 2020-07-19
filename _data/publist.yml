@@ -4,8 +4,8 @@
   authors: Ronco, Schreiber, Giuppone, Veras, Cuadra, and Guilera 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020arXiv200704337R  
-    display: arXiv arXiv:2007.04337 (2020)  
-  highlight: 0  
+    display: ApJL, in press
+  highlight: 1  
   news2:    
 
 - title: "Binary-induced spiral arms inside the disc cavity of AB Aurigae" 
@@ -15,7 +15,7 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2362P  
     display: MNRAS 496, 2362 (2020)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Setting the Stage: Planet Formation and Volatile Delivery" 
