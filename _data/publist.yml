@@ -354,7 +354,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
 
 - title: "Voxel Datacubes for 3D Visualization in Blender" 
   image: 2017PASP..129e8010G.png 
-  description: We show how to use the open-source software Blender as a three-dimensional (3D) visualization tool to study and visualize numerical simulation results, focusing on astrophysical hydrodynamic experiments. This method allows scientists to perform a complementary visual analysis of their data and display their results in an appealing way.
+  description: We show how to use the open-source software Blender as a 3D tool to study and visualize numerical simulation results, focusing on astrophysical hydrodynamic experiments. This method allows scientists to perform a complementary visual analysis of their data and display their results in an appealing way.
   authors: __Gárate__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017PASP..129e8010G  
