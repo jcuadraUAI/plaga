@@ -58,7 +58,7 @@
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.2481W  
     display: MNRAS 492, 2481 (2020)  
   highlight: 1  
-  news2: "UMass Amherst article: [UMass Amherst Astronomer Heading to Chile, the World Capital of Astronomical Observation, on a Fulbright Award](https://www.umass.edu/newsoffice/article/umass-amherst-astronomer-heading-chile)"   
+  news0: "UMass Amherst article: [UMass Amherst Astronomer Heading to Chile, the World Capital of Astronomical Observation, on a Fulbright Award](https://www.umass.edu/newsoffice/article/umass-amherst-astronomer-heading-chile)"   
 
 - title: "Flyby-induced misalignments in planet-hosting discs" 
   image: dummy.png 
@@ -224,7 +224,7 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.5362R  
     display: MNRAS 479, 5362 (2018)  
-  highlight: 1  
+  highlight: 0  
   news2:  "Nota del NPF: [Astrónomos estudian la formación de sistemas planetarios análogos al Sistema Solar](http://www.npf.cl/2018/08/14/astronomos-estudian-la-formacion-de-sistemas-planetarios-analogos-al-sistema-solar/)"
   news1:  "Nota del NPF: [Investigadora del NPF recibe importante premio](http://www.npf.cl/2018/09/07/investigadora-del-npf-recibe-importante-premio/)"
 
