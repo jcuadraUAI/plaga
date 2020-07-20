@@ -279,15 +279,16 @@
   news2:    
 
 - title: "Circumbinary, not transitional: on the spiral arms, cavity, shadows, fast radial flows, streamers, and horseshoe in the HD 142527 disc" 
-  image: dummy.png 
+  image: 2018MNRAS.477.1270P.png 
   description:  
   authors: Price, __Cuello__, Pinte, et al. (incl. __Cuadra__)
   authorsall: Price, Cuello, Pinte, Mentiplay, Casassus, Christiaens, Kennedy, Cuadra, Sebastian Perez, Marino, Armitage, Zurlo, Juhasz, Ragusa, Laibe, and Lodato 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1270P  
     display: MNRAS 477, 1270 (2018)  
-  highlight: 0  
-  news2:    
+  highlight: 1 
+  news2: "Nota del NPF: [Equipo internacional de astrónomos explica la causa de la misteriosa forma de disco alrededor de estrella joven](http://www.npf.cl/2018/03/26/equipo-internacional-de-astronomos-explica-la-causa-de-la-misteriosa-forma-de-disco-alrededor-de-estrella-joven/)"
+  news1: "Monash Press Release: [New computer simulations uncover the cause of mystery cosmic ‘horseshoe’ dust](https://www.monash.edu/science/news/current/new-computer-simulations-uncover-the-cause-of-mystery-cosmic-horseshoe-dust)"
 
 - title: "Planetary-like spirals caused by moving shadows in transition discs" 
   image: dummy.png 
