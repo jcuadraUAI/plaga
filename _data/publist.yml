@@ -358,8 +358,9 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017PASP..129e8010G  
     display: PASP 129, 058010 (2017)  
-  highlight: 0  
-  news2:    
+  highlight: 1  
+  news2:  "Nota de la PUC: [Alumno del Magíster en Astrofísica publica artículo sobre visualización de simulaciones](http://astro.uc.cl/item-3-menu-izquierdo-2/263-alumno-del-magister-en-astrofisica-publica-articulo-sobre-visualizacion-de-simulaciones).  English version: [UC Master student publishes invited paper on visualization of simulations](http://astro.uc.cl/component/content/article/2-uncategorised/267-uc-master-student-publishes-invited-paper-on-visualization-of-simulations)"
+  news1:  "Code available [Blender_Bvoxer](https://github.com/matgarate/Blender_Bvoxer)"
 
 - title: "Satellite infall and mass deposition on the Galactic Centre" 
   image: dummy.png 
