@@ -120,8 +120,8 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2313S  
     display: MNRAS 489, 2313 (2019)  
-  highlight: 0  
-  news2:    
+  highlight: 1  
+  news1: "ScienceNews article: [Moons that escape their planets could become ‘ploonets’](https://www.sciencenews.org/article/moons-escape-their-planets-could-become-ploonets)"    
 
 - title: "Dusty clumps in circumbinary discs" 
   image: 2019MNRAS.489.2204P.png
