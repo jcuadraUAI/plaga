@@ -570,8 +570,9 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.450..277C  
     display: MNRAS 450, 277 (2015)  
-  highlight: 0  
-  news2:    
+  highlight: 1  
+  news2: "NASA press release for the video: [Scientists Take Viewers to the Center of the Milky Way](https://www.nasa.gov/mission_pages/chandra/news/scientists-take-viewers-to-the-center-of-the-milky-way.html)"
+  news1: "360 [video](https://youtu.be/YKzxmeABbkU) from the simulations"
 
 - title: "Protoplanetary Disks Including Radiative Feedback from Accreting Planets" 
   image: dummy.png 
