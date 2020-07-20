@@ -328,8 +328,8 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.472..514G  
     display: MNRAS 472, 514 (2017)  
-  highlight: 0  
-  news2:    
+  highlight: 1  
+  news2:  "Nota de la PUC: [Doctorado del Instituto de Astrofísica publicará artículo sobre la evolución de agujeros negros binarios](http://astro.uc.cl/item-3-menu-izquierdo-2/339-doctorado-del-instituto-de-astrofisica-publicara-articulo-sobre-la-evolucion-de-agujeros-negros-binarios).  English version: [PhD graduate at the Institute of Astrophysics UC publishes article on the evolution of binary black holes](http://astro.uc.cl/component/content/article/2-uncategorised/345-phd-graduate-at-the-institute-of-astrophysics-uc-publishes-article-on-the-evolution-of-binary-black-holes)"  
 
 - title: "Size and density sorting of dust grains in SPH simulations of protoplanetary discs" 
   image: dummy.png 
@@ -445,7 +445,7 @@
 - title: "Resolving the planetesimal belt of HR 8799 with ALMA" 
   image: dummy.png 
   description:  
-  authors: Booth, Jordán, Casassus, Hales, Dent, Faramaz, Matrà, Barkats, Brahm, and __Cuadra__ 
+  authors: Booth, Jordán, Casassus, Hales, Dent, __Faramaz__, Matrà, Barkats, Brahm, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.460L..10B  
     display: MNRAS 460, L10 (2016)  
