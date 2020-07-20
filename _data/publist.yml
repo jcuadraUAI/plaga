@@ -114,14 +114,15 @@
   news2:    
 
 - title: "Ploonets: formation, evolution, and detectability of tidally detached exomoons" 
-  image: dummy.png 
-  description:  
+  image: 2019MNRAS.489.2313S.png 
+  description:  This paper explores the scenario where large regular exomoons escape after tidal interchange of angular momentum with its parent planet, becoming small planets by themselves. We name this hypothetical type of object a ploonet. 
   authors: __Sucerquia__, Alvarado-Montes, Zuluaga, __Cuello__, and Giuppone 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2313S  
     display: MNRAS 489, 2313 (2019)  
   highlight: 1  
-  news1: "ScienceNews article: [Moons that escape their planets could become ‘ploonets’](https://www.sciencenews.org/article/moons-escape-their-planets-could-become-ploonets)"    
+  news1: "Science News article: [Moons that escape their planets could become ‘ploonets’](https://www.sciencenews.org/article/moons-escape-their-planets-could-become-ploonets)"
+  news2: "Nota de la UdeA: [Plunetas, lunas migrantes](http://www.udea.edu.co/wps/portal/udea/web/inicio/udea-noticias/udea-noticia/!ut/p/z0/fUw9C8IwFPwrLh3lxVqjjsVBEAcHkTaLPNqgT5O8NknFn2-qg7i43Bd3BwoqUA4fdMFI7NAkXyt5Xq03-awsxF7IQopSHorFMt_OjycBO1D_C-mBbn2vSlANu6ifEaqOfUQztBozgeHXXdnqjx5x4jhSQxgy8V47anlsfeNOe-KWGkZj0WLUPmVmcDpimCZOaOniMY0DdHdVvwCLxP5v/)"
 
 - title: "Dusty clumps in circumbinary discs" 
   image: 2019MNRAS.489.2204P.png
