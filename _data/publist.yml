@@ -100,7 +100,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
     url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...2C  
     display: ApJL 888, L2 (2020)  
   highlight: 1  
-  news2: "Articulo en La Tercera: [Astrónomos chilenos prueban que existe un disco de gas en torno al agujero negro en el centro de nuestra galaxia](https://www.latercera.com/que-pasa/noticia/astronomos-disco-gas/1007208/)"
+  news2: "Artículo en La Tercera: [Astrónomos chilenos prueban que existe un disco de gas en torno al agujero negro en el centro de nuestra galaxia](https://www.latercera.com/que-pasa/noticia/astronomos-disco-gas/1007208/)"
   news1: "Research highlight feature in Nature Astronomy: [Feeding frenzy has faded](https://rdcu.be/b1bAz)"
 
 - title: "Signatures of an eccentric disc cavity: Dust and gas in IRS 48" 
@@ -402,7 +402,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
     display: MNRAS 464, 4958 (2017)  
   highlight: 1  
   news2: "NASA press release '[Galactic Center Visualization Delivers Star Power
-](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html)' on our [360 video](https://youtu.be/wBxW2_B9_Is) based on this analysis."
+](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html)' on our [360° video](https://youtu.be/wBxW2_B9_Is) based on this analysis."
   news1: "NASA press release '[A New Galactic Center Adventure in Virtual Reality](https://www.nasa.gov/mission_pages/chandra/news/a-new-galactic-center-adventure-in-virtual-reality.html)' on our [Galactic Center VR app](https://store.steampowered.com/app/1240350/Galactic_Center_VR/) developed from this work." 
   
 
@@ -576,7 +576,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
     display: MNRAS 450, 277 (2015)  
   highlight: 1  
   news2: "NASA press release for the video: [Scientists Take Viewers to the Center of the Milky Way](https://www.nasa.gov/mission_pages/chandra/news/scientists-take-viewers-to-the-center-of-the-milky-way.html)"
-  news1: "360 [video](https://youtu.be/YKzxmeABbkU) from the simulations"
+  news1: "360° [video](https://youtu.be/YKzxmeABbkU) from the simulations"
 
 - title: "Protoplanetary Disks Including Radiative Feedback from Accreting Planets" 
   image: dummy.png 
