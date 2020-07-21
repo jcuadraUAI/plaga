@@ -12,6 +12,7 @@
 
 - name: Luciano del Valle
   photo: luciano.jpg
+  number_roles: 1
   role1: Postdoctoral researcher
   aff1: PUC
   webpage: 
@@ -21,6 +22,7 @@
 
 - name: Octavio Guilera
   photo: octavio.jpg
+  number_roles: 1
   role1: Adjunct researcher
   aff1: CONICET, UNLP & PUC
   webpage: http://gap.fcaglp.unlp.edu.ar/oguilera.html
@@ -30,6 +32,7 @@
 
 - name: Maria Paula Ronco
   photo: paula.jpg
+  number_roles: 1
   role1: Postdoctoral researcher
   aff1: PUC
   webpage: 
