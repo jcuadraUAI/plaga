@@ -1,13 +1,9 @@
 - name: Diego Calderón
+  haswww: 1
+  webpage: http://utf.mff.cuni.cz/~dcalderon/index.html
   photo: diego.jpg
   duration: MSc 2015, PhD 2019
-  info: Now a postdoc in Prague
-  email: verdoes@fmd.physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
+  info: Now a postdoc at Charles University, Prague
 
 - name: Irene Battisti
   photo: irene.jpg

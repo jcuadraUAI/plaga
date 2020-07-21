@@ -102,8 +102,14 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  {% if member.haswww == 1 %}
+ <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
+  {% endif %}
+  {% if member.haswww == 0 %}
+ <h4>{{ member.name }}</h4>
+  {% endif %}
   <i>{{ member.duration }} <br></i>
+  {{ member.info }}
   <ul style="overflow: hidden">
 
   </ul>
