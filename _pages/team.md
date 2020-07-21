@@ -26,6 +26,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
  <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
  <{{ member.email }}><br>
  <i>{{ member.role }},&nbsp;{{ member.aff }}<br>
+ {{ member.role1 }},&nbsp;{{ member.aff1 }}<br>
   {{ member.education }}</i><br>
   {{member.area}}
 </div>
