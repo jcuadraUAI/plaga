@@ -3,38 +3,45 @@
   webpage: http://utf.mff.cuni.cz/~dcalderon/index.html
   photo: diego.jpg
   duration: MSc 2015, PhD 2019
-  info: Now a postdoc at Charles University, Prague
+  info: Now postdoc at Charles University, Prague
+
+- name: Xian Chen
+  haswww: 1
+  webpage: http://kiaa.pku.edu.cn/info/1011/2663.htm
+  photo: xian.jpg
+  duration: Postdoc 2015-2016
+  info: Now professor at KIAA and the Dept of Astronomy of Peking University
 
 - name: Nicolás Cuello
   haswww: 1
   webpage: https://cuellonicolas.wixsite.com/astrophysics
   photo: nicolas.jpg
   duration: Postdoc 2016-2020
-  info: Now a Marie-Curie fellow at IPAG – Grenoble 
+  info: Now Marie-Curie fellow at IPAG – Grenoble 
 
 - name: Virginie Faramaz
   haswww: 1
   webpage: https://science.jpl.nasa.gov/people/Faramaz/
   photo: virginie.jpg
   duration: Postdoc 2014-17
-  info: Now a postdoc at JPL's Exoplanet Discovery Group
+  info: Now postdoc at JPL's Exoplanet Discovery Group
 
 - name: Matías Montesinos
   photo: matiasM.jpg
   haswww: 0
   duration: Postdoc 2011-14; 2017
-  info: Now a postdoc at Universidad de Valparaíso
+  info: Now postdoc at Universidad de Valparaíso
 
 - name: Pedro Poblete
   haswww: 0
   photo: pedro.jpg
   duration: BSc 2017, MSc 2019
-  info: Now a PhD student at Jena University
+  info: Now PhD student at Jena University
 
 - name: Christopher Russell
   haswww: 1
   webpage: https://astro.puc.cl/~crussell/
   photo: chris.jpg
   duration: Postdoc 2017-2020
-  info: Now a postdoc at NASA-Goddard and CUA 
+  info: Now postdoc at NASA-Goddard and CUA 
 
