@@ -1,8 +1,6 @@
 - name: Jorge Cuadra
   photo: jorge.jpg
-  number_roles: 2
-  role: Associate professor
-  aff: UAI
+  role: Associate professor, UAI
   webpage: http://www.astro.puc.cl/~jcuadra
   email: jcuadra@npf.cl
   education: PhD, [MPA Garching](http://www.mpa-garching.mpg.de)
@@ -10,9 +8,7 @@
 
 - name: Luciano del Valle
   photo: luciano.jpg
-  number_roles: 1
-  role: Postdoctoral researcher
-  aff: PUC
+  role: Postdoctoral researcher, PUC
   webpage: 
   email: ldelvalleb@astro.puc.cl
   education: PhD, Univ de Chile
@@ -20,9 +16,7 @@
 
 - name: Octavio Guilera
   photo: octavio.jpg
-  number_roles: 1
-  role: Adjunct researcher
-  aff: CONICET, UNLP & PUC
+  role: Adjunct researcher, CONICET, UNLP & PUC
   webpage: http://gap.fcaglp.unlp.edu.ar/oguilera.html
   email: oguilera@fcaglp.unlp.edu.ar
   education: PhD, Univ Nac La Plata
@@ -30,9 +24,7 @@
 
 - name: Maria Paula Ronco
   photo: paula.jpg
-  number_roles: 1
-  role: Postdoctoral researcher
-  aff: PUC
+  role: Postdoctoral researcher, PUC
   webpage: 
   email: pronco@npf.cl 
   education: PhD, Univ Nac La Plata
