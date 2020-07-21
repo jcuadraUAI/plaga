@@ -24,7 +24,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
  <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
- email: <{{ member.email }}><br>
+ <{{ member.email }}><br>
  <i>{{ member.info }},&nbsp;{{ member.aff }}<br>
   {{ member.education }}</i><br>
   {{member.area}}
