@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 
-Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [alumni](#alumni).
 
 ## Faculty and Postdocs
 {% assign number_printed = 0 %}
@@ -128,7 +128,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former visitors, part-time or Summer students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
