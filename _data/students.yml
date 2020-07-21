@@ -1,16 +1,13 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
 - name: Camilo Fontecilla
   photo: camilo.jpg
   role: PhD student, PUC
   haswww: 0
   email: cjfontec@uc.cl
   area: Black holes and circumbinary discs
+
+- name: Camila Órdenes
+  photo: camila.jpg
+  role: PhD student, PUC
+  haswww: 0
+  email: cordenes(at)astro.puc.cl
+  area: Galactic Centre 3D distribution
