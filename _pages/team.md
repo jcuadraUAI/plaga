@@ -25,9 +25,18 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
  <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
  <{{ member.email }}><br>
- <i>{{ member.role }},&nbsp;{{ member.aff }}<br>
- {{ member.role1 }},&nbsp;{{ member.aff1 }}<br>
-  {{ member.education }}</i><br>
+ <i>
+	{% if member.number_roles == 1 %}
+   	   {{ member.role1 }},&nbsp;{{ member.aff1 }}<br>	
+  	{% endif %}
+
+	{% if member.number_roles == 1 %}
+   	   {{ member.role1 }},&nbsp;{{ member.aff1 }}<br>
+   	   {{ member.role2 }},&nbsp;{{ member.aff2 }}<br>		   
+	{% endif %}
+
+  {{ member.education }}
+ </i><br>
   {{member.area}}
 </div>
 
