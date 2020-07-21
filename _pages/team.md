@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 
-Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Faculty and Postdocs
 {% assign number_printed = 0 %}
@@ -51,7 +51,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
 
 
 
-## Master and Bachelor Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -62,33 +62,17 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.role }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.haswww == 1 %}
+ <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
   {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  {% if member.haswww == 0 %}
+ <h4>{{ member.name }}</h4>
   {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
+<{{ member.email }}> <br>
+ <i>{{ member.role }}</i><br>	
+ <i> {{ member.education }}</i><br>
+  {{member.area}}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
