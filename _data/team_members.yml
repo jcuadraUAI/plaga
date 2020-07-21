@@ -1,6 +1,7 @@
 - name: Jorge Cuadra
   photo: jorge.jpg
-  role: Associate professor
+  role: Associate line\
+  	break professor
   aff: UAI
   role1: Associate researcher
   aff1: NPF
