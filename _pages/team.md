@@ -24,12 +24,10 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
  <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
-  <i>{{ member.info }},&nbsp;{{ member.aff }}<br>
+ email: <{{ member.email }}
+ <i>{{ member.info }},&nbsp;{{ member.aff }}<br>
   {{ member.education }}</i><br>
   {{member.area}}
-  <script type="text/javascript">
-    document.write("<n uers=\"{{ member.mailto }}\" bapyvpx=\"_tnd\056chfu(['_genpxRirag', 'yvaxGb', 'rznvy', guvf\056uers]);\"><v pynff=\"sn sn-rairybcr\"><\057v><fcna pynff=\"yvax-grkg\">{{ member.email }}<\057fcna><\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-  </script>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
