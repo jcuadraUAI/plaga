@@ -10,6 +10,7 @@
 
 - name: Camilo Fontecilla
   photo: camilo.jpg
-  info: PhD student, PUC
-  email: rosanne.wijgman@student.ru.nl
+  role: PhD student, PUC
+  haswww: 0
+  email: cjfontec@uc.cl
   area: Black holes and circumbinary discs
