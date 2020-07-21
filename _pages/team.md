@@ -30,7 +30,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
    	   {{ member.role1 }},&nbsp;{{ member.aff1 }}<br>	
   	{% endif %}
 
-	{% if member.number_roles == 1 %}
+	{% if member.number_roles == 2 %}
    	   {{ member.role1 }},&nbsp;{{ member.aff1 }}<br>
    	   {{ member.role2 }},&nbsp;{{ member.aff2 }}<br>		   
 	{% endif %}
