@@ -23,9 +23,13 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.haswww == 1 %}
  <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
- <{{ member.email }}> <br>
- [www]({{ member.webpage }})
+  {% endif %}
+  {% if member.haswww == 0 %}
+ <h4>{{ member.name }}</h4>
+  {% endif %}
+<{{ member.email }}> <br>
  <i>{{ member.role }}</i><br>	
  <i> {{ member.education }}</i><br>
   {{member.area}}
