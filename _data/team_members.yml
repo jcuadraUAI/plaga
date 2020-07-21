@@ -1,8 +1,9 @@
 - name: Jorge Cuadra
   photo: jorge.jpg
-  info: Associate professor
+  role: Associate professor
   aff: UAI
   webpage: http://www.astro.puc.cl/~jcuadra
-  email: jorge.cuadra(at)uai.cl
+  email: jorge.cuadra@uai.cl
   education: PhD, [MPA Garching](http://www.mpa-garching.mpg.de)
   area: Galactic Centre - Protoplanetary discs - Supermassive black hole binaries
+

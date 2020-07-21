@@ -25,7 +25,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
  <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
  <{{ member.email }}><br>
- <i>{{ member.info }},&nbsp;{{ member.aff }}<br>
+ <i>{{ member.role }},&nbsp;{{ member.aff }}<br>
   {{ member.education }}</i><br>
   {{member.area}}
 </div>
@@ -58,7 +58,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.role }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -114,7 +114,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [master and bachelor stud
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> Role: {{ member.role }}</i>
   <ul style="overflow: hidden">
 
   </ul>
