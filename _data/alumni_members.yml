@@ -12,6 +12,17 @@
   duration: Postdoc 2016-2020
   info: Now a Marie-Curie fellow at IPAG – Grenoble 
 
+- name: Virginie Faramaz
+  haswww: 1
+  webpage: https://science.jpl.nasa.gov/people/Faramaz/
+  photo: virginie.jpg
+  duration: Postdoc 2014-17
+  info: Now a postdoc at Charles University, Prague
+
+- name: Matías Montesinos
+  photo: nicolas.jpg
+  duration: Postdoc 2011-14; 2017
+  info: Now a postdoc at Universidad de Valparaíso
 
 - name: Pedro Poblete
   haswww: 0
@@ -19,35 +30,10 @@
   duration: BSc 2017, MSc 2019
   info: Now a PhD student at Jena University
 
+- name: Christopher Russell
+  haswww: 1
+  webpage: https://astro.puc.cl/~crussell/
+  photo: chris.jpg
+  duration: Postdoc 2017-2020
+  info: Now a postdoc at NASA-Goddard and CUA 
 
-- name: Irene Battisti
-  photo: irene.jpg
-  info: PhD student
-  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University!
-
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc
-  duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
-  email: cho@physics.leidenuniv.nl
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  duration: In the Allan Lab December 2015 to February 2020, now assistant professor at Yonsei University
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
