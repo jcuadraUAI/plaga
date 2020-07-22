@@ -62,8 +62,8 @@ formation, and other accreting systems (see [Publications](publications)).
 </div>
 
 
-Our work on formation and evolution of planetary systems is carried
-out as part of the [Millennium Nucleus on Planet Formation
+Our work on formation and evolution of planetary systems is performed
+as part of the [Millennium Nucleus on Planet Formation
 (NPF)](http://www.npf.cl), funded by the [Iniciativa Científica
 Milenio](http://www.iniciativamilenio.cl/).
 
@@ -74,8 +74,8 @@ collaboration with [MPE's Infrared/Submillimeter Astronomy
 group](http://www.mpe.mpg.de/ir/), funded by the [Max Planck
 Society](https://www.mpg.de/).
 
-Our group at PUC is part of the [Dust and gas in planet forming discs
-— DUSTBUSTERS](https://dustbusters.fisica.unimi.it/) MSCA-RISE network,
+Our group at PUC is part of the "[Dust and gas in planet forming discs
+— DUSTBUSTERS](https://dustbusters.fisica.unimi.it/)" MSCA-RISE network,
 funded by the European Commission.
 
 We are also grateful for funding from different [ANID](http://www.anid.cl)
