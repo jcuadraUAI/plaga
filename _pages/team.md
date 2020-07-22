@@ -129,6 +129,8 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 {% endif %}
 
 ## Former visitors, part-time or Summer students
+(not including students who later did their thesis with us)
+
 <div class="row">
 
 <div class="col-sm-4 clearfix">
