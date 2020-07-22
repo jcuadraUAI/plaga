@@ -80,7 +80,7 @@ funded by the European Commission.
 
 We are also grateful for funding from different [ANID](http://www.anid.cl)
 and [PUC](http://www.puc.cl) programmes.
-
+<br>
 
 
 <figure class="fourth">
