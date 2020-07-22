@@ -1,13 +1,13 @@
 ---
-title: "Allan Lab - Pictures"
+title: "PLAGA - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "PLAGA Group -- Pictures"
 permalink: /pictures/
 ---
 
 # Pictures
 
-#### Gallery
+## Gallery (under construction)
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
