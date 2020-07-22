@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-Coming Soon!
+# Coming Soon!
 
 
 <figure>
