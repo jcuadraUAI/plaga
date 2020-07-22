@@ -80,9 +80,10 @@ funded by the European Commission.
 
 We are also grateful for funding from different [ANID](http://www.anid.cl)
 and [PUC](http://www.puc.cl) programmes.
-<br>
 
-<P>
+<P>&nbsp;</P>
+
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UAI.png" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UA_PhA.jpg" style="height: 80px">
@@ -95,4 +96,3 @@ and [PUC](http://www.puc.cl) programmes.
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.png" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANID.png" style="height: 80px">	
 </figure>
-</P>
