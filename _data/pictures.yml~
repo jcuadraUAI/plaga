@@ -20,5 +20,7 @@
   image: group.jpg
 - title: original.jpg 
   image: original.jpg
+- title: pictures.yml 
+  image: pictures.yml
 - title: plaga_cena_nov2018.jpeg 
   image: plaga_cena_nov2018.jpeg
