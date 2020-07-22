@@ -11,7 +11,7 @@ Ibáñez](https://www.uai.cl/) in Viña del Mar, but with most members
 based at [PUC's Institute for Astrophysics](http://www.astro.puc.cl/)
 in Santiago, Chile.  We work on different topics in Astrophysics, with
 a focus on numerical simulations of the Galactic Centre, planet
-formation, and other accreting systems (see [Research](research)).
+formation, and other accreting systems (see [Publications](publications)).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
