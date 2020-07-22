@@ -10,5 +10,5 @@ permalink: /vacancies
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/group.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group.jpg" width="85%">
 </figure>
