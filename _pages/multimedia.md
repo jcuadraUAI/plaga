@@ -33,6 +33,8 @@ with an additional outburst from Sgr A*.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBxW2_B9_Is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 This newer version displays both the cold (in red and yellow) and the
 hot, X-ray emitting gas (in blue and cyan).
+[Read more...](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html)
+
 
 <P>&nbsp;</P>
 
