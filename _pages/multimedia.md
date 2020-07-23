@@ -36,7 +36,7 @@ hot, X-ray emitting gas (in blue and cyan).
 [Read more...](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html)
 
 
-<P>&nbsp;</P>
+## Galactic Center VR
 
-
+Download ... 
 
