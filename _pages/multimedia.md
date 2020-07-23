@@ -10,14 +10,18 @@ permalink: /multimedia/
 
 ##  360 videos
 
+MEJOR PONER EMBEDDED TRAILER PRIMERO Y SOLO LINKS A VIDEOS 360
+
+
+
 Our 360° videos from Galactic Centre simulations put you at the
 position of Sgr A*, the super-massive black hole, from where you can
 look in any direction.  The animations show unprecedented views of
 stars orbiting you, the viewer, their winds colliding from an
 uncluttered vantage point, and clumps of material tidally stretching
 as they inspiral around you.  These videos are best viewed with VR
-goggles; otherwise a handheld smartphone or tablet allows you to
-observe in any direction.
+goggles; otherwise the YouTube app on a handheld smartphone or tablet
+allows you to observe in any direction.
 
 <P>&nbsp;</P>
 
