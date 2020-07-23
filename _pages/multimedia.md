@@ -22,18 +22,19 @@ observe in any direction.
 <P>&nbsp;</P>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YKzxmeABbkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-This version displays the gas density in red and yellow.  Two
+This version displays the cold gas in red and yellow.  Two
 simulations are shown: the first with stellar winds only, the second
 with an additional outburst from Sgr A*.
+[Read more...](https://www.nasa.gov/mission_pages/chandra/news/scientists-take-viewers-to-the-center-of-the-milky-way.html)
+[En español...](http://astro.uc.cl/item-3-menu-izquierdo-2/385-investigador-uc-presenta-video-en-360-grados-del-centro-de-la-via-lactea)
+
+<P>&nbsp;</P>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wBxW2_B9_Is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This newer version displays both the cold (in red and yellow) and the
+hot, X-ray emitting gas (in blue and cyan).
 
 <P>&nbsp;</P>
 
 
-
-
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
 
