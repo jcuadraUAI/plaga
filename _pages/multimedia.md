@@ -68,6 +68,7 @@ stellar wind at a time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMJgH_NvLLE" frameborder="0" allowfullscreen></iframe>
 
+<P>&nbsp;</P>
   Podcast: <a href="http://www.astroblog.cl/episodio145/" target="_blank">
     Qué pasa cuando chocan Agujeros Negros Supermasivos [astroblog Ep.145]</a>
     <audio class="wp-audio-shortcode" id="audio-1617-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/astroetal/Ep145.mp3?_=1" /><a href="http://traffic.libsyn.com/astroetal/Ep145.mp3">http://traffic.libsyn.com/astroetal/Ep145.mp3</a></audio>
