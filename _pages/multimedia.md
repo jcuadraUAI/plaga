@@ -19,10 +19,14 @@ as they inspiral around you.  These videos are best viewed with VR
 goggles; otherwise a handheld smartphone or tablet allows you to
 observe in any direction.
 
+<P>&nbsp;</P>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YKzxmeABbkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 This version displays the gas density in red and yellow.  Two
 simulations are shown: the first with stellar winds only, the second
 with an additional outburst from Sgr A*.
+
+<P>&nbsp;</P>
 
 
 
