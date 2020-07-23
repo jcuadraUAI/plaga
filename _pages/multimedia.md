@@ -31,10 +31,19 @@ outburst from Sgr A*.
 [This newer version](https://youtu.be/wBxW2_B9_Is)
 displays both the cold (in red and yellow) and the
 hot, X-ray emitting gas (in blue and cyan).
-[Read more...](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html)
+([Read more...](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html))
 
 
 ## Galactic Center VR
 
-Download ... 
+{% include youtubePlayer.html id="wAbiFvT1IeM" %}
+
+The Galactic Center VR application allows you fly around the
+few-light-year region around Sagittarius A*, seeing the orbiting
+stars, their stellar winds, and the X-rays they emit. Or scale down
+the simulation so everything fits within your VR play area, allowing
+you to walk around the center of our galaxy. View the whole simulation
+in stellar winds only, X-rays only, or both, as well as check out the
+contribution from just one stellar wind at a time.
+
 
