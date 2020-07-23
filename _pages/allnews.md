@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "PLAGA - News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "PLAGA Group - News"
 sitemap: false
 permalink: /allnews.html
 ---
