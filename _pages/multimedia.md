@@ -38,12 +38,15 @@ hot, X-ray emitting gas (in blue and cyan).
 
 {% include youtubePlayer.html id="wAbiFvT1IeM" %}
 
-The Galactic Center VR application allows you fly around the
-few-light-year region around Sagittarius A*, seeing the orbiting
-stars, their stellar winds, and the X-rays they emit. Or scale down
-the simulation so everything fits within your VR play area, allowing
-you to walk around the center of our galaxy. View the whole simulation
-in stellar winds only, X-rays only, or both, as well as check out the
-contribution from just one stellar wind at a time.
-
+The [Galactic Center VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
+application allows you fly around the few-light-year region around
+Sagittarius A*, seeing the orbiting stars, their stellar winds, and
+the X-rays they emit. Or scale down the simulation so everything fits
+within your VR play area, allowing you to walk around the center of
+our galaxy. View the whole simulation in stellar winds only, X-rays
+only, or both, as well as check out the contribution from just one
+stellar wind at a time.
+([Download for HTC Vive!](https://store.steampowered.com/app/1240350/Galactic_Center_VR/))
+([Read more...](https://www.nasa.gov/mission_pages/chandra/news/a-new-galactic-center-adventure-in-virtual-reality.html))
+([En español...](http://astro.uc.cl/item-3-menu-izquierdo-2/550-viaja-alrededor-del-agujero-negro-central-de-nuestra-galaxia))
 
