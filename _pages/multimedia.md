@@ -11,7 +11,9 @@ permalink: /multimedia/
 ##  360 videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HELhXDG-Mck" frameborder="0" allowfullscreen></iframe>
-<!-- {% include youtubePlayer.html id="wAbiFvT1IeM" %} -->
+<!--
+	{% include youtubePlayer.html id="wAbiFvT1IeM" %}
+-->
 
 Our 360° videos from Galactic Centre simulations put you at the
 position of Sgr A*, the super-massive black hole, from where you can
@@ -38,7 +40,9 @@ hot, X-ray emitting gas (in blue and cyan).
 ## Galactic Center VR
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAbiFvT1IeM" frameborder="0" allowfullscreen></iframe>
-<!-- {% include youtubePlayer.html id="wAbiFvT1IeM" %} -->
+<!--
+	{% include youtubePlayer.html id="wAbiFvT1IeM" %}
+-->
 
 
 The [Galactic Center VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
