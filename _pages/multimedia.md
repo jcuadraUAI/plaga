@@ -50,3 +50,20 @@ stellar wind at a time.
 ([Read more...](https://www.nasa.gov/mission_pages/chandra/news/a-new-galactic-center-adventure-in-virtual-reality.html))
 ([En español...](http://astro.uc.cl/item-3-menu-izquierdo-2/550-viaja-alrededor-del-agujero-negro-central-de-nuestra-galaxia))
 
+
+## Charlas en español
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XAyLUxC0vxU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wKDb2U7fGb4" frameborder="0" allowfullscreen></iframe>
+
+
+## Entrevistas en español
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tuYIYfnNTrs" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NkOKDfeGYo" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMJgH_NvLLE" frameborder="0" allowfullscreen></iframe>
+
+
