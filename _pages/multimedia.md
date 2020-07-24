@@ -8,7 +8,7 @@ permalink: /multimedia/
 
 # Multimedia material
 
-Jump to [360° videos](#360°-videos), [Galactic Center VR](Galactic-Center-VR), [charlas en español](charlas-en-español), [entrevistas en español](entrevistas-en-español), [presentations in english](presentations-in-english), 
+Jump to [360° videos](#360°-videos), [Galactic Center VR](#Galactic-Center-VR), [charlas en español](#charlas-en-español), [entrevistas en español](#entrevistas-en-español), [presentations in english](#presentations-in-english), 
 
 
 
