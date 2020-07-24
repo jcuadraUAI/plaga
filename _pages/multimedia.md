@@ -92,5 +92,8 @@ stellar wind at a time.
 
 ## Blog posts
 
-[Columnas de J Cuadra](https://www.emol.com/especiales/2016/tecnologia/columna-astronomia/columnas.asp#!17) en la serie "Tendencias de la Astronomía" de emol.com
+* [Columnas de J Cuadra](https://www.emol.com/especiales/2016/tecnologia/columna-astronomia/columnas.asp#!17) en la serie "Tendencias de la Astronomía" de emol.com
 
+* [Columnas del NPF](http://www.npf.cl/columnas/), algunas de ellas escritas por miembros de nuestro grupo
+
+* [Traveling to Our Galactic Center Through Virtual Reality](https://chandra.harvard.edu/blog/node/755), invited post by C Russell on Chandra's blog
