@@ -97,3 +97,5 @@ stellar wind at a time.
 * [Columnas del NPF](http://www.npf.cl/columnas/), algunas de ellas escritas por miembros de nuestro grupo
 
 * [Traveling to Our Galactic Center Through Virtual Reality](https://chandra.harvard.edu/blog/node/755), invited post by C Russell on Chandra's blog
+
+<P>&nbsp;</P>
