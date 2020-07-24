@@ -57,8 +57,6 @@ stellar wind at a time.
 
 ## Charlas en español
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XAyLUxC0vxU" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wKDb2U7fGb4" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRmjxQ9v01Y" frameborder="0" allowfullscreen></iframe>
