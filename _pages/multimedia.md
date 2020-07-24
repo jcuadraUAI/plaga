@@ -8,7 +8,7 @@ permalink: /multimedia/
 
 # Multimedia material
 
-Jump to [360° videos](#360-videos), [Galactic Center VR](#galactic-center-vr), [charlas en español](#charlas-en-español), [entrevistas en español](#entrevistas-en-español), [presentations in english](#presentations-in-english), [other videos](#other-videos), [blog posts](#blog-posts)
+Jump to [360° videos](#360-videos), [Galactic Center VR](#galactic-center-vr), [charlas en español](#charlas-en-español), [entrevistas en español](#entrevistas-en-español), [presentations in english](#presentations-in-english), [more videos](#more-videos), [blog posts](#blog-posts)
 
 
 
@@ -83,7 +83,7 @@ stellar wind at a time.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sd4_nfDuzmE" frameborder="0" allowfullscreen></iframe>
 
 
-## Other videos
+## More videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpTUpGYKtzEox7IJrDk15yuJxo45ycUmW" frameborder="0" allowfullscreen></iframe>
 
