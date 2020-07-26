@@ -26,12 +26,11 @@ lentes de realidad virtual; de lo contrario, la aplicación de YouTube
 en un teléfono inteligente o tablet te permite observar en cualquier
 dirección.
 
-[This version](https://youtu.be/YKzxmeABbkU)
-displays the cold gas in red and yellow.  Two simulations are shown:
-the first with stellar winds only, the second with an additional
-outburst from Sgr A*.
-([Read more...](https://www.nasa.gov/mission_pages/chandra/news/scientists-take-viewers-to-the-center-of-the-milky-way.html))
-([En español...](http://astro.uc.cl/item-3-menu-izquierdo-2/385-investigador-uc-presenta-video-en-360-grados-del-centro-de-la-via-lactea))
+[Esta versión](https://youtu.be/YKzxmeABbkU)
+muestra el gas frío en rojo y amarillo. Se muestran dos simulaciones:
+la primera con vientos estelares solamente, la segunda además con
+expulsión de material desde Sgr A*.
+([Leer más...](http://astro.uc.cl/item-3-menu-izquierdo-2/385-investigador-uc-presenta-video-en-360-grados-del-centro-de-la-via-lactea))
 
 [This newer version](https://youtu.be/wBxW2_B9_Is)
 displays both the cold (in red and yellow) and the
