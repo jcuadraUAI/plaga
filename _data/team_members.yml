@@ -5,7 +5,16 @@
   webpage: http://www.astro.puc.cl/~jcuadra
   email: jcuadra@npf.cl
   education: PhD, MPA Garching
-  area: Numerical Astrophysics - Accreting systems
+  area: Galactic Centre - Protoplanetary and circumbinary discs
+
+- name: Francisco Castillo
+  photo: francisco.jpg
+  role: Postdoctoral researcher, PUC
+  haswww: 0
+  email: fcastill@astro.puc.cl
+  education: PhD, Univ de Chile
+  area: Neutron star magnetic fields
+  
 
 - name: Luciano del Valle
   photo: luciano.jpg
