@@ -32,10 +32,10 @@ la primera con vientos estelares solamente, la segunda además con
 expulsión de material desde Sgr A*.
 ([Leer más...](http://astro.uc.cl/item-3-menu-izquierdo-2/385-investigador-uc-presenta-video-en-360-grados-del-centro-de-la-via-lactea))
 
-[This newer version](https://youtu.be/wBxW2_B9_Is)
-displays both the cold (in red and yellow) and the
-hot, X-ray emitting gas (in blue and cyan).
-([Read more...](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html))
+[Esta nueva versión](https://youtu.be/wBxW2_B9_Is)
+ muestra tanto el gas frío (en rojo y amarillo) como el caliente, que
+ emite rayos X (en azul y cian).
+
 
 
 ## Centro Galáctico VR
