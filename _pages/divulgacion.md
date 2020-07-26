@@ -1,9 +1,9 @@
 ---
-title: "PLAGA - Multimedia"
+title: "PLAGA - Divulgación"
 layout: textlay
-excerpt: "PLAGA group - Multimedia"
+excerpt: "PLAGA group - Divulgación"
 sitemap: false
-permalink: /multimedia/
+permalink: /divulgacion/
 ---
 
 # Multimedia material
