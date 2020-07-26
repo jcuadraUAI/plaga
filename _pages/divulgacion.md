@@ -8,7 +8,7 @@ permalink: /divulgacion/
 
 # Material de divulgación
 
-Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galactico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [más videos](#mas-videos), [columnas](#columnas), [material in English](/../outreach)
+Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galáctico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [más videos](#más-videos), [columnas](#columnas), [material in English](/../outreach)
 
 
 
