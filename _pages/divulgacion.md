@@ -42,17 +42,14 @@ expulsión de material desde Sgr A*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BnQealT-Mts" frameborder="0" allowfullscreen></iframe>
 
-The [Galactic Center VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
-application allows you fly around the few-light-year region around
-Sagittarius A*, seeing the orbiting stars, their stellar winds, and
-the X-rays they emit. Or scale down the simulation so everything fits
-within your VR play area, allowing you to walk around the center of
-our galaxy. View the whole simulation in stellar winds only, X-rays
-only, or both, as well as check out the contribution from just one
-stellar wind at a time.
-([Download for HTC Vive!](https://store.steampowered.com/app/1240350/Galactic_Center_VR/))
-([Read more...](https://www.nasa.gov/mission_pages/chandra/news/a-new-galactic-center-adventure-in-virtual-reality.html))
-([En español...](http://astro.uc.cl/item-3-menu-izquierdo-2/550-viaja-alrededor-del-agujero-negro-central-de-nuestra-galaxia))
+
+La aplicación [Centro Galáctico VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
+permite volar alrededor de Sagitario A*, ver las estrellas que le
+orbitan, sus vientos estelares y los rayos X que emiten. Se pueden ver
+sólo los vientos estelares, sólo los rayos X, o ambos juntos, así como
+vea la contribución de un viento estelar a la vez.
+([Bajar para HTC Vive...](https://store.steampowered.com/app/1240350/Galactic_Center_VR/))
+([Leer más...](http://astro.uc.cl/item-3-menu-izquierdo-2/550-viaja-alrededor-del-agujero-negro-central-de-nuestra-galaxia))
 
 
 ## Charlas
