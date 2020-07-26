@@ -6,13 +6,13 @@ sitemap: false
 permalink: /divulgacion/
 ---
 
-# Multimedia material
+# Material de divulgación
 
-Jump to [360° videos](#360-videos), [Galactic Center VR](#galactic-center-vr), [charlas en español](#charlas-en-español), [entrevistas en español](#entrevistas-en-español), [presentations in english](#presentations-in-english), [more videos](#more-videos), [blog posts](#blog-posts)
+Ir a [videos 360°](#videos-360), [Galactic Center VR](#galactic-center-vr), [charlas en español](#charlas-en-español), [entrevistas en español](#entrevistas-en-español), [presentations in english](#presentations-in-english), [more videos](#more-videos), [blog posts](#blog-posts)
 
 
 
-## 360 videos
+## Videos 360 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HELhXDG-Mck" frameborder="0" allowfullscreen></iframe>
 
