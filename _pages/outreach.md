@@ -8,7 +8,7 @@ permalink: /outreach/
 
 # Multimedia material
 
-Jump to [360° videos](#360-videos), [Galactic Center VR](#galactic-center-vr), [charlas en español](#charlas-en-español), [entrevistas en español](#entrevistas-en-español), [presentations in english](#presentations-in-english), [more videos](#more-videos), [blog posts](#blog-posts)
+Jump to [360° videos](#360-videos), [Galactic Center VR](#galactic-center-vr), [online presentations](#online-presentations), [more videos](#more-videos), [blog posts](#blog-posts), [material en español](divulgacion)
 
 
 
@@ -30,7 +30,7 @@ displays the cold gas in red and yellow.  Two simulations are shown:
 the first with stellar winds only, the second with an additional
 outburst from Sgr A*.
 ([Read more...](https://www.nasa.gov/mission_pages/chandra/news/scientists-take-viewers-to-the-center-of-the-milky-way.html))
-([En español...](http://astro.uc.cl/item-3-menu-izquierdo-2/385-investigador-uc-presenta-video-en-360-grados-del-centro-de-la-via-lactea))
+
 
 [This newer version](https://youtu.be/wBxW2_B9_Is)
 displays both the cold (in red and yellow) and the
@@ -52,31 +52,10 @@ only, or both, as well as check out the contribution from just one
 stellar wind at a time.
 ([Download for HTC Vive!](https://store.steampowered.com/app/1240350/Galactic_Center_VR/))
 ([Read more...](https://www.nasa.gov/mission_pages/chandra/news/a-new-galactic-center-adventure-in-virtual-reality.html))
-([En español...](http://astro.uc.cl/item-3-menu-izquierdo-2/550-viaja-alrededor-del-agujero-negro-central-de-nuestra-galaxia))
 
 
-## Charlas en español
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wKDb2U7fGb4" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IRmjxQ9v01Y" frameborder="0" allowfullscreen></iframe>
-
-
-## Entrevistas en español
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tuYIYfnNTrs" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7NkOKDfeGYo" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SMJgH_NvLLE" frameborder="0" allowfullscreen></iframe>
-
-<P>&nbsp;</P>
-  Podcast: <a href="http://www.astroblog.cl/episodio145/" target="_blank">
-    Qué pasa cuando chocan Agujeros Negros Supermasivos [astroblog Ep.145]</a>
-    <audio class="wp-audio-shortcode" id="audio-1617-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/astroetal/Ep145.mp3?_=1" /><a href="http://traffic.libsyn.com/astroetal/Ep145.mp3">http://traffic.libsyn.com/astroetal/Ep145.mp3</a></audio>
-
-
-## Presentations in English
+## Online Presentations
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmCdbHD1V1g" frameborder="0" allowfullscreen></iframe>
 
@@ -90,9 +69,6 @@ stellar wind at a time.
 
 ## Blog posts
 
-* [Columnas de J Cuadra](https://www.emol.com/especiales/2016/tecnologia/columna-astronomia/columnas.asp#!17) en la serie "Tendencias de la Astronomía" de emol.com
-
-* [Columnas del NPF](http://www.npf.cl/columnas/), algunas de ellas escritas por miembros de nuestro grupo
 
 * [Traveling to Our Galactic Center Through Virtual Reality](https://chandra.harvard.edu/blog/node/755), invited post by C Russell on Chandra's blog
 
