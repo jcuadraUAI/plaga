@@ -8,7 +8,7 @@ permalink: /divulgacion/
 
 # Material de divulgación
 
-Ir a [videos 360°](#videos-360), [Galactic Center VR](#galactic-center-vr), [charlas en español](#charlas-en-español), [entrevistas en español](#entrevistas-en-español), [presentations in english](#presentations-in-english), [more videos](#more-videos), [blog posts](#blog-posts)
+Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galactico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [más videos](#mas-videos), [columnas](#columnas), [material in English](outreach)
 
 
 
@@ -38,9 +38,9 @@ hot, X-ray emitting gas (in blue and cyan).
 ([Read more...](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html))
 
 
-## Galactic Center VR
+## Centro Galáctico VR
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wAbiFvT1IeM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BnQealT-Mts" frameborder="0" allowfullscreen></iframe>
 
 The [Galactic Center VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
 application allows you fly around the few-light-year region around
@@ -55,14 +55,14 @@ stellar wind at a time.
 ([En español...](http://astro.uc.cl/item-3-menu-izquierdo-2/550-viaja-alrededor-del-agujero-negro-central-de-nuestra-galaxia))
 
 
-## Charlas en español
+## Charlas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wKDb2U7fGb4" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRmjxQ9v01Y" frameborder="0" allowfullscreen></iframe>
 
 
-## Entrevistas en español
+## Entrevistas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tuYIYfnNTrs" frameborder="0" allowfullscreen></iframe>
 
@@ -76,24 +76,16 @@ stellar wind at a time.
     <audio class="wp-audio-shortcode" id="audio-1617-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/astroetal/Ep145.mp3?_=1" /><a href="http://traffic.libsyn.com/astroetal/Ep145.mp3">http://traffic.libsyn.com/astroetal/Ep145.mp3</a></audio>
 
 
-## Presentations in English
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TmCdbHD1V1g" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sd4_nfDuzmE" frameborder="0" allowfullscreen></iframe>
-
-
-## More videos
+## Más videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpTUpGYKtzEox7IJrDk15yuJxo45ycUmW" frameborder="0" allowfullscreen></iframe>
 
 
-## Blog posts
+## Columnas
 
 * [Columnas de J Cuadra](https://www.emol.com/especiales/2016/tecnologia/columna-astronomia/columnas.asp#!17) en la serie "Tendencias de la Astronomía" de emol.com
 
 * [Columnas del NPF](http://www.npf.cl/columnas/), algunas de ellas escritas por miembros de nuestro grupo
 
-* [Traveling to Our Galactic Center Through Virtual Reality](https://chandra.harvard.edu/blog/node/755), invited post by C Russell on Chandra's blog
 
 <P>&nbsp;</P>
