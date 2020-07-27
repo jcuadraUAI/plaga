@@ -30,7 +30,7 @@ dirección.
 muestra el gas frío en rojo y amarillo. Se muestran dos simulaciones:
 la primera con vientos estelares solamente, la segunda además con
 expulsión de material desde Sgr A*.
-([Leer más...](http://astro.uc.cl/item-3-menu-izquierdo-2/385-investigador-uc-presenta-video-en-360-grados-del-centro-de-la-via-lactea))
+([Leer más...](https://comentarista.emol.com/1211362/5863571/Jorge-Cuadra.html))
 
 [Esta nueva versión](https://youtu.be/wBxW2_B9_Is)
  muestra tanto el gas frío (en rojo y amarillo) como el caliente, que
