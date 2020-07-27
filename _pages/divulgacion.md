@@ -19,7 +19,7 @@ Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galáctico-vr),
 Nuestros videos 360° de simulaciones del centro galáctico te ponen en
 la posición de Sgr A*, el agujero negro supermasivo, desde donde se
 puede mirar en cualquier dirección. Las animaciones muestran vistas
-sin precedentes de estrellas en orbitando a tu alrededor, sus vientos
+sin precedentes de estrellas orbitando a tu alrededor, sus vientos
 colisionando, y grumos de material que se estiran por la fuerza de
 marea mientras se acercan en espiral. Estos videos se ven mejor con
 lentes de realidad virtual; de lo contrario, la aplicación de YouTube
