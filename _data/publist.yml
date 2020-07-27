@@ -1,6 +1,6 @@
 - title: "How Jupiters save or destroy inner Neptunes around evolved stars" 
   image: 2020arXiv200704337R.png
-  description:  We study the post-main-sequence evolution of planetary systems with an inner Neptune and an outer Jupiter.  We find that gravitational interaction between the planets (in particular, resonances) can change whether they survive engulfment by the host star as it turns into a red giant. 
+  description:  We study the post-main-sequence evolution of planetary systems with an inner Neptune and an outer Jupiter.  We find that gravitational interactions between the planets (in particular, resonances) can change whether they survive engulfment by the host star as it turns into a red giant. 
   authors: __Ronco__, Schreiber, Giuppone, Veras, __Cuadra__, and __Guilera__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020arXiv200704337R  
@@ -220,7 +220,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
   highlight: 0  
   news2:    
 
-- title: "Formation of Solar system analogues - II. Post-gas-phase growthand water accretion in extended discs via N-body simulations" 
+- title: "Formation of Solar system analogues - II. Post-gas-phase growth and water accretion in extended discs via N-body simulations" 
   image: 2018MNRAS.479.5362R.png 
   description:  We model the late accretion stage of Solar System analogues, finding that potentially habitable planets can form in this process, with an efficiency that depends on the planetesimal sizes.  Water-rich planets seem to form more frequently than dry ones.  
   authors: __Ronco__ and de Elía 
@@ -346,7 +346,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
 
 - title: "A second decoupling between merging binary black holes and the inner disc - impact on the electromagnetic counterpart" 
   image:  2017MNRAS.468L..50F.png 
-  description:   A luminous outburst is expected when a massive black hole binary 'decouples' from the circumbinary disc, 'squeezing' the inner disc. Here, we show that the disc within about 20 Rs survives the merger due to a 'second decoupling', where the inner disc thickens due to tidal heating, decoupling from the binary. 
+  description:   A luminous outburst is expected when a massive black hole binary 'decouples' from the circumbinary disc, squeezing the inner disc. Here, we show that the disc within about 20 Rs survives the merger due to a 'second decoupling', where the inner disc thickens because of tidal heating, decoupling from the binary. 
   authors: __Fontecilla__, __Chen__, and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.468L..50F  
@@ -571,7 +571,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
 
 - title: "The role of feedback in accretion on low-luminosity AGN: Sgr A* case study" 
   image: 2015MNRAS.450..277C.png 
-  description: We present numerical models of the gas dynamics in Galactic Centre. We follow the gas from its origin as stellar, until it is either captured by the central black hole or leaves the system. We include an outflow from the inner accretion flow.  We find the outflow to perturb the gas dynamics near the Bondi radius and the black hole capture rate significantly. 
+  description: We present numerical models of the gas dynamics in Galactic Centre. We follow the gas from its origin as stellar winds, until it is either captured by the central black hole or leaves the region. We include an outflow from the inner accretion flow.  We find the outflow to significantly perturb the gas dynamics near the Bondi radius and the black hole capture rate. 
   authors: __Cuadra__, Nayakshin, and Wang 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.450..277C  
