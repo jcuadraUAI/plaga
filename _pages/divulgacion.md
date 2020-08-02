@@ -8,6 +8,9 @@ permalink: /divulgacion/
 
 # Material de divulgación
 
+  <div id="homeid" class="col-sm-8">
+
+
 Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galáctico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [más videos](#más-videos), [columnas](#columnas), [material in English](/plaga/outreach)
 
 
@@ -41,9 +44,6 @@ expulsión de material desde Sgr A*.
 ## Centro Galáctico VR
 
 {% include youtubePlayer.html id="BnQealT-Mts" %}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BnQealT-Mts" frameborder="0" allowfullscreen></iframe>
-
 
 La aplicación [Centro Galáctico VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
 permite volar alrededor de Sagitario A*, ver las estrellas que le
