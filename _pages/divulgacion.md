@@ -11,7 +11,7 @@ permalink: /divulgacion/
   <div id="homeid" class="col-sm-8">
 
 
-Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galáctico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [más videos](#más-videos), [columnas](#columnas), [material in English](/plaga/outreach)
+Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galactico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [más videos](#mas-videos), [columnas](#columnas), [material in English](/plaga/outreach)
 
 
 
@@ -41,7 +41,7 @@ expulsión de material desde Sgr A*.
 
 
 
-## Centro Galáctico VR
+## Centro Galactico VR
 
 {% include youtubePlayer.html id="BnQealT-Mts" %}
 
@@ -78,7 +78,7 @@ vea la contribución de un viento estelar a la vez.
     <audio class="wp-audio-shortcode" id="audio-1617-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/astroetal/Ep145.mp3?_=1" /><a href="http://traffic.libsyn.com/astroetal/Ep145.mp3">http://traffic.libsyn.com/astroetal/Ep145.mp3</a></audio>
 
 
-## Más videos
+## Mas videos
 
 {% include youtubePlayer.html id="videoseries?list=PLpTUpGYKtzEox7IJrDk15yuJxo45ycUmW" %}
 
