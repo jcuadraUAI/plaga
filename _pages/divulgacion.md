@@ -1,14 +1,12 @@
 ---
 title: "PLAGA - Divulgación"
-layout: textlay
+layout: outreach
 excerpt: "PLAGA group - Divulgación"
 sitemap: false
 permalink: /divulgacion/
 ---
 
 # Material de divulgación
-
-  <div id="homeid" class="col-sm-8">
 
 
 Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galactico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [más videos](#mas-videos), [columnas](#columnas), [material in English](/plaga/outreach)
