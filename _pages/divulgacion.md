@@ -14,7 +14,7 @@ Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galáctico-vr),
 
 ## Videos 360 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HELhXDG-Mck" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="HELhXDG-Mck" %}
 
 Nuestros videos 360° de simulaciones del centro galáctico te ponen en
 la posición de Sgr A*, el agujero negro supermasivo, desde donde se
@@ -40,6 +40,8 @@ expulsión de material desde Sgr A*.
 
 ## Centro Galáctico VR
 
+{% include youtubePlayer.html id="BnQealT-Mts" %}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BnQealT-Mts" frameborder="0" allowfullscreen></iframe>
 
 
@@ -54,18 +56,21 @@ vea la contribución de un viento estelar a la vez.
 
 ## Charlas
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wKDb2U7fGb4" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="wKDb2U7fGb4" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IRmjxQ9v01Y" frameborder="0" allowfullscreen></iframe>
+
+{% include youtubePlayer.html id="IRmjxQ9v01Y" %}
+
 
 
 ## Entrevistas
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tuYIYfnNTrs" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="tuYIYfnNTrs" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7NkOKDfeGYo" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="7NkOKDfeGYo" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SMJgH_NvLLE" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="SMJgH_NvLLE" %}
+
 
 <P>&nbsp;</P>
   Podcast: <a href="http://www.astroblog.cl/episodio145/" target="_blank">
@@ -75,7 +80,7 @@ vea la contribución de un viento estelar a la vez.
 
 ## Más videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpTUpGYKtzEox7IJrDk15yuJxo45ycUmW" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="videoseries?list=PLpTUpGYKtzEox7IJrDk15yuJxo45ycUmW" %}
 
 
 ## Columnas
