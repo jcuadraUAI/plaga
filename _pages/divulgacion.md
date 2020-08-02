@@ -57,8 +57,7 @@ vea la contribución de un viento estelar a la vez.
 ## Charlas
 
 {% include youtubePlayer.html id="wKDb2U7fGb4" %}
-
-
+<P>&nbsp;</P>
 {% include youtubePlayer.html id="IRmjxQ9v01Y" %}
 
 
@@ -66,9 +65,9 @@ vea la contribución de un viento estelar a la vez.
 ## Entrevistas
 
 {% include youtubePlayer.html id="tuYIYfnNTrs" %}
-
+<P>&nbsp;</P>
 {% include youtubePlayer.html id="7NkOKDfeGYo" %}
-
+<P>&nbsp;</P>
 {% include youtubePlayer.html id="SMJgH_NvLLE" %}
 
 
