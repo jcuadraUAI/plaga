@@ -54,7 +54,8 @@ For a full list see [below](#full-list), or follow this [ADS link](https://ui.ad
 
 ## Full List
  (since 2015)
- 
+ <p> &nbsp; </p>
+
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
