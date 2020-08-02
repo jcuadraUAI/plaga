@@ -1,13 +1,34 @@
+- title: "Setting the Stage: Planet Formation and Volatile Delivery" 
+  image: 2020SSRv..216...86V.png
+  description: "This review aims to summarise the key concepts and processes operating during planet formation, with a focus on the delivery of volatiles to the inner regions of the planetary system."
+  authors: Venturini, __Ronco__, and __Guilera__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
+    display: SSRv 216, 86 (2020)  
+  highlight: 1  
+  news2: "Nota del NPF: [Preparando el escenario: Resumen sobre lo que sabemos de la formación planetaria](http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/)"
+
 - title: "How Jupiters save or destroy inner Neptunes around evolved stars" 
   image: 2020arXiv200704337R.png
   description:  We study the post-main-sequence evolution of planetary systems with an inner Neptune and an outer Jupiter.  We find that gravitational interactions between the planets (in particular, resonances) can change whether they survive engulfment by the host star as it turns into a red giant. 
   authors: __Ronco__, Schreiber, Giuppone, Veras, __Cuadra__, and __Guilera__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020arXiv200704337R  
-    display: ApJL, in press
+    display: ApJL 898, L23 (2020)	
   highlight: 1  
   news2: "NPF press release: [Hero or villain? A Jupiter can save or destroy a Neptune while the host star transforms into a Red Giant](http://www.npf.cl/en/2020/07/11/hero-or-villain-a-jupiter-can-save-or-destroy-a-neptune-while-the-host-star-transforms-into-a-red-giant/).
 Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un Neptuno mientras la estrella anfitriona se transforma en Gigante Roja](http://www.npf.cl/2020/07/10/heroe-o-villano-un-jupiter-puede-salvar-o-destruir-a-un-neptuno-mientras-la-estrella-anfitriona-se-transforma-en-gigante-roja/)."   
+
+- title: "Ongoing flyby in the young multiple system UX Tauri" 
+  image: dummy.png 
+  description:  
+  authors: Ménard, __Cuello__, Ginski, et al.
+  authorsall: Ménard, Cuello, Ginski, van der Plas, Villenave, Gonzalez, Pinte, Benisty, Boccaletti, Price, Boehler, Chripko, de Boer, Dominik, Garufi, Gratton, Hagelberg, Henning, Langlois, Maire, Pinilla, Ruane, Schmid, van Holstein, Vigan, Zurlo, Hubin, Pavlov, Rochat, Sauvage, and Stadler 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...639L...1M  
+    display: A&A 639, L1 (2020)  
+  highlight: 0  
+  news2:    
 
 - title: "Binary-induced spiral arms inside the disc cavity of AB Aurigae" 
   image: 2020MNRAS.496.2362P.png
@@ -20,24 +41,14 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
   news2: "Nota del NPF: [Astrónomos ponen en duda que un planeta en formación sea el causante de épica imagen](http://www.npf.cl/2020/05/29/astronomos-ponen-en-duda-que-un-planeta-en-formacion-sea-el-causante-de-epica-imagen-de-un-planeta-en-formacion/)"
   news1: "Article from Science Alert: [Astronomers Are Now Disagreeing Over Those Epic 'New Planet Birth' Images](https://www.sciencealert.com/a-dust-swirl-attributed-to-a-baby-planet-could-be-something-else)" 
 
-- title: "Setting the Stage: Planet Formation and Volatile Delivery" 
-  image: 2020SSRv..216...86V.png
-  description: "This review aims to summarise the key concepts and processes operating during planet formation, with a focus on the delivery of volatiles to the inner regions of the planetary system."
-  authors: Venturini, __Ronco__, and __Guilera__ 
-  link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
-    display: SSRv 216, 86 (2020)  
-  highlight: 1  
-  news2: "Nota del NPF: [Preparando el escenario: Resumen sobre lo que sabemos de la formación planetaria](http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/)"
-
-- title: "Ongoing flyby in the young multiple system UX Tauri" 
+- title: "The VISTA Variables in the Vía Láctea infrared variability catalogue (VIVA-I)" 
   image: dummy.png 
   description:  
-  authors: Ménard, __Cuello__, Ginski, et al.
-  authorsall: Ménard, Cuello, Ginski, van der Plas, Villenave, Gonzalez, Pinte, Benisty, Boccaletti, Price, Boehler, Chripko, de Boer, Dominik, Garufi, Gratton, Hagelberg, Henning, Langlois, Maire, Pinilla, Ruane, Schmid, van Holstein, Vigan, Zurlo, Hubin, Pavlov, Rochat, Sauvage, and Stadler 
+  authors: Ferreira Lopes, Cross, Catelan, et al. (incl. __Russell__)
+  authorsall: Ferreira Lopes, Cross, Catelan, Minniti, Hempel, Lucas, Angeloni, Jablonsky, Braga, Leão, Herpich, Alonso-García, Papageorgiou, Pichara, Saito, Bradley, Beamin, Cortés, De Medeiros, and Russell 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...639L...1M  
-    display: A&A 639, L1 (2020)  
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.1730F  
+    display: MNRAS 496, 1730 (2020)  
   highlight: 0  
   news2:    
 
@@ -317,7 +328,8 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
 - title: "Proper motions in the VVV Survey: Results for more than 15 million stars across NGC 6544" 
   image: dummy.png 
   description:  
-  authors: Contreras Ramos, Zoccali, et al. (incl.  __Gárate__)
+  authors: Contreras Ramos, Zoccali, Rojas, et al. (incl.  __Gárate__)
+  authorsall: Contreras Ramos, Zoccali, Rojas, Rojas-Arriagada, Gárate, Huijse, Gran, Soto, Valcarce, Estévez, and Minniti 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2017A&A...608A.140C  
     display: A&A 608, A140 (2017)  
