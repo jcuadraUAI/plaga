@@ -8,13 +8,16 @@ permalink: /outreach/
 
 # Outreach material
 
+  <div id="homeid" class="col-sm-8">
+
+
 Jump to [360° videos](#360-videos), [Galactic Center VR](#galactic-center-vr), [online presentations](#online-presentations), [more videos](#more-videos), [blog posts](#blog-posts), [material en español](/plaga/divulgacion)
 
 
 
 ## 360 videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HELhXDG-Mck" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="HELhXDG-Mck" %}
 
 Our 360° videos from Galactic Centre simulations put you at the
 position of Sgr A*, the super-massive black hole, from where you can
@@ -40,7 +43,7 @@ hot, X-ray emitting gas (in blue and cyan).
 
 ## Galactic Center VR
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wAbiFvT1IeM" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="wAbiFvT1IeM" %}
 
 The [Galactic Center VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
 application allows you fly around the few-light-year region around
@@ -57,19 +60,22 @@ stellar wind at a time.
 
 ## Online Presentations
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TmCdbHD1V1g" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="TmCdbHD1V1g" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sd4_nfDuzmE" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="Sd4_nfDuzmE" %}
 
 
 ## More videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpTUpGYKtzEox7IJrDk15yuJxo45ycUmW" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="videoseries?list=PLpTUpGYKtzEox7IJrDk15yuJxo45ycUmW" %}
+
 
 
 ## Blog posts
 
 
 * [Traveling to Our Galactic Center Through Virtual Reality](https://chandra.harvard.edu/blog/node/755), invited post by C Russell on Chandra's blog
+
+  </div>	     
 
 <P>&nbsp;</P>
