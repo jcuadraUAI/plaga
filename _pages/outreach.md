@@ -76,6 +76,6 @@ stellar wind at a time.
 
 * [Traveling to Our Galactic Center Through Virtual Reality](https://chandra.harvard.edu/blog/node/755), invited post by C Russell on Chandra's blog
 
-  </div>	     
+
 
 <P>&nbsp;</P>
