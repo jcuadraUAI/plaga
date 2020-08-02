@@ -61,7 +61,7 @@ stellar wind at a time.
 ## Online Presentations
 
 {% include youtubePlayer.html id="TmCdbHD1V1g" %}
-
+<P>&nbsp;</P>
 {% include youtubePlayer.html id="Sd4_nfDuzmE" %}
 
 
