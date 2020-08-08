@@ -7,8 +7,8 @@ permalink: /
 ---
 
 We are a research group lead by Jorge Cuadra at [Universidad Adolfo
-Ibáñez](https://www.uai.cl/) in Viña del Mar, but with most members
-based at [PUC's Institute for Astrophysics](http://www.astro.puc.cl/)
+Ibáñez (UAI)](https://www.uai.cl/) in Viña del Mar, but with most members
+based at [P. Universidad Católica (PUC)](http://www.puc.cl/)
 in Santiago, Chile.  We work on different topics in Astrophysics, with
 a focus on numerical simulations of the Galactic Centre, planet
 formation, and other accreting systems (see [Publications](publications)).
@@ -61,6 +61,11 @@ formation, and other accreting systems (see [Publications](publications)).
   </a>
 </div>
 
+
+At UAI we are part of the [Faculty of Liberal
+Arts](https://artesliberales.uai.cl/) and the [Physics + Astro
+group](http://physics-astro.uai.cl/), while at PUC we are part of the
+[Institute for Astrophysics](http://www.astro.puc.cl/).
 
 Our work on formation and evolution of planetary systems is performed
 as part of the [Millennium Nucleus on Planet Formation
