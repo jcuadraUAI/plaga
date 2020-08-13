@@ -6,7 +6,11 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Coming Soon!
+# Open positions
+
+We are looking for candidates interested in applying with us for a
+FONDECYT postdoctoral fellowship.  Please check our [ad at the AAS job
+register](https://jobregister.aas.org/ad/a30cb4a6).
 
 
 <figure>
