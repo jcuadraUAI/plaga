@@ -66,6 +66,12 @@ vea la contribución de un viento estelar a la vez.
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="7NkOKDfeGYo" %}
 
+<P>&nbsp;</P>
+  Podcast: <a href="http://www.astroblog.cl/episodio145/" target="_blank">
+    Qué pasa cuando chocan Agujeros Negros Supermasivos [astroblog Ep.145]</a>
+    <audio class="wp-audio-shortcode" id="audio-1617-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/astroetal/Ep145.mp3?_=1" /><a href="http://traffic.libsyn.com/astroetal/Ep145.mp3">http://traffic.libsyn.com/astroetal/Ep145.mp3</a></audio>
+
+
 ## Capsulas
 
 {% include youtubePlayer.html id="SMJgH_NvLLE" %}
@@ -79,12 +85,6 @@ vea la contribución de un viento estelar a la vez.
 {% include youtubePlayer.html id="mWKMkHHoi1c" %}
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="8CAGKflv3uE" %}
-
-
-<P>&nbsp;</P>
-  Podcast: <a href="http://www.astroblog.cl/episodio145/" target="_blank">
-    Qué pasa cuando chocan Agujeros Negros Supermasivos [astroblog Ep.145]</a>
-    <audio class="wp-audio-shortcode" id="audio-1617-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/astroetal/Ep145.mp3?_=1" /><a href="http://traffic.libsyn.com/astroetal/Ep145.mp3">http://traffic.libsyn.com/astroetal/Ep145.mp3</a></audio>
 
 
 ## Mas videos
