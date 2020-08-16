@@ -9,7 +9,7 @@ permalink: /divulgacion/
 # Material de divulgación
 
 
-Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galactico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [más videos](#mas-videos), [columnas](#columnas), [material in English](/plaga/outreach)
+Ir a [videos 360°](#videos-360), [Centro Galáctico VR](#centro-galactico-vr), [charlas](#charlas), [entrevistas](#entrevistas), [cápsulas](#capsulas), [más videos](#mas-videos), [columnas](#columnas), [material in English](/plaga/outreach)
 
 
 
@@ -65,7 +65,9 @@ vea la contribución de un viento estelar a la vez.
 {% include youtubePlayer.html id="tuYIYfnNTrs" %}
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="7NkOKDfeGYo" %}
-<P>&nbsp;</P>
+
+## Capsulas
+
 {% include youtubePlayer.html id="SMJgH_NvLLE" %}
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="uzfVTHsrGTU" %}
