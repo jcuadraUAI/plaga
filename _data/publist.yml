@@ -5,7 +5,7 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2876F  
     display: MNRAS.tmp (2020)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Two-fluid simulations of the magnetic field evolution in neutron star cores in the weak-coupling regime" 
