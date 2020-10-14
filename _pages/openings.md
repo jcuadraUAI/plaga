@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-There are open faculty positions in [Exoplanet and Planetary Sciences](https://jobregister.aas.org/ad/948108dc) and (Astroinformatics and Astrostatistics)[https://jobregister.aas.org/ad/7daf77b3] at the Faculty of Engineering and Sciences of Universidad Adolfo Ibáñez.  These can be taken either at the Viña del Mar campus.
+There are open faculty positions in [Exoplanet and Planetary Sciences](https://jobregister.aas.org/ad/948108dc) and [Astroinformatics and Astrostatistics](https://jobregister.aas.org/ad/7daf77b3) at the Faculty of Engineering and Sciences of Universidad Adolfo Ibáñez.  These can be taken either at the Viña del Mar campus.
 
 
 ## Previous announcements
