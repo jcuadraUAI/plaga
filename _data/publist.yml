@@ -1,11 +1,11 @@
 - title: "The nature of the radius valley. Hints from formation and evolution models" 
-  image: dummy.png 
-  description:  
+  image: 2020A&A...643L...1V.png 
+  description: "We run global planet formation simulations. We find that due to the change in dust properties at the water ice line, rocky cores form typically with ∼3 M⊕ and have a maximum mass of ∼5 M⊕, while icy cores peak at ∼10 M⊕, with masses lower than 5 M⊕ being scarce."
   authors: Venturini, __Guilera__, Haldemann, __Ronco__, and Mordasini 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020A&A...643L...1V  
     display: A&A 643, L1 (2020)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "The effect of cooling on the accretion of circumprimary discs in merging supermassive black hole binaries" 
