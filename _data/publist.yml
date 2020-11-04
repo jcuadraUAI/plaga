@@ -1,11 +1,41 @@
+- title: "The nature of the radius valley. Hints from formation and evolution models" 
+  image: dummy.png 
+  description:  
+  authors: Venturini, __Guilera__, Haldemann, __Ronco__, and Mordasini 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...643L...1V  
+    display: A&A 643, L1 (2020)  
+  highlight: 0  
+  news2:    
+
 - title: "The effect of cooling on the accretion of circumprimary discs in merging supermassive black hole binaries" 
   image: 2020MNRAS.tmp.2876F.png 
   description:  "Our main results are that if the gas cannot cool fast enough the disc becomes thick and renders the system invisible, while in the opposite case the strong cooling blocks any leakage on to the secondary's orbit, allowing an enhancement in the accretion rate."
   authors: __Fontecilla__, Lodato, and __Cuadra__
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2876F  
-    display: MNRAS.tmp (2020)  
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2876F
+    display: MNRAS 499, 2836 (2020)  
   highlight: 1  
+  news2:    
+
+- title: "Dust trapping around Lagrangian points in protoplanetary disks" 
+  image: dummy.png 
+  description:  
+  authors: Montesinos, __Garrido-Deutelmoser__, Olofsson, Giuppone, __Cuadra__, Bayo, Sucerquia, and Cuello 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...642A.224M  
+    display: A&A 642, A224 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Giant planet formation at the pressure maxima of protoplanetary disks. II. A hybrid accretion scenario" 
+  image: dummy.png 
+  description:  
+  authors: __Guilera__, Sándor, __Ronco__, Venturini, and Miller Bertolami 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...642A.140G  
+    display: A&A 642, A140 (2020)  
+  highlight: 0  
   news2:    
 
 - title: "Two-fluid simulations of the magnetic field evolution in neutron star cores in the weak-coupling regime" 
