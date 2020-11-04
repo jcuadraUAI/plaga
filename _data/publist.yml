@@ -5,9 +5,10 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020A&A...643L...1V  
     display: A&A 643, L1 (2020)  
-  highlight: 1  
-  news2: "NPF Press Release: [What do the sizes of the Kepler planets tell us about their formation process?](http://www.npf.cl/en/2020/10/30/what-do-the-sizes-of-the-kepler-planets-tell-us-about-their-formation-process/).
-  	 Original version: [¿Qué nos dicen los tamaños de los planetas Kepler sobre su proceso de formación ?](http://www.npf.cl/2020/10/30/que-nos-dicen-los-tamanos-de-los-planetas-kepler-sobre-su-proceso-de-formacion/)."   
+  highlight: 1
+  news1: "NCCR PlanetS Press Release: [How water explains missing planets](http://nccr-planets.ch/blog/2020/10/28/how-water-explains-missing-planets/)."
+  news2: "NPF Press Release: [What do the sizes of the Kepler planets tell us about their formation process?](http://www.npf.cl/en/2020/10/30/what-do-the-sizes-of-the-kepler-planets-tell-us-about-their-formation-process/)
+  	 Original version: [¿Qué nos dicen los tamaños de los planetas Kepler sobre su proceso de formación ?](http://www.npf.cl/2020/10/30/que-nos-dicen-los-tamanos-de-los-planetas-kepler-sobre-su-proceso-de-formacion/)"   
 
 - title: "The effect of cooling on the accretion of circumprimary discs in merging supermassive black hole binaries" 
   image: 2020MNRAS.tmp.2876F.png 
