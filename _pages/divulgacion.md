@@ -98,5 +98,6 @@ vea la contribución de un viento estelar a la vez.
 
 * [Columnas del NPF](http://www.npf.cl/columnas/), algunas de ellas escritas por miembros de nuestro grupo
 
+* [Bestiario Astronómico](https://bestiarioastronomico.blogspot.com/), blog de Nicolás Cuello
 
 <P>&nbsp;</P>
