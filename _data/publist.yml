@@ -20,12 +20,12 @@
 
 - title: "Dust trapping around Lagrangian points in protoplanetary disks" 
   image: dummy.png 
-  description:  
+  description: "We follow the evolution of a protoplanetary disk with an embedded giant planet.  We find that the leading Lagrangian point L4 traps a larger amount of submillimeter particles than the trailing L5, which traps mostly mm-cm particles." 
   authors: Montesinos, __Garrido-Deutelmoser__, Olofsson, Giuppone, __Cuadra__, Bayo, Sucerquia, and Cuello 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020A&A...642A.224M  
     display: A&A 642, A224 (2020)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Giant planet formation at the pressure maxima of protoplanetary disks. II. A hybrid accretion scenario" 
