@@ -1,3 +1,13 @@
+- title: "WD 1856 b: a close giant planet around a white dwarf that could have survived a common-envelope phase" 
+  image: dummy.png 
+  description:  
+  authors: Lagos, Schreiber, Zorotovic, Gänsicke, __Ronco__, and Hamers 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3485L  
+    display: MNRAS.tmp (2020)  
+  highlight: 0  
+  news2:    
+
 - title: "The nature of the radius valley. Hints from formation and evolution models" 
   image: 2020A&A...643L...1V.png 
   description: "We run global planet formation simulations. We find that due to the change in dust properties at the water ice line, rocky cores form typically with ∼3 M⊕, while icy cores peak at ∼10 M⊕."
