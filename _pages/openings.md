@@ -8,10 +8,14 @@ permalink: /vacancies
 
 # Open positions
 
-There are several [open **faculty positions**](https://ingenieria.uai.cl/faculty-positions/) at the Faculty of Engineering and Sciences of Universidad Adolfo Ibáñez.  These can be taken at the Viña del Mar campus, and subjects include Earth Sciences.
+
+The [Nucleo Milenio for Planet Formation](http://www.npf.cl/en), which we are part of, invites applications to fill several [postdoctoral positions](https://jobregister.aas.org/ad/f91b30b2). Deadline Jan 15.
+
 
 
 ## Previous announcements
+
+There are several [open **faculty positions**](https://ingenieria.uai.cl/faculty-positions/) at the Faculty of Engineering and Sciences of Universidad Adolfo Ibáñez.  These can be taken at the Viña del Mar campus, and subjects include Earth Sciences.
 
 There are open **faculty positions** in [Exoplanet and Planetary Sciences](https://jobregister.aas.org/ad/948108dc) and [Astroinformatics and Astrostatistics](https://jobregister.aas.org/ad/7daf77b3) at the Faculty of Engineering and Sciences of Universidad Adolfo Ibáñez.  These can be taken at the Viña del Mar campus.
 
