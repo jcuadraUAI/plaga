@@ -9,8 +9,7 @@ permalink: /vacancies
 # Open positions
 
 
-The [Nucleo Milenio for Planet Formation](http://www.npf.cl/en), which we are part of, invites applications to fill several [postdoctoral positions](https://jobregister.aas.org/ad/f91b30b2). Deadline Jan 15.
-
+The [Nucleo Milenio for Planet Formation](http://www.npf.cl/en), which we are part of, invites applications to fill several [**postdoctoral positions**](https://jobregister.aas.org/ad/f91b30b2). Deadline Jan 15.
 
 
 ## Previous announcements
