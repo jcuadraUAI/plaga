@@ -52,15 +52,7 @@
   highlight: 0  
   news2:    
 
-- title: "Two-fluid simulations of the magnetic field evolution in neutron star cores in the weak-coupling regime" 
-  image: dummy.png 
-  description:  
-  authors: __Castillo__, Reisenegger, and Valdivia 
-  link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.3000C  
-    display: MNRAS 498, 3000 (2020)  
-  highlight: 0  
-  news2:    
+
 
 - title: "Setting the Stage: Planet Formation and Volatile Delivery" 
   image: 2020SSRv..216...86V.png
