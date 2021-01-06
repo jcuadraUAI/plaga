@@ -15,8 +15,9 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3631G  
     display: MNRAS.tmp (2020)  
-  highlight: 0  
-  news2:    
+  highlight: 1 
+  news2: "NPF Press Release: [How does a forming planet behave?](http://www.npf.cl/en/2021/01/04/how-does-a-forming-planet-behave/)
+  	 Original version: [¿Cómo se comporta un planeta en formación?](http://www.npf.cl/2021/01/04/como-se-comporta-un-planeta-en-formacion/)"   
 
 - title: "Most super-Earths formed by dry pebble accretion are less massive than 5 Earth masses" 
   image: dummy.png 
