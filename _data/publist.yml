@@ -1,3 +1,13 @@
+- title: "WD 1856 b: a close giant planet around a white dwarf that could have survived a common envelope phase" 
+  image: dummy.png 
+  description:  
+  authors: Lagos, Schreiber, Zorotovic, Gänsicke, __Ronco__, and Hamers 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.501..676L  
+    display: MNRAS 501, 676 (2021)  
+  highlight: 0  
+  news2:    
+
 - title: "Feedback-limited Accretion: Variable Luminosity from Growing Planets" 
   image: dummy.png 
   description:  
@@ -15,16 +25,6 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020A&A...644A.174V  
     display: A&A 644, A174 (2020)  
-  highlight: 0  
-  news2:    
-
-- title: "WD 1856 b: a close giant planet around a white dwarf that could have survived a common-envelope phase" 
-  image: dummy.png 
-  description:  
-  authors: Lagos, Schreiber, Zorotovic, Gänsicke, __Ronco__, and Hamers 
-  link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3485L  
-    display: MNRAS.tmp (2020)  
   highlight: 0  
   news2:    
 
