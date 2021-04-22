@@ -1,3 +1,25 @@
+- title: "Feedback-limited Accretion: Variable Luminosity from Growing Planets" 
+  image: 2020MNRAS.tmp.3631G.gif 
+  description: "We find that feedback reduces but does not halt the accretion on to the planet.  Planet heating gives the accretion rate a stochastic variability, opposite to the periodic variability due to an eccentric orbit." 
+  authors: __Gárate__, __Cuadra__, Montesinos, and Arévalo 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3113G  
+    display: MNRAS 501, 3113 (2021)  
+  highlight: 1 
+  news2: "NPF Press Release: [How does a forming planet behave?](http://www.npf.cl/en/2021/01/04/how-does-a-forming-planet-behave/)
+  	 Original version: [¿Cómo se comporta un planeta en formación?](http://www.npf.cl/2021/01/04/como-se-comporta-un-planeta-en-formacion/)"   
+
+- title: "Radiative Scale Height and Shadows in Protoplanetary Disks" 
+  image: dummy.png 
+  description:  
+  authors: Montesinos, __Cuello__, Olofsson, __Cuadra__, Bayo, Bertrang, and Perrot 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021ApJ...910...31M  
+    display: ApJ 910, 31 (2021)  
+  highlight: 0  
+  news2:    
+
+
 - title: "WD 1856 b: a close giant planet around a white dwarf that could have survived a common envelope phase" 
   image: dummy.png 
   description:  
@@ -8,16 +30,36 @@
   highlight: 0  
   news2:    
 
-- title: "Feedback-limited Accretion: Variable Luminosity from Growing Planets" 
-  image: 2020MNRAS.tmp.3631G.gif 
-  description: "We find that feedback reduces but does not halt the accretion on to the planet.  Planet heating gives the accretion rate a stochastic variability, opposite to the periodic variability due to an eccentric orbit." 
-  authors: __Gárate__, __Cuadra__, Montesinos, and Arévalo 
+- title: "Hybrid stars with sequential phase transitions: the emergence of the g<SUB>2</SUB> mode" 
+  image: dummy.png 
+  description:  
+  authors: Rodríguez, Ranea-Sandoval, Mariani, Orsaria, Malfatti, and __Guilera__ 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3631G  
-    display: MNRAS.tmp (2020)  
-  highlight: 1 
-  news2: "NPF Press Release: [How does a forming planet behave?](http://www.npf.cl/en/2021/01/04/how-does-a-forming-planet-behave/)
-  	 Original version: [¿Cómo se comporta un planeta en formación?](http://www.npf.cl/2021/01/04/como-se-comporta-un-planeta-en-formacion/)"   
+    url:  https://ui.adsabs.harvard.edu/abs/2021JCAP...02..009R  
+    display: JCAP 2021, 009 (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "Discontinuity g modes of hybrid stars: Effect of sequential phase transitions" 
+  image: dummy.png 
+  description:  
+  authors: Rodríguez, Ranea-Sandoval, Mariani, Malfatti, and __Guilera__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021AN....342..305R  
+    display: AN 342, 305 (2021)  
+  highlight: 0  
+  news2:    
+
+
+- title: "The effect of cooling on the accretion of circumprimary discs in merging supermassive black hole binaries" 
+  image: 2020MNRAS.tmp.2876F.png 
+  description:  "Our main results are that if the gas cannot cool fast enough the disc becomes thick and renders the system invisible, while in the opposite case the strong cooling blocks any leakage on to the secondary's orbit, allowing an enhancement in the accretion rate."
+  authors: __Fontecilla__, Lodato, and __Cuadra__
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2876F
+    display: MNRAS 499, 2836 (2020)  
+  highlight: 1  
+  news2:    
 
 - title: "Most super-Earths formed by dry pebble accretion are less massive than 5 Earth masses" 
   image: dummy.png 
@@ -40,16 +82,6 @@
   news1: "NCCR PlanetS Press Release: [How water explains missing planets](http://nccr-planets.ch/blog/2020/10/28/how-water-explains-missing-planets/)."
   news2: "NPF Press Release: [What do the sizes of the Kepler planets tell us about their formation process?](http://www.npf.cl/en/2020/10/30/what-do-the-sizes-of-the-kepler-planets-tell-us-about-their-formation-process/)
   	 Original version: [¿Qué nos dicen los tamaños de los planetas Kepler sobre su proceso de formación ?](http://www.npf.cl/2020/10/30/que-nos-dicen-los-tamanos-de-los-planetas-kepler-sobre-su-proceso-de-formacion/)"   
-
-- title: "The effect of cooling on the accretion of circumprimary discs in merging supermassive black hole binaries" 
-  image: 2020MNRAS.tmp.2876F.png 
-  description:  "Our main results are that if the gas cannot cool fast enough the disc becomes thick and renders the system invisible, while in the opposite case the strong cooling blocks any leakage on to the secondary's orbit, allowing an enhancement in the accretion rate."
-  authors: __Fontecilla__, Lodato, and __Cuadra__
-  link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2876F
-    display: MNRAS 499, 2836 (2020)  
-  highlight: 1  
-  news2:    
 
 - title: "Dust trapping around Lagrangian points in protoplanetary disks" 
   image: 2020A&A...642A.224M.gif
