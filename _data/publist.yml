@@ -1,3 +1,13 @@
+- title: "Analytical solutions for radiation-driven winds in massive stars II: The δ-slow regime" 
+  image: dummy.png 
+  description:  
+  authors: Araya, Christen, Curé, Cidale, Venero, Arcos, Gormaz-Matamala, Haucke, Escárate, and Clavería 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp..969A  
+    display: MNRAS.tmp (2021)  
+  highlight: 0  
+  news2:    
+
 - title: "Feedback-limited Accretion: Variable Luminosity from Growing Planets" 
   image: 2020MNRAS.tmp.3631G.gif 
   description: "We find that feedback reduces but does not halt the accretion on to the planet.  Planet heating gives the accretion rate a stochastic variability, opposite to the periodic variability due to an eccentric orbit." 
