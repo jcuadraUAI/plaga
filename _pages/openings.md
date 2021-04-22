@@ -8,12 +8,14 @@ permalink: /vacancies
 
 # Open positions
 
-Universidad Adolfo Ibáñez has short-term (March–December 2021) [**postdoctoral positions** open](https://www.uai.cl/assets/uploads/2020/11/bases_post_doctorado_uai_2021.pdf), with the aim of applying for a 3-year FONDECYT fellowship.  This requires a PhD obtained in 2018 or later for the applicant.  Candidates must be Chilean nationals or residents.  If interested please contact [J Cuadra](mailto:jcuadra@npf.cl) well before the Jan 22 deadline.
-
-The [N&uacute;cleo Milenio for Planet Formation](http://www.npf.cl/en) invites applications to fill several [**postdoctoral positions**](https://jobregister.aas.org/ad/f91b30b2).  The applicants should have a strong interest in (sub)stellar and planet formation, protoplanetary and/or debris discs, including around evolved and/or binary stars, and can have either an observational or theoretical background.  Deadline Jan 15.
+Tenemos proyectos y financiamiento para estudiantes de astronomía, física e ingeniería, de pre- o postgrado, interesada/os en trabajar con nosotros.  ¡[Contáctanos](mailto:jcuadra@npf.cl)!
 
 
 ## Previous announcements
+
+Universidad Adolfo Ibáñez has short-term (March–December 2021) [**postdoctoral positions** open](https://www.uai.cl/assets/uploads/2020/11/bases_post_doctorado_uai_2021.pdf), with the aim of applying for a 3-year FONDECYT fellowship.  This requires a PhD obtained in 2018 or later for the applicant.  Candidates must be Chilean nationals or residents.  If interested please contact [J Cuadra](mailto:jcuadra@npf.cl) well before the Jan 22 deadline.
+
+The [N&uacute;cleo Milenio for Planet Formation](http://www.npf.cl/en) invites applications to fill several [**postdoctoral positions**](https://jobregister.aas.org/ad/f91b30b2).  The applicants should have a strong interest in (sub)stellar and planet formation, protoplanetary and/or debris discs, including around evolved and/or binary stars, and can have either an observational or theoretical background.  Deadline Jan 15.
 
 There are several [open **faculty positions**](https://ingenieria.uai.cl/faculty-positions/) at the Faculty of Engineering and Sciences of Universidad Adolfo Ibáñez.  These can be taken at the Viña del Mar campus, and subjects include Earth Sciences.
 
