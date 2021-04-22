@@ -100,4 +100,6 @@ vea la contribución de un viento estelar a la vez.
 
 * [Bestiario Astronómico](https://bestiarioastronomico.blogspot.com/), blog de Nicolás Cuello
 
+* [Re-Evolución Estelar](https://reevolucionestelar.wordpress.com/), blog de Alex Gormaz-Matamala
+
 <P>&nbsp;</P>
