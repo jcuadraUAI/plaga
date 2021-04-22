@@ -19,7 +19,7 @@
 
 - name: Alex Gormaz-Matamala
   photo: alexgm.jpg
-  role: Postdoctoral researcher, UAI (starting March 2021)
+  role: Postdoctoral researcher, UAI
   haswww: 1
   webpage: https://reevolucionestelar.wordpress.com/acerca-de/
   email: alex.gormaz@uv.cl
@@ -43,9 +43,3 @@
   email: pronco@npf.cl 
   education: PhD, Univ Nac La Plata
   area: Formation and dynamics of planetary systems
-
-- name: "This could be you !"
-  photo: astronaut.png
-  role: See [open positions](/plaga/vacancies)
-  haswww: 0
-  email: jcuadra@npf.cl
