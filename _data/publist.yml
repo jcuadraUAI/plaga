@@ -1,10 +1,20 @@
-- title: "Analytical solutions for radiation-driven winds in massive stars II: The δ-slow regime" 
+- title: "Analytical solutions for radiation-driven winds in massive stars - II. The δ-slow regime" 
   image: dummy.png 
   description:  
-  authors: Araya, Christen, Curé, Cidale, Venero, Arcos, __Gormaz-Matamala__, Haucke, Escárate, and Clavería 
+  authors: Araya, Christen, Curé, Cidale, Venero, Arcos, __Gormaz-Matamala__, Haucke, Escárate, and Clavería
+    link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.2550A  
+    display: MNRAS 504, 2550 (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "A Detailed Characterization of HR 8799's Debris Disk with ALMA in Band 7" 
+  image: dummy.png 
+  description:  
+  authors: Faramaz, Marino, Booth, Matrà, Mamajek, Bryden, Stapelfeldt, Casassus, __Cuadra__, Hales, and Zurlo 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp..969A  
-    display: MNRAS.tmp (2021)  
+    url:  https://ui.adsabs.harvard.edu/abs/2021AJ....161..271F  
+    display: AJ 161, 271 (2021)  
   highlight: 0  
   news2:    
 
