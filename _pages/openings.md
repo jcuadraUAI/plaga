@@ -8,8 +8,8 @@ permalink: /vacancies
 
 # Open positions
 
-The **FONDECYT postdoctoral fellowships** are currently open.  These are 3-year grants of the Chilean research funding agency (ANID), covering the postdoc salary, travel and operational expenses.  This year the application is again open to scientists of all nationalities, with the PhD obtained between 1 Jan 2018 and 26 Aug 2021, or earlier in the case of recent mothers.
-The application deadline is 19 Aug 2021, and requires the sponsorship of a professor at a Chilean university.  If you know of anybody potentially interested in carrying out a project at Universidad Adolfo Ibáñez in Viña del Mar, on the Galactic centre, protoplanetary or circumbinary discs, or related subjects, please ask them to contact me at jcuadra@npf.cl. 
+The [**FONDECYT postdoctoral fellowships**](https://www.anid.cl/concursos/concurso/?id=683) are currently open.  These are 3-year grants of the Chilean research funding agency (ANID), covering the postdoc salary, travel and operational expenses.  This year the application is again open to scientists of all nationalities, with the PhD obtained between 1 Jan 2018 and 26 Aug 2021, or earlier in the case of recent mothers.
+The application deadline is 19 Aug 2021, and requires the sponsorship of a professor at a Chilean university.  If you know of anybody potentially interested, please ask them to [contact me](mailto:jcuadra@npf.cl). 
 
 There are [open **faculty positions**](https://ingenieria.uai.cl/assets/uploads/2021/07/womenengineering2021.pdf) for women scholars at the Faculty of Engineering and Sciences of Universidad Adolfo Ibáñez.  These can be taken at the Viña del Mar campus, and subjects include Physics and Astronomy.
 
