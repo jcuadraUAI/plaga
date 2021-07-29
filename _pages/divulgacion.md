@@ -65,6 +65,8 @@ vea la contribución de un viento estelar a la vez.
 {% include youtubePlayer.html id="tuYIYfnNTrs" %}
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="7NkOKDfeGYo" %}
+<P>&nbsp;</P>
+{% include youtubePlayer.html id="WkMPnNw8YlQ" %}
 
 <P>&nbsp;</P>
   Podcast: <a href="http://www.astroblog.cl/episodio145/" target="_blank">
