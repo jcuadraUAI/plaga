@@ -1,7 +1,7 @@
 - title: "Cronomoons: origin, dynamics, and light-curve features of ringed exomoons" 
   image: dummy.png 
   description:  
-  authors: Sucerquia, Alvarado-Montes, Bayo, Cuadra, Cuello, Giuppone, Montesinos, Olofsson, Schwab, Spitler, and Zuluaga 
+  authors: Sucerquia, Alvarado-Montes, Bayo, __Cuadra__, Cuello, Giuppone, Montesinos, Olofsson, Schwab, Spitler, and Zuluaga 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3310S  
     display: MNRAS.tmp (2021)  
@@ -11,7 +11,7 @@
 - title: "The protoplanetary disc around HD 169142: circumstellar or circumbinary?" 
   image: dummy.png 
   description:  
-  authors: Poblete, Cuello, Pérez, Marino, Calcino, Macías, Ribas, Zurlo, Cuadra, Montesinos, Zúñiga-Fernández, Bayo, Pinte, Ménard, and Price 
+  authors: Poblete, Cuello, Pérez, Marino, Calcino, Macías, Ribas, Zurlo, __Cuadra__, Montesinos, Zúñiga-Fernández, Bayo, Pinte, Ménard, and Price 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3145P  
     display: MNRAS.tmp (2021)  
@@ -21,7 +21,7 @@
 - title: "The importance of thermal torques on the migration of planets growing by pebble accretion" 
   image: dummy.png 
   description:  
-  authors: Guilera, Miller Bertolami, Masset, Cuadra, Venturini, and Ronco 
+  authors: __Guilera__, Miller Bertolami, Masset, __Cuadra__, Venturini, and __Ronco__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.3638G  
     display: MNRAS 507, 3638 (2021)  
@@ -31,7 +31,7 @@
 - title: "The HD 98800 quadruple pre-main sequence system. Towards full orbital characterisation using long-baseline infrared interferometry" 
   image: dummy.png 
   description:  
-  authors: Zúñiga-Fernández, Olofsson, Bayo, Haubois, Corral-Santana, Lopera-Mejía, Ronco, Tokovinin, Gallenne, Kennedy, and Berger 
+  authors: Zúñiga-Fernández, Olofsson, Bayo, Haubois, Corral-Santana, Lopera-Mejía, __Ronco__, Tokovinin, Gallenne, Kennedy, and Berger 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2021A&A...655A..15Z  
     display: A&A 655, A15 (2021)  
@@ -41,7 +41,7 @@
 - title: "New Hydrodynamic Solutions for Line-driven Winds of Hot Massive Stars Using the Lambert W-function" 
   image: dummy.png 
   description:  
-  authors: Gormaz-Matamala, Curé, Hillier, Najarro, Kubátová, and Kubát 
+  authors: __Gormaz-Matamala__, Curé, Hillier, Najarro, Kubátová, and Kubát 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2021ApJ...920...64G  
     display: ApJ 920, 64 (2021)  
