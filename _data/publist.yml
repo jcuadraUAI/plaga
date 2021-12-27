@@ -20,12 +20,12 @@
 
 - title: "The importance of thermal torques on the migration of planets growing by pebble accretion" 
   image: dummy.png 
-  description:  
+  description: "We study the role of the thermal torque within the pebble accretion paradigm. Our simulations show that the thermal torque generates extended regions of outward migration in low-viscosity discs. This has a significant impact in the formation of the planets."  
   authors: __Guilera__, Miller Bertolami, Masset, __Cuadra__, Venturini, and __Ronco__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.3638G  
     display: MNRAS 507, 3638 (2021)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "The HD 98800 quadruple pre-main sequence system. Towards full orbital characterisation using long-baseline infrared interferometry" 
