@@ -46,7 +46,7 @@
 - name: Camilo Fontecilla
   photo: camilo.jpg
 #  role: PhD student, PUC
-  haswww: 0
+  haswww: 1
   webpage: https://cl.linkedin.com/in/cjfontec
   duration: PhD 2022
   info: Now a data scientist
