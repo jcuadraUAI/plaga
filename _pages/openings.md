@@ -8,6 +8,9 @@ permalink: /vacancies
 
 # Open positions
 
+There is an [open **faculty position**](https://artesliberales.uai.cl/concursos-academicos/profesor-fisica-departamento-ciencias/) in Physics (including Astronomy) at the Faculty of Liberal Arts of Universidad Adolfo Ibáñez, Viña del Mar campus. 
+
+
 Tenemos proyectos y financiamiento para estudiantes de astronomía, física e ingeniería, de pre- o postgrado, interesada/os en trabajar con nosotros.  ¡[Contáctanos](mailto:jcuadra@npf.cl)!  En particular, estamos buscando estudiantes que quieran participar en el desarrollo de un [videojuego basado en simulaciones astrofísicas](http://www.npf.cl/wp-content/uploads/2021/12/Solicitud-de-Practicante-Realidad-Virtual.pdf).
 
 
