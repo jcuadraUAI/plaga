@@ -91,6 +91,18 @@
   duration: BSc 2017, MSc 2019
   info: Now a PhD student at Jena University
 
+- name: María Paula Ronco
+  photo: paula.jpg
+#  role: Postdoctoral researcher, PUC & NPF
+  haswww: 1
+  webpage: https://pullitze27.wixsite.com/paularonco
+#  email: pronco@npf.cl 
+#  education: PhD, Univ Nac La Plata
+#  area: Formation and dynamics of planetary systems
+  duration: Postdoc 2018-2022
+  info: Now an Assistant Researcher at CONICET-UNLP
+
+
 - name: Christopher Russell
   haswww: 1
   webpage: https://astro.puc.cl/~crussell/
