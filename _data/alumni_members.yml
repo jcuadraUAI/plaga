@@ -29,7 +29,6 @@
 #  area: Solar System N-body - Circumbinary discs
   duration: Postdoc 2019-2022
 
-
 - name: Alex Dunhill
   haswww: 1
   webpage: http://www.acdunhill.com/
@@ -43,6 +42,18 @@
   photo: virginie.jpg
   duration: Postdoc 2014-17
   info: Afterwards a postdoc at JPL, Pasadena <br> Now a professor at the University of Arizona
+
+- name: Camilo Fontecilla
+  photo: camilo.jpg
+#  role: PhD student, PUC
+  haswww: 0
+  webpage: https://cl.linkedin.com/in/cjfontec
+  duration: PhD 2022
+  info: Now a data scientist
+#  email: cjfontec@uc.cl
+#  education:  MSc in Astrophysics, PUC
+#  area: Black holes and circumbinary discs
+
 
 - name: Sofía Gallego
   haswww: 1
