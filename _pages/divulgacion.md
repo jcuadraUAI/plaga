@@ -13,7 +13,7 @@ Ir a [video juego](#video-juego), [videos 360°](#videos-360), [Centro Galáctic
 
 ## video juego
 
-![screenshot]({{ site.url }}{{ site.baseurl }}/images/PPE.png "Screenshot")
+![screenshot]({{ site.url }}{{ site.baseurl }}/images/PPE.jpg "Screenshot")
 
 **Protoplanet Express** es un video juego en el cual puede visitar distintos sistemas protoplanetarios. La visualización de cada sistema está basada en simulaciones computacionales que fueron desarrolladas por astrónoma/os profesionales.
 
