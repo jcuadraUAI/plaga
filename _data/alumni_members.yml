@@ -19,6 +19,17 @@
   duration: Postdoc 2016-2020
   info: Now a Marie-Curie fellow at IPAG, Grenoble 
 
+- name: Luciano del Valle
+  photo: luciano.jpg
+#  role: Postdoctoral researcher, NPF & PUC
+  haswww: 0
+  webpage: 
+#  email: ldelvalleb@astro.puc.cl
+#  education: PhD, Univ de Chile
+#  area: Solar System N-body - Circumbinary discs
+   duration: Postdoc 2019-2022
+
+
 - name: Alex Dunhill
   haswww: 1
   webpage: http://www.acdunhill.com/
