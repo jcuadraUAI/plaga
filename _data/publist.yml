@@ -1,10 +1,40 @@
+- title: "Evolution of massive stars with new hydrodynamic wind models" 
+  image: dummy.png 
+  description:  
+  authors: __Gormaz-Matamala__, Curé, Meynet, __Cuadra__, Groh, and Murphy 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2022A&A...665A.133G  
+    display: A&A 665, A133 (2022)  
+  highlight: 0  
+  news2:    
+
 - title: "Cronomoons: origin, dynamics, and light-curve features of ringed exomoons" 
   image: dummy.png 
   description:  
   authors: Sucerquia, Alvarado-Montes, Bayo, __Cuadra__, Cuello, Giuppone, Montesinos, Olofsson, Schwab, Spitler, and Zuluaga 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3310S  
-    display: MNRAS.tmp (2021)  
+    url:  https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.1032S  
+    display: MNRAS 512, 1032 (2022)  
+  highlight: 0  
+  news2:    
+
+- title: "New self-consistent wind parameters to fit optical spectra of O-type stars observed with the HERMES spectrograph" 
+  image: dummy.png 
+  description:  
+  authors: __Gormaz-Matamala__, Curé, Lobel, Panei, __Cuadra__, Araya, Arcos, and Figueroa-Tapia 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2022A&A...661A..51G  
+    display: A&A 661, A51 (2022)  
+  highlight: 0  
+  news2:    
+
+- title: "Galactic center gamma-ray production by cosmic rays from stellar winds and Sgr A East" 
+  image: dummy.png 
+  description:  
+  authors: __Scherer__, __Cuadra__, and Bauer 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2022A&A...659A.105S  
+    display: A&A 659, A105 (2022)  
   highlight: 0  
   news2:    
 
