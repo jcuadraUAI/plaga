@@ -17,7 +17,7 @@ Jump to [video game](#video-game), [360° videos](#360-videos), [Galactic Center
 
 **Protoplanet Express** is a video game in which you can visit different protoplanetary systems.  Each system visualisation is based on computer simulations developed by professional astronomers.
 
-A beta version of the game for different operating systems can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfWOr-7_aDPBvLBNjyfATgq3zNEBcgyxdTZB3892Vm7Mjpktg/viewform).  We would be grateful if you could answer a few questions about your experience after trying out the game.
+A beta version of the game for different operating systems can be found [here](https://questionablegames.itch.io/protoplanet-express).
 
 
 ## 360 videos
