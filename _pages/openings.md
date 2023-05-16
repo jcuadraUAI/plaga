@@ -8,13 +8,13 @@ permalink: /vacancies
 
 # Open positions
 
-There is an [open **faculty position**](https://artesliberales.uai.cl/concursos-academicos/profesor-fisica-departamento-ciencias/) in Physics (including Astronomy) at the Faculty of Liberal Arts of Universidad Adolfo Ibáñez, Viña del Mar.  Deadline is Nov 11, 2022.
-
 
 Tenemos proyectos y financiamiento para estudiantes de astronomía, física e ingeniería, de pre- o postgrado, interesada/os en trabajar con nosotros.  ¡[Contáctanos](mailto:jcuadra@npf.cl)!  En particular, estamos buscando estudiantes que quieran participar en el desarrollo de un [videojuego basado en simulaciones astrofísicas](http://www.npf.cl/wp-content/uploads/2021/12/Solicitud-de-Practicante-Realidad-Virtual.pdf).
 
 
 ## Previous announcements
+
+There is an [open **faculty position**](https://artesliberales.uai.cl/concursos-academicos/profesor-fisica-departamento-ciencias/) in Physics (including Astronomy) at the Faculty of Liberal Arts of Universidad Adolfo Ibáñez, Viña del Mar.  Deadline is Nov 11, 2022.
 
 There are [open **faculty positions**](https://ingenieria.uai.cl/assets/uploads/2021/07/womenengineering2021.pdf) for women scholars at the Faculty of Engineering and Sciences of Universidad Adolfo Ibáñez.  These can be taken at the Viña del Mar campus, and subjects include Physics and [Astronomy](https://jobregister.aas.org/ad/9ad68909).
 
