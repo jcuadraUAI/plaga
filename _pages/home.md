@@ -7,11 +7,11 @@ permalink: /
 ---
 
 We are a research group lead by Jorge Cuadra at [Universidad Adolfo
-Ibáñez (UAI)](https://www.uai.cl/) in Viña del Mar, but with graduate students
-enrolled at [P. Universidad Católica (PUC)](http://www.puc.cl/)
-in Santiago, Chile.  We work on different topics in Astrophysics, with
-a focus on numerical simulations of the Galactic Centre, planet
-formation, and other accreting systems (see [Publications](publications)).
+Ibáñez (UAI)](https://www.uai.cl/) in Viña del Mar, but with early
+career researchers based at other universities in Chile.  We work on
+different topics in Astrophysics, with a focus on numerical
+simulations of the Galactic Centre, planet formation, and other
+accreting systems (see [Publications](publications)).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -62,10 +62,9 @@ formation, and other accreting systems (see [Publications](publications)).
 </div>
 
 
-At UAI we are part of the [Faculty of Liberal
+We are part of the [Faculty of Liberal
 Arts](https://artesliberales.uai.cl/) and the [Physics + Astro
-group](http://physics-astro.uai.cl/), while students at PUC are part of the
-[Institute for Astrophysics](http://www.astro.puc.cl/).
+group](http://physics-astro.uai.cl/).
 
 Our work on formation and evolution of planetary systems is performed
 as part of the [Millennium Nucleus on Planet Formation
@@ -79,11 +78,7 @@ collaboration with [MPE's Infrared/Submillimeter Astronomy
 group](http://www.mpe.mpg.de/ir/), funded by the [Max Planck
 Society](https://www.mpg.de/).
 
-Our group at PUC is part of the "[Dust and gas in planet forming discs
-— DUSTBUSTERS](https://dustbusters.fisica.unimi.it/)" MSCA-RISE network,
-funded by the European Commission.
-
-We are also grateful for funding from different [ANID](http://www.anid.cl), [UAI](https://www.uai.cl), and [PUC](http://www.puc.cl) programmes.
+We are also grateful for funding from different [ANID](http://www.anid.cl) and [UAI](https://www.uai.cl) programmes.
 
 <P>&nbsp;</P>
 
@@ -91,12 +86,9 @@ We are also grateful for funding from different [ANID](http://www.anid.cl), [UAI
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UAI.png" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UA_PhA.jpg" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IAPUC.png" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NPF.jpg" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICM.jpg" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MPE.gif" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MPG.png" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Dustbusters.png" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.png" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANID.png" style="height: 80px">	
 </figure>
