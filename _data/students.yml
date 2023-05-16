@@ -1,4 +1,4 @@
-- name: Camila Órdenes
+- name: Camila Ordenes-Huanca
   photo: camila.jpg
   role: PhD student, PUC
   haswww: 0
@@ -6,4 +6,11 @@
   education:  MSc in Physics, UCN
   area: T Tauri stars variability
 
+- name: Miguel Vergara
+  photo: miguel.jpg
+  role: PhD student, PUC
+  haswww: 0
+  email: cordenes@astro.puc.cl
+  education:  MSc in Physics, UCN
+  area: T Tauri stars variability
   
