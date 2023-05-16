@@ -8,9 +8,10 @@
 
 - name: Miguel Vergara
   photo: miguel.jpg
-  role: PhD student, PUC
-  haswww: 0
-  email: cordenes@astro.puc.cl
-  education:  MSc in Physics, UCN
-  area: T Tauri stars variability
+  role: Computer Science Engineering student, UTFSM
+  haswww: 1
+  web: https://cl.linkedin.com/in/miguel-vergara-703304235
+  email: miguel.vergarap@sansano.usm.cl
+  education: 
+  area: video games and VR visualisation 
   
