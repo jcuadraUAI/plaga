@@ -3,11 +3,11 @@
   webpage: http://utf.mff.cuni.cz/~dcalderon/index.html
   photo: diego.jpg
   duration: MSc 2015, PhD 2019
-  info: Now a postdoc at Charles University, Prague
+  info: Afterwards a postdoc at Charles University, Prague <br> Now a postdoc at Hamburg Observatory
 
 - name: Xian Chen
   haswww: 1
-  webpage: http://kiaa.pku.edu.cn/info/1011/2663.htm
+  webpage: https://kiaa.pku.edu.cn/info/1010/2663.htm
   photo: xian.jpg
   duration: Postdoc 2015-2016
   info: Now a professor at Peking University
@@ -28,6 +28,7 @@
 #  education: PhD, Univ de Valparaíso
 #  area:  Stellar wind models
   duration: Postdoc 2021-2023
+  info: Now a postdoc at Nicolaus Copernicus Astronomical Center, Warsaw
 
 - name: Luciano del Valle
   photo: luciano.jpg
@@ -48,7 +49,7 @@
 
 - name: Virginie Faramaz
   haswww: 1
-  webpage: https://science.jpl.nasa.gov/people/Faramaz/
+  webpage: http://virginie-faramaz.com/
   photo: virginie.jpg
   duration: Postdoc 2014-17
   info: Afterwards a postdoc at JPL, Pasadena <br> Now a professor at the University of Arizona
@@ -67,24 +68,24 @@
 
 - name: Sofía Gallego
   haswww: 1
-  webpage: https://cosmologa.com/
+  webpage: https://www.linkedin.com/in/sofia-gallego/
   photo: sofia.jpg
   duration: BSc 2012
   info: Afterwards MSc at PUC and PhD at ETH, Zürich <br> Now a postdoc at Caltech
 
 - name: Matías Gárate
-  haswww: 0
-  webpage: https://orcid.org/0000-0001-6802-834X
+  haswww: 1
+  webpage: https://de.linkedin.com/in/mat%C3%ADas-g%C3%A1rate-silva-7784a714b
   photo: matiasG.jpg
   duration: BSc 2015, MSc 2017
   info: Afterwards PhD at USM, Munich <br> Now a postdoc at MPIA, Heidelberg
 
 - name: Juan Garrido-Deutelmoser
-  haswww: 1
+  haswww: 0
   webpage: https://www.jgarridodeutelmoser.com/
   photo: juan.jpg
   duration: BSc 2019
-  info: Now MSc student at PUC
+  info: Afterwards MSc at PUC <br> Now PhD student at PUC
 
 - name: Felipe G Goicovic
   haswww: 1
@@ -126,8 +127,8 @@
 
 - name: Christopher Russell
   haswww: 1
-  webpage: https://astro.puc.cl/~crussell/
+  webpage: https://www.linkedin.com/in/cmprussell
   photo: chris.jpg
   duration: Postdoc 2017-2020
-  info: Now a postdoc at NASA-Goddard and CUA 
+  info: Afterwards a postdoc at CUA <br> Now a postdoc at U Delaware 
 
