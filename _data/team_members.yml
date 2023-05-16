@@ -16,6 +16,14 @@
 #  education: PhD, Univ Nac La Plata
 #  area: Planet formation
 
+- name: Andrés Scherer
+  photo: andres.jpg
+  role: Postdoctoral researcher, PUC
+  haswww: 0
+  email: ascherer@uc.cl
+  education: PhD, PUC
+  area: Cosmic and gamma rays in the Galactic Centre
+
 
 - name: "This could be you !"
   photo: astronaut.png
