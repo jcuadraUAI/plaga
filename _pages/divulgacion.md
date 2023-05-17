@@ -68,6 +68,12 @@ vea la contribución de un viento estelar a la vez.
 {% include youtubePlayer.html id="FV5MEv9M5Rw" %}
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="wKDb2U7fGb4" %}
+<P>&nbsp;</P>
+{% include youtubePlayer.html id="MSHwfNJx__Q" %}
+<P>&nbsp;</P>
+{% include youtubePlayer.html id="dQlNK1uaFM" %}
+<P>&nbsp;</P>
+{% include youtubePlayer.html id="yAqlokjwwjM" %}
 
 
 ## Entrevistas
@@ -77,6 +83,8 @@ vea la contribución de un viento estelar a la vez.
 {% include youtubePlayer.html id="7NkOKDfeGYo" %}
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="WkMPnNw8YlQ" %}
+<P>&nbsp;</P>
+{% include youtubePlayer.html id="gHJd52m-vSA" %}
 
 <P>&nbsp;</P>
   Podcast: <a href="http://www.astroblog.cl/episodio145/" target="_blank">
