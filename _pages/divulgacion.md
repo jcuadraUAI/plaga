@@ -50,6 +50,8 @@ expulsión de material desde Sgr A*.
 
 {% include youtubePlayer.html id="BnQealT-Mts" %}
 
+{% include youtubePlayer.html id="WpIoiNqzhuw" %}
+
 La aplicación [Centro Galáctico VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
 permite volar alrededor de Sagitario A*, ver las estrellas que le
 orbitan, sus vientos estelares y los rayos X que emiten. Se pueden ver
