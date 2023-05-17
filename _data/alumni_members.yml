@@ -19,17 +19,6 @@
   duration: Postdoc 2016-2020
   info: Afterwards a Marie-Curie fellow at IPAG, Grenoble <br> Now an ERC fellow
 
-- name: Alex Gormaz-Matamala
-  photo: alexgm.jpg
-#  role: Postdoctoral researcher, UAI
-  haswww: 1
-  webpage: https://reevolucionestelar.wordpress.com/acerca-de/
-#  email: alex.gormaz@uv.cl
-#  education: PhD, Univ de Valparaíso
-#  area:  Stellar wind models
-  duration: Postdoc 2021-2023
-  info: Now a postdoc at Nicolaus Copernicus Astronomical Center, Warsaw
-
 - name: Luciano del Valle
   photo: luciano.jpg
 #  role: Postdoctoral researcher, NPF & PUC
@@ -93,6 +82,17 @@
   photo: felipe.jpg
   duration: PhD 2017
   info:  Afterwards a postdoc at HITS and ITA, Heidelberg <br> Now a software developer
+
+- name: Alex Gormaz-Matamala
+  photo: alexgm.jpg
+#  role: Postdoctoral researcher, UAI
+  haswww: 1
+  webpage: https://reevolucionestelar.wordpress.com/acerca-de/
+#  email: alex.gormaz@uv.cl
+#  education: PhD, Univ de Valparaíso
+#  area:  Stellar wind models
+  duration: Postdoc 2021-2023
+  info: Now a postdoc at Nicolaus Copernicus Astronomical Center, Warsaw
 
 #- name: Aira Lobo Gomes
 #  haswww: 1
