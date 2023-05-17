@@ -50,6 +50,8 @@ expulsión de material desde Sgr A*.
 
 {% include youtubePlayer.html id="BnQealT-Mts" %}
 
+<P>&nbsp;</P>
+
 {% include youtubePlayer.html id="WpIoiNqzhuw" %}
 
 La aplicación [Centro Galáctico VR](https://store.steampowered.com/app/1240350/Galactic_Center_VR/)
