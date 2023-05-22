@@ -66,7 +66,8 @@
     url:  https://ui.adsabs.harvard.edu/abs/2022A&A...661A..51G  
     display: A&A 661, A51 (2022)  
   highlight: 1  
-  news2:    
+  news2: "Nota de la UAI: [https://noticias.uai.cl/astronomos-uai-un-aporte-desde-chile-para-la-comprension-del-universo/](Astrónomos UAI: un aporte desde Chile para la comprensión del universo)"
+
 
 - title: "Galactic center gamma-ray production by cosmic rays from stellar winds and Sgr A East" 
   image: 2022A&A...659A.105S.png 
