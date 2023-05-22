@@ -268,7 +268,7 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
     display: SSRv 216, 86 (2020)  
-  highlight: 1  
+  highlight: 0  
   news2: "Nota del NPF: [Preparando el escenario: Resumen sobre lo que sabemos de la formación planetaria](http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/)"
 
 - title: "How Jupiters save or destroy inner Neptunes around evolved stars" 
@@ -504,7 +504,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.5362R  
     display: MNRAS 479, 5362 (2018)  
-  highlight: 1  
+  highlight: 0  
   news2:  "Nota del NPF: [Astrónomos estudian la formación de sistemas planetarios análogos al Sistema Solar](http://www.npf.cl/2018/08/14/astronomos-estudian-la-formacion-de-sistemas-planetarios-analogos-al-sistema-solar/)"
   news0:  "Nota del NPF: [Investigadora del NPF recibe importante premio](http://www.npf.cl/2018/09/07/investigadora-del-npf-recibe-importante-premio/)"
 
