@@ -1,6 +1,6 @@
 - title: "Evolution of rotating massive stars with new hydrodynamic wind models" 
-  image: dummy.png 
-  description:  
+  image: 2023A&A...673A.109G.png 
+  description: "The self-consistent approach gives lower mass-loss rates, which strongly affect the tracks of the most massive models. Weaker winds allow the star to retain more mass, but also more angular momentum. As a consequence, weaker wind models rotate faster and show a less efficient mixing in their inner stellar structure at a given age." 
   authors: __Gormaz-Matamala__, __Cuadra__, Meynet, and Curé 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2023A&A...673A.109G  
@@ -30,7 +30,7 @@
 
 - title: "Infrared variability of young solar analogues in the Lagoon Nebula" 
   image: 2022MNRAS.517.6191O.jpg
-  description: "We compile a catalogue of T Tauri light curves to constrain the physical processes responsible for their variation. We find that magnetically active regions remain stable for several years, and that infrared and optical periodicity is in fairly good agreement" 
+  description: "We compile a catalogue of T Tauri light curves to constrain the physical processes responsible for their variation. We find that magnetically active regions remain stable for several years, and that infrared and optical periodicity is in fairly good agreement." 
   authors: __Ordenes-Huanca__, Zoccali, Bayo, __Cuadra__, Contreras Ramos, Hillenbrand, et al.
   authorsall: __Ordenes-Huanca__, Zoccali, Bayo, __Cuadra__, Contreras Ramos, Hillenbrand, Lacerna, Abarzua, Avendaño, Diaz, Fernandez, and Lara 
   link:   
