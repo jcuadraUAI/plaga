@@ -88,7 +88,8 @@
     url:  https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..205P  
     display: MNRAS 510, 205 (2022)  
   highlight: 1  
-  news2:    
+  news2:  "NPF Press Release: [Researchers propose the existence of a companion star for the HD169142 system](http://www.npf.cl/en/2021/12/22/researchers-propose-the-existence-of-a-companion-star-for-the-hd169142-system/)
+  	 Original version: [Investigadores proponen la existencia de una estrella compañera para el sistema  HD169142](http://www.npf.cl/2021/12/22/investigadores-proponen-la-existencia-de-una-estrella-companera-para-el-sistema-hd169142/)"   
 
 - title: "The importance of thermal torques on the migration of planets growing by pebble accretion" 
   image: 2021MNRAS.507.3638G.png 
