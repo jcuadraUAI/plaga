@@ -60,7 +60,7 @@
 
 - title: "New self-consistent wind parameters to fit optical spectra of O-type stars observed with the HERMES spectrograph" 
   image: dummy.png 
-  description:  
+  description: "We performed a spectral fitting for a set of O-type stars based on self-consistent wind solutions, which provide mass-loss rate and velocity profiles directly derived from the initial stellar parameters." 
   authors: __Gormaz-Matamala__, Curé, Lobel, Panei, __Cuadra__, Araya, Arcos, and Figueroa-Tapia 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2022A&A...661A..51G  
