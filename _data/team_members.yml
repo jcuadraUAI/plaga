@@ -1,9 +1,9 @@
 - name: Jorge Cuadra
   photo: jorge.jpg
   role: Full professor, UAI <br> Deputy director, NPF
-  haswww: 0
-  webpage: http://www.astro.puc.cl/~jcuadra
-  email: jcuadra@npf.cl
+  haswww: 1
+  webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
+  email: jorge.cuadra@uai.cl
   education: PhD, MPA Garching
   area: Galactic Centre - Protoplanetary discs
 
@@ -29,4 +29,4 @@
   photo: astronaut.png
   role: See [open positions](/plaga/vacancies)
   haswww: 0
-  email: jcuadra@npf.cl
+  email: jorge.cuadra@uai.cl
