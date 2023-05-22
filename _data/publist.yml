@@ -69,8 +69,8 @@
   news2:    
 
 - title: "Galactic center gamma-ray production by cosmic rays from stellar winds and Sgr A East" 
-  image: dummy.png 
-  description:  
+  image: 2022A&A...659A.105S.png 
+  description: "We find that if the Galactic centre hosts only a persistent cosmic ray source, a disk-like gas distribution of gas in the central molecular zone is needed to reproduce the gamma-ray observations. For the expected cavity to be allowed, an additional impulsive cosmic-ray source is needed. " 
   authors: __Scherer__, __Cuadra__, and Bauer 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2022A&A...659A.105S  
