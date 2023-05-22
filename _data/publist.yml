@@ -39,8 +39,8 @@
   news2:    
 
 - title: "Evolution of massive stars with new hydrodynamic wind models" 
-  image: dummy.png 
-  description: "We find important differences between the standard tracks and our new self-consistent tracks. Models adopting the new recipe retain more mass during their evolution, which is expressed as larger radii and consequently more luminous tracks." 
+  image: 2022A&A...665A.133G.png 
+  description: "We find important differences between the standard tracks and our new self-consistent tracks. Models adopting the new recipe retain more mass, which is expressed as larger radii and more luminous tracks." 
   authors: __Gormaz-Matamala__, Curé, Meynet, __Cuadra__, Groh, and Murphy 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2022A&A...665A.133G  
