@@ -56,8 +56,9 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.1032S  
     display: MNRAS 512, 1032 (2022)  
-  highlight: 0  
-  news2:    
+  highlight: 1
+  news2:  "NPF Press Release: [Searching for moons with rings outside the Solar System](http://www.npf.cl/en/2021/12/09/searching-for-moons-with-rings-outside-the-solar-system/)
+  	 Original version: [Buscando lunas con anillos fuera del Sistema Solar](http://www.npf.cl/2021/12/09/buscando-lunas-con-anillos-fuera-del-sistema-solar/)"   
 
 - title: "New self-consistent wind parameters to fit optical spectra of O-type stars observed with the HERMES spectrograph" 
   image: 2022A&A...661A..51G.jpg
