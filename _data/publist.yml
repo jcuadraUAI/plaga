@@ -1,3 +1,14 @@
+- title: "Resolving the binary components of the outbursting protostar HBC 494 with ALMA" 
+  image: dummy.png 
+  description:  
+  authors: Nogueira, Zurlo, Pérez,  et al. (incl. __Cuadra__) 
+  authorsall: Nogueira, Zurlo, Pérez, González-Ruilova, Cieza, Hales, Bhowmik, Ruíz-Rodríguez, Principe, Herczeg, Williams, Cuadra, Montesinos, Cuello, Chavan, Casassus, Zhu, and Goicovic 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1574N  
+    display: MNRAS.tmp (2023)  
+  highlight: 0  
+  news2:    
+
 - title: "Evolution of rotating massive stars with new hydrodynamic wind models" 
   image: 2023A&A...673A.109G.png 
   description: "The self-consistent approach gives lower mass-loss rates, which strongly affect the tracks of the most massive models. Weaker winds allow the star to retain more mass, but also more angular momentum. As a consequence, weaker wind models rotate faster and show a less efficient mixing in their inner stellar structure at a given age." 
