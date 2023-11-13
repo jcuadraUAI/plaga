@@ -20,4 +20,4 @@ Download a [copy of the poster](/plaga/downloads/larim_thales.pdf)
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/misc/larim_thales.jpg" >
-  </figure>
+</figure>
