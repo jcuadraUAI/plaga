@@ -8,49 +8,8 @@ permalink: /larim_thales/
 
 # Poster presentation "The Asymmetric Sunrise Effect on Thales Alleged Measurement of the Sun Angular Size" by Jorge Cuadra, LARIM 2023
 
-  <div id="homeid" class="col-sm-8">
+Research article "The Asymmetric Sunrise Effect on Thales Alleged Measurement of the Sun Angular Size"
+[PASJ](https://academic.oup.com/pasj/advance-article/doi/10.1093/pasj/psad026/7133153?utm_source=authortollfreelink&utm_campaign=pasj&utm_medium=email&guestAccessKey=94683e9c-55ea-4131-a8f6-40318809a29f)
+[ADS](https://ui.adsabs.harvard.edu/abs/2023PASJ...75L..12C/abstract)
+[arXiv](https://arxiv.org/abs/2305.06149)
 
-
-
-
-
-
-<p>One morning, when Gregor Samsa woke from troubled 
-dreams, he found himself transformed in his bed into 
-a horrible vermin. He lay on his armour-like back, 
-and if he lifted his head a little he could see his 
-brown belly, slightly domed and divided by arches into 
-stiff sections. The bedding was hardly able to cover 
-<strong>strong</strong> it and seemed ready to slide 
-off any moment. His many legs, pitifully thin 
-compared with the size of the rest of him, 
-<a class="external ext" href="#">link</a> waved about 
-helplessly as he looked. "What's happened to me? " he 
-thought. It wasn't a dream. His room, a proper human 
-room although a little too small, lay peacefully 
-between its four familiar walls.</p>
-
-
-
-## test2
-
-{% include youtubePlayer.html id="HELhXDG-Mck" %}
-
-<p>One morning, when Gregor Samsa woke from troubled 
-dreams, he found himself transformed in his bed into 
-a horrible vermin. He lay on his armour-like back, 
-and if he lifted his head a little he could see his 
-brown belly, slightly domed and divided by arches into 
-stiff sections. The bedding was hardly able to cover 
-<strong>strong</strong> it and seemed ready to slide 
-off any moment. His many legs, pitifully thin 
-compared with the size of the rest of him, 
-<a class="external ext" href="#">link</a> waved about 
-helplessly as he looked. "What's happened to me? " he 
-thought. It wasn't a dream. His room, a proper human 
-room although a little too small, lay peacefully 
-between its four familiar walls.</p>
-
-
-
-  </div>	   
