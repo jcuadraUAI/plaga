@@ -6,7 +6,7 @@ sitemap: false
 permalink: /larim_thales/
 ---
 
-# Poster presentation "The Asymmetric Sunrise Effect on Thales Alleged Measurement of the Sun Angular Size"
+# Poster presentation "The Asymmetric Sunrise Effect on Thales Alleged Measurement of the Sun Angular Size" by Jorge Cuadra, LARIM 2023
 
   <div id="homeid" class="col-sm-8">
 
