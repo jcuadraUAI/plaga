@@ -13,3 +13,5 @@ Research article "The Asymmetric Sunrise Effect on Thales Alleged Measurement of
 [ADS](https://ui.adsabs.harvard.edu/abs/2023PASJ...75L..12C/abstract)
 [arXiv](https://arxiv.org/abs/2305.06149)
 
+Non-technical article "TALES DE MILETO Y EL TAMAÑO DEL SOL"
+[RAL](https://revistaral.cl/tales-de-mileto-y-el-tamano-del-sol/)
