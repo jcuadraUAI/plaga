@@ -1,12 +1,12 @@
 ---
 title: "The Asymmetric Sunrise Effect on Thales Alleged Measurement of the Sun Angular Size"
 layout: textlay
-excerpt: "The Asymmetric Sunrise Effect on Thales' Alleged Measurement of the Sun Angular Size"
+excerpt: "The Asymmetric Sunrise Effect on Thales Alleged Measurement of the Sun Angular Size"
 sitemap: false
 permalink: /larim_thales/
 ---
 
-# TEST
+# Poster presentation "The Asymmetric Sunrise Effect on Thales Alleged Measurement of the Sun Angular Size"
 
   <div id="homeid" class="col-sm-8">
 
