@@ -15,6 +15,9 @@ Proceedings article "Protoplanet Express, a video game based on numerical simula
 
 Download a [copy of the poster](/plaga/downloads/larim_ppe.pdf)
 
+{% include youtubePlayer.html id="LJEkrP08RtE" %}
+
+
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/misc/larim_thales.jpg" >
+  <img src="{{ site.url }}{{ site.baseurl }}/images/misc/larim_ppe.jpg" >
 </figure>
