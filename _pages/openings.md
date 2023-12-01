@@ -12,7 +12,7 @@ permalink: /vacancies
 We have an open [**postdoctoral position**](https://jobregister.aas.org/ad/090ca36b) to work on the development of numerical models of protoplanetary and/or circumbinary discs, with special emphasis on disc thermodynamics, the early evolution of planetary systems and observational signatures.   Deadline June 23.
 
 
-Tenemos proyectos y financiamiento para estudiantes de astronomía, física e ingeniería, de pre- o postgrado, interesada/os en trabajar con nosotros.  ¡[Contáctanos](mailto:jcuadra@npf.cl)!  En particular, estamos buscando estudiantes que quieran participar en el desarrollo de un [videojuego basado en simulaciones astrofísicas](http://www.npf.cl/wp-content/uploads/2021/12/Solicitud-de-Practicante-Realidad-Virtual.pdf).
+Tenemos proyectos y financiamiento para estudiantes de astronomía, física e ingeniería, de pre- o postgrado, interesada/os en trabajar con nosotros.  ¡[Contáctanos](mailto:jorge.cuadra@uai.cl)!  En particular, estamos buscando estudiantes que quieran participar en el desarrollo de un [videojuego basado en simulaciones astrofísicas](http://www.npf.cl/wp-content/uploads/2021/12/Solicitud-de-Practicante-Realidad-Virtual.pdf).
 
 
 
