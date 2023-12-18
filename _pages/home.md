@@ -68,8 +68,11 @@ group](http://physics-astro.uai.cl/).
 
 Our work on formation and evolution of planetary systems is performed
 as part of the [Millennium Nucleus on Planet Formation
-(NPF)](http://www.npf.cl), funded by the [Iniciativa Científica
-Milenio](http://www.iniciativamilenio.cl/).
+(NPF)](http://www.npf.cl), while our work on accreting black holes and
+their environment is done as part of the [Millennium Nucleus for
+Transversal Research and Technology to explore Supermassive Black
+Holes (TITANS)](http://www.astro.udec.cl/titans/), both funded by the
+[Iniciativa Científica Milenio](http://www.iniciativamilenio.cl/).
 
 Our research on the Galactic Centre is carried out as the [Max Planck
 Partner Group on Galactic Centre
