@@ -74,13 +74,6 @@ Transversal Research and Technology to explore Supermassive Black
 Holes (TITANS)](http://www.astro.udec.cl/titans/), both funded by the
 [Iniciativa Científica Milenio](http://www.iniciativamilenio.cl/).
 
-Our research on the Galactic Centre is carried out as the [Max Planck
-Partner Group on Galactic Centre
-Astrophysics](https://www.latam.mpg.de/4786/grupo-cuadra), in
-collaboration with [MPE's Infrared/Submillimeter Astronomy
-group](http://www.mpe.mpg.de/ir/), funded by the [Max Planck
-Society](https://www.mpg.de/).
-
 We are also grateful for funding from different [ANID](http://www.anid.cl) and [UAI](https://www.uai.cl) programmes.
 
 <P>&nbsp;</P>
@@ -91,7 +84,5 @@ We are also grateful for funding from different [ANID](http://www.anid.cl) and [
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UA_PhA.jpg" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NPF.jpg" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICM.jpg" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MPE.gif" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MPG.png" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANID.png" style="height: 80px">	
 </figure>
