@@ -8,6 +8,10 @@ permalink: /vacancies
 
 # Open positions
 
+The [N&uacute;cleo Milenio Transversal Research and Technology to explore Supermassive Black Holes (TITANS)](http://www.astro.udec.cl/titans/) invites applications to fill two [**postdoctoral positions**](https://jobregister.aas.org/ad/cf9d6d09).
+One of the positions aims for theoretical approaches geared toward understanding the link between single and binary SMBHs and their immediate environments, and can be held at UAI in Viña del Mar. 
+Deadline Jan 15.
+
 Universidad Adolfo Ibáñez has short-term (March–December 2024) [**postdoctoral positions** open](https://www.uai.cl/assets/uploads/2023/12/bases-concurso-post-doctorado-uai-2024.pdf), with the aim of applying for a 3-year FONDECYT fellowship.  This requires a PhD obtained in 2021 or later for the applicant (longer period applies to recent mothers).  If interested please contact [J Cuadra](mailto:jorge.cuadra@uai.cl) well before the Jan 23 deadline.
 
 
