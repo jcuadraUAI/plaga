@@ -36,7 +36,7 @@ accreting systems (see [Publications](publications)).
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/flyby.jpg" alt="Flyby" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group.jpg" alt="Group Picture" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PPE.jpg" alt="Protoplanet Express snapshot" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GCdisc.jpg" alt="Disc in the Galactic Centre" />
