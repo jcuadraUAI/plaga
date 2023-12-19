@@ -71,6 +71,9 @@ stellar wind at a time.
 {% include youtubePlayer.html id="Sd4_nfDuzmE" %}
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="LUv9DfwuVuc" %}
+<P>&nbsp;</P>
+{% include youtubePlayer.html id="LJEkrP08RtE" %}
+
 
 ## More videos
 
