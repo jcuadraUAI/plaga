@@ -107,6 +107,16 @@
   duration: Postdoc 2011-14; 2017
   info: Afterwards a postdoc at U de Chile and U de Valparaíso <br> Now a professor at Universidad de Viña del Mar 
 
+- name: Camila Ordenes-Huanca
+  photo: camila.jpg
+#  role: PhD student, PUC
+  haswww: 0
+#  email: cordenes@astro.puc.cl
+#  education:  MSc in Physics, UCN
+#  area: T Tauri stars variability
+  duration: PhD 2023
+  info: Now a research assistant at PUC
+
 - name: Pedro Poblete
   haswww: 0
   photo: pedro.jpg
