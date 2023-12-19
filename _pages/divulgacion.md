@@ -18,7 +18,7 @@ Ir a [video juego](#video-juego), [videos 360°](#videos-360), [Centro Galáctic
 
 **Protoplanet Express** es un video juego en el cual puede visitar distintos sistemas protoplanetarios. La [visualización](https://www.almaobservatory.org/es/anuncios/explora-el-universo-con-protoplanet-express/) de cada sistema está basada en simulaciones computacionales que fueron desarrolladas por astrónoma/os profesionales.
 
-El juego fue [lanzado](https://noticias.uai.cl/evento/videojuego-protoplanet-express-una-exploracion-virtual-de-la-formacion-planetaria/) en noviembre del 2023 y se puede bajar gratis en [Steam](https://store.steampowered.com/app/2601120/Protoplanet_Express/).
+El juego fue [lanzado](https://noticias.uai.cl/protoplanet-express-academico-uai-lidera-videojuego-que-acerca-la-astronomia-a-la-sociedad/) en noviembre del 2023 y se puede bajar gratis en [Steam](https://store.steampowered.com/app/2601120/Protoplanet_Express/).
 
 
 
