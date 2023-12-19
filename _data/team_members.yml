@@ -16,6 +16,14 @@
 #  education: PhD, Univ Nac La Plata
 #  area: Planet formation
 
+- name: Guido Granda-Muñoz
+  photo: guido.jpg
+  role: Postdoctoral researcher, UAI
+  haswww: 0
+  email: g.granda@irya.unam.mx
+  education: PhD, UNAM
+  area: protoplanetary disc simulations
+
 - name: Andrés Scherer
   photo: andres.jpg
   role: Postdoctoral researcher, PUC
@@ -26,7 +34,7 @@
 
 - name: Mario Sucerquia
   photo: mario.jpg
-  role: FONDECYT postdoctoral fellow, UV -> UAI
+  role: FONDECYT postdoctoral fellow, UAI
   haswww: 1
   webpage: https://malsuar.wixsite.com/mario-sucerquia
   email: mario.sucerquia@uv.cl
