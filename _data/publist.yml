@@ -5,7 +5,7 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2023A&A...679A.114S  
     display: A&A 679, A114 (2023)  
-  highlight: 0  
+  highlight: 1  
   news2:
 
 - title: "Resolving the binary components of the outbursting protostar HBC 494 with ALMA" 
@@ -256,7 +256,7 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2020A&A...643L...1V  
     display: A&A 643, L1 (2020)  
-  highlight: 1
+  highlight: 0
   news1: "NCCR PlanetS Press Release: [How water explains missing planets](http://nccr-planets.ch/blog/2020/10/28/how-water-explains-missing-planets/)"
   news2: "NPF Press Release: [What do the sizes of the Kepler planets tell us about their formation process?](http://www.npf.cl/en/2020/10/30/what-do-the-sizes-of-the-kepler-planets-tell-us-about-their-formation-process/)
   	 Original version: [¿Qué nos dicen los tamaños de los planetas Kepler sobre su proceso de formación ?](http://www.npf.cl/2020/10/30/que-nos-dicen-los-tamanos-de-los-planetas-kepler-sobre-su-proceso-de-formacion/)"   
@@ -456,7 +456,7 @@ Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2019A&A...628A.119C  
     display: A&A 628, A119 (2019)  
-  highlight: 1  
+  highlight: 0  
   news2: "Nota del NPF: [No por ser muchos todo se alinea: Investigación concluye que los discos protoplanetarios ortogonales son más comunes de los que se creía](http://www.npf.cl/2019/07/26/no-por-ser-muchos-todo-se-alinea-investigacion-concluye-que-los-discos-protoplanetarios-ortogonales-son-mas-comunes-de-los-que-se-creia/)"   
 
 - title: "Thermal torque effects on the migration of growing low-mass planets" 
