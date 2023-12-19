@@ -1,3 +1,13 @@
+- title: "Modeling the Galactic center gamma-ray emission with more realistic cosmic-ray dynamics" 
+  image: dummy.png 
+  description:  
+  authors: __Scherer__, __Cuadra__, and Bauer 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2023A&A...679A.114S  
+    display: A&A 679, A114 (2023)  
+  highlight: 0  
+  news2:
+
 - title: "Resolving the binary components of the outbursting protostar HBC 494 with ALMA" 
   image: dummy.png 
   description:  
@@ -5,7 +15,7 @@
   authorsall: Nogueira, Zurlo, Pérez, González-Ruilova, Cieza, Hales, Bhowmik, Ruíz-Rodríguez, Principe, Herczeg, Williams, Cuadra, Montesinos, Cuello, Chavan, Casassus, Zhu, and Goicovic 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1574N  
-    display: MNRAS.tmp (2023)  
+    display: MNRAS 523, 4970 (2023)  
   highlight: 0  
   news2:    
 
