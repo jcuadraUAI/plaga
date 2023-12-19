@@ -13,9 +13,10 @@ Jump to [video game](#video-game), [360° videos](#360-videos), [Galactic Center
 
 ## video game
 
-{% include youtubePlayer.html id="LJEkrP08RtE" %}
 
-**Protoplanet Express** is a video game in which you can visit different protoplanetary systems.  Each system visualisation is based on computer simulations developed by professional astronomers.
+{% include youtubePlayer.html id="homCk7Blq2k" %}
+
+**Protoplanet Express** is a [video game](https://www.almaobservatory.org/en/announcements/explore-the-universe-with-protoplanet-express/) in which you can visit different protoplanetary systems.  Each system visualisation is based on computer simulations developed by professional astronomers.
 
 The game is available for free [on Steam](https://store.steampowered.com/app/2601120/Protoplanet_Express/).
 
