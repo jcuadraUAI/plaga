@@ -7,7 +7,7 @@ permalink: /
 ---
 
 We are a research group lead by Jorge Cuadra at [Universidad Adolfo
-Ibáñez (UAI)](https://www.uai.cl/) in Viña del Mar, but with early
+Ibáñez (UAI)](https://www.uai.cl/) in Viña del Mar, but with some early
 career researchers based at other universities in Chile.  We work on
 different topics in Astrophysics, with a focus on numerical
 simulations of the Galactic Centre, planet formation, and other
