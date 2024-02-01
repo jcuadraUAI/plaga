@@ -31,7 +31,48 @@
 </head>
 
 
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+	<div class="column left">
+	  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ z.photo }}" style="width:100%">
+	</div>
+	<div class="column right">
+	  <br> <b>{{z.name}}</b> <br>
+	  <i>{{ z.role }}</i><br>	
+	  <i> {{ z.education }}</i><br>
+
+	  {% for lab in z.labels %}
+	    {% if lab.type == "email" %}<a href="mailto:{{lab.email}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-envelope"></i></span> </a> {% endif %}
+	    {% if lab.type == "website" %}<a href="{{lab.website}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-globe"></i></span> </a> {% endif %}
+	    {% if lab.type == "twitter" %}<a href="{{lab.twitter}}"><span style="font-size: 25px; color: Black;"><i class="fab fa-twitter"></i></span></a> {% endif %} 
+	    {% if lab.type == "github" %}<a href="{{lab.github}}"><span style="font-size: 25px; color: Black;"><i class="fab fa-github"></i></span></a> {% endif %} 
+	    {% if lab.type == "cv" %}<a href="/resources/cvs/{{lab.cv}}"><span style="font-size: 25px; color: Black;"><i class="ai ai-cv"></i></span></a> {% endif %} 
+	    {% if lab.type == "orcid" %}<a href="{{lab.orcid}}"><span style="font-size: 25px; color: Black;"><i class="fab fa-orcid"></i></span></a> {% endif %} 
+  	    {% if lab.type == "googlescholar" %}<a href="{{lab.googlescholar}}"><span style="font-size: 25px; color: Black;"><i class="ai ai-google-scholar"></i></span></a> {% endif %} 
+{% endfor %}
+	</div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 <div class="row">
 	<div class="column left">
