@@ -6,6 +6,10 @@
   email: jorge.cuadra@uai.cl
   education: PhD, MPA Garching
   area: Galactic Centre - Protoplanetary discs
+  labels:
+    - type: email
+      email: mason@lsu.edu
+
 
 #- name: Octavio Guilera
 #  photo: octavio.jpg
