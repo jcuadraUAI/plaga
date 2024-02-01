@@ -38,8 +38,11 @@
 	  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ z.photo }}" style="width:100%">
 	</div>
 	<div class="column right">
-		<br> <b>{{z.name}}</b> <br> <i>{{z.title}}</i> <br> {{z.bio}} <br> <br>
-		{% for lab in z.labels %}
+	  <br> <b>{{z.name}}</b> <br>
+	  <i>{{ z.role }}</i><br>	
+	  <i> {{ z.education }}</i><br>
+
+	  {% for lab in z.labels %}
 	    {% if lab.type == "email" %}<a href="mailto:{{lab.email}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-envelope"></i></span> </a> {% endif %}
 	    {% if lab.type == "website" %}<a href="{{lab.website}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-globe"></i></span> </a> {% endif %}
 	    {% if lab.type == "twitter" %}<a href="{{lab.twitter}}"><span style="font-size: 25px; color: Black;"><i class="fab fa-twitter"></i></span></a> {% endif %} 
