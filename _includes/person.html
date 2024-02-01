@@ -48,6 +48,8 @@
 	  <br> <b>{{z.name}}</b> <br>
 	  <i>{{ z.role }}</i><br>	
 	  <i> {{ z.education }}</i><br>
+	    {{z.area}}<br>
+
 
 	  {% for lab in z.labels %}
 	    {% if lab.type == "email" %}<a href="mailto:{{lab.email}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-envelope"></i></span> </a> {% endif %}
