@@ -32,7 +32,17 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 <{{ member.email }}> <br>
  <i>{{ member.role }}</i><br>	
  <i> {{ member.education }}</i><br>
-  {{member.area}}
+  {{member.area}} <br>
+  	{% for lab in z.labels %}
+	    {% if lab.type == "email" %}<a href="mailto:{{lab.email}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-envelope"></i></span> </a> {% endif %}
+	    {% if lab.type == "website" %}<a href="{{lab.website}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-globe"></i></span> </a> {% endif %}
+	    {% if lab.type == "twitter" %}<a href="{{lab.twitter}}"><span style="font-size: 25px; color: Black;"><i class="fab fa-twitter"></i></span></a> {% endif %} 
+	    {% if lab.type == "github" %}<a href="{{lab.github}}"><span style="font-size: 25px; color: Black;"><i class="fab fa-github"></i></span></a> {% endif %} 
+	    {% if lab.type == "cv" %}<a href="/resources/cvs/{{lab.cv}}"><span style="font-size: 25px; color: Black;"><i class="ai ai-cv"></i></span></a> {% endif %} 
+	    {% if lab.type == "orcid" %}<a href="{{lab.orcid}}"><span style="font-size: 25px; color: Black;"><i class="fab fa-orcid"></i></span></a> {% endif %} 
+  	    {% if lab.type == "googlescholar" %}<a href="{{lab.googlescholar}}"><span style="font-size: 25px; color: Black;"><i class="ai ai-google-scholar"></i></span></a> {% endif %} 
+{% endfor %}
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
