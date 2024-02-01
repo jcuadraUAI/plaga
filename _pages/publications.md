@@ -9,9 +9,12 @@ permalink: /publications/
 
 # Publications
 
+For a full list see [below](#full-list). For our most recent papers follow this [ADS link](https://ui.adsabs.harvard.edu/search/q=author%3A%22cuadra%2C%20jorge%22%20OR%20author%3A%22granda-mu%C3%B1oz%2C%20guido%22%20OR%20author%3A%22scherer%2C%20andr%C3%A9s%22%20OR%20author%3A%22sucerquia%2C%20mario%22%20year%3A2024-&sort=date%20desc%2C%20bibcode%20desc&p_=0) (may contain false positives).
+
+
 ## Group highlights
 
-For a full list see [below](#full-list). For our most recent papers follow this [ADS link](https://ui.adsabs.harvard.edu/search/q=author%3A%22cuadra%2C%20jorge%22%20OR%20author%3A%22granda-mu%C3%B1oz%2C%20guido%22%20OR%20author%3A%22scherer%2C%20andr%C3%A9s%22%20OR%20author%3A%22sucerquia%2C%20mario%22%20year%3A2024-&sort=date%20desc%2C%20bibcode%20desc&p_=0) (may contain false positives).
+
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
