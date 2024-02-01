@@ -33,7 +33,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
  <i>{{ member.role }}</i><br>	
  <i> {{ member.education }}</i><br>
   {{member.area}} <br>
-  	{% for lab in z.labels %}
+  	{% for lab in member.labels %}
 	    {% if lab.type == "email" %}<a href="mailto:{{lab.email}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-envelope"></i></span> </a> {% endif %}
 	    {% if lab.type == "website" %}<a href="{{lab.website}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-globe"></i></span> </a> {% endif %}
 	    {% if lab.type == "twitter" %}<a href="{{lab.twitter}}"><span style="font-size: 25px; color: Black;"><i class="fab fa-twitter"></i></span></a> {% endif %} 
