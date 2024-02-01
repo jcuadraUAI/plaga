@@ -166,3 +166,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 
 </div>
 
+
+<link rel="stylesheet" href="/resources/icons/fontawesome-free-5.14.0-web/css/all.css" />
+<link rel="stylesheet" href="/resources/icons/academicons-1.9.0/css/academicons.css" />
+
