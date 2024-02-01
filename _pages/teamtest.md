@@ -13,7 +13,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 
 ## Faculty and Postdocs
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.teamtest_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
