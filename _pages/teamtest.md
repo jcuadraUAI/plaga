@@ -6,5 +6,4 @@ sitemap: false
 permalink: /teamtest/
 ---
 
-
-{% include person.html %}
+{% for z in site.data.teamtest_members %} {% include person.html %} {% endfor %}
