@@ -283,6 +283,16 @@
 #  area: Formation and dynamics of planetary systems
   role: Postdoc 2018-2022
   education: Now a researcher at CONICET-UNLP
+  labels:
+    - type: website
+      website: https://pullitze27.wixsite.com/paularonco
+    - type: googlescholar
+      googlescholar: https://scholar.google.com.ar/citations?user=AazA4G8AAAAJ&hl=en
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Maria-Ronco
+    - type: linkedin
+      linkedin: https://ar.linkedin.com/in/maria-paula-ronco-103a15109
+      
 
 
 - name: Christopher Russell
