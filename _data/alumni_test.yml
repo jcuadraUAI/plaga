@@ -200,6 +200,17 @@
 #  area:  Stellar wind models
   role: Postdoc 2021-2023
   education: Now a postdoc at Nicolaus Copernicus Astronomical Center, Warsaw
+  labels:
+    - type: website
+      website: https://reevolucionestelar.wordpress.com/acerca-de/
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-2588-2391
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Alex-Gormaz-Matamala
+    - type: linkedin
+      linkedin: https://cl.linkedin.com/in/alex-gormaz-matamala-407875115
+      
+
 
 #- name: Aira Lobo Gomes
 #  haswww: 1
