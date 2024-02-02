@@ -13,7 +13,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 ## Faculty and Postdocs
 
 {% assign number_printed = 0 %}
-{% for z in site.data.teamtest_members %}
+{% for z in site.data.team_members %}
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 0 %}
 <div class="row">
@@ -34,7 +34,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 ## Students
 
 {% assign number_printed = 0 %}
-{% for z in site.data.students_test %}
+{% for z in site.data.students %}
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 0 %}
 <div class="row">
@@ -55,7 +55,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 ## Alumni
 
 {% assign number_printed = 0 %}
-{% for z in site.data.alumni_test %}
+{% for z in site.data.alumni_members %}
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 0 %}
 <div class="row">
