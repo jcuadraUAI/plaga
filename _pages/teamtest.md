@@ -70,3 +70,33 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+
+## Former visitors, part-time or Summer students
+(not including students who later did their thesis with us)
+
+<div class="row">
+
+<div class="col-sm-4 clearfix">
+<h4>Long-term visitors</h4>
+{% for member in site.data.alumni_visitors %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Graduate students</h4>
+{% for member in site.data.alumni_msc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Undergrads</h4>
+{% for member in site.data.alumni_bsc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+</div>
+
