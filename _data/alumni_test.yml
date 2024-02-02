@@ -107,12 +107,6 @@
 
 
 
-
-
-
-
-
-
 - name: Camilo Fontecilla
   photo: camilo.jpg
 #  role: PhD student, PUC
@@ -123,6 +117,9 @@
 #  email: cjfontec@uc.cl
 #  education:  MSc in Astrophysics, PUC
 #  area: Black holes and circumbinary discs
+  labels:
+    - type: linkedin
+      linkedin: https://cl.linkedin.com/in/cjfontec
 
 
 - name: Sofía Gallego
