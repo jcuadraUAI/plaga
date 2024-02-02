@@ -1,25 +1,11 @@
 - name: Jorge Cuadra
   photo: jorge.jpg
-  role: Full professor, UAI 
+  role: Full professor, UAI # <br> Deputy director, NPF
+  haswww: 1
+  webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
+  email: jorge.cuadra@uai.cl
   education: PhD, MPA Garching
-  area: Galactic centre - protoplanetary discs - supermassive black hole binaries
-  labels:
-    - type: email
-      email: jorge.cuadra@uai.cl
-    - type: website
-      website: https://artesliberales.uai.cl/profesor/jorge-cuadra/
-    - type: arxiv
-      arxiv: https://arxiv.org/a/cuadra_j_1.html
-    - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?hl=en&user=3aaunA0AAAAJ
-    - type: orcid
-      orcid: https://orcid.org/0000-0003-1965-3346
-    - type: youtube
-      youtube: https://youtube.com/playlist?list=PLpTUpGYKtzErahTePtuuvJYhzmGO23Ldt&si=YnGcraWA7Ax_CN8s
-    - type: cv
-      cv: cuadra_CV.pdf
-
-              
+  area: Galactic Centre - Protoplanetary discs
 
 #- name: Octavio Guilera
 #  photo: octavio.jpg
@@ -33,50 +19,30 @@
 - name: Guido Granda-Muñoz
   photo: guido.jpg
   role: Postdoctoral researcher, UAI
+  haswww: 0
+  email: guido.granda@edu.uai.cl
   education: PhD, UNAM
   area: protoplanetary disc simulations
-  labels:
-    - type: email
-      email: guido.granda@edu.uai.cl
-    - type: academia
-      academia: https://uni.academia.edu/GuidoGrandaMu%C3%B1oz
-
 
 - name: Andrés Scherer
   photo: andres.jpg
   role: Postdoctoral researcher, PUC
+  haswww: 0
+  email: ascherer@uc.cl
   education: PhD, PUC
-  area: cosmic and gamma rays in the Galactic centre
-  labels:
-    - type: email
-      email: ascherer@uc.cl
-
+  area: Cosmic and gamma rays in the Galactic Centre
 
 - name: Mario Sucerquia
   photo: mario.jpg
   role: FONDECYT postdoctoral fellow, UAI
+  haswww: 1
+  webpage: https://malsuar.wixsite.com/mario-sucerquia
+  email: mario.sucerquia@uv.cl
   education: PhD, Univ de Antioquia
   area: exo-moons and rings formation and dynamics
-  labels:
-    - type: email
-      email: mario.sucerquia@edu.uai.cl
-    - type: website
-      website: https://malsuar.wixsite.com/mario-sucerquia
-    - type: googlescholar
-      googlescholar: https://scholar.google.com.co/citations?user=TyaIOBQAAAAJ
-    - type: orcid
-      orcid: https://orcid.org/0000-0002-8065-4199
-    - type: researchgate
-      researchgate: https://www.researchgate.net/profile/Mario-Sucerquia
-    - type: linkedin
-      linkedin: https://co.linkedin.com/in/mario-sucerquia-72035b173
 
 - name: "This could be you !"
   photo: astronaut.png
-  role: Check our currently open positions, or simply contact us!
-  labels:
-    - type: email
-      email: jorge.cuadra@uai.cl
-    - type: website
-      website: https://jrcuadra.github.io/plaga//vacancies
- 
+  role: See [open positions](/plaga/vacancies)
+  haswww: 0
+  email: jorge.cuadra@uai.cl

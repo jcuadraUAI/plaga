@@ -1,0 +1,322 @@
+- name: Diego Calderón
+  photo: diego.jpg
+  role: MSc 2015, PhD 2019
+  education: Then a postdoc at Charles University, Prague
+  area: Now a postdoc at Hamburg Observatory
+  labels:
+    - type: website
+      website: https://calderond.github.io/
+    - type: ads
+      ads: https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FMgG_N93RQbuiQcTwHzpnRQ)&sort=date%20desc%2C%20bibcode%20desc
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=IctqZOsAAAAJ&hl=en
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-9019-9951
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Diego-Calderon-16
+    - type: linkedin
+      linkedin: https://cz.linkedin.com/in/diego-calder%C3%B3n-aa149b1b4
+      
+
+
+- name: Xian Chen
+  haswww: 1
+  webpage: https://kiaa.pku.edu.cn/info/1010/2663.htm
+  photo: xian.jpg
+  role: Postdoc 2015-2016
+  education: Now a professor at Peking University
+  labels:
+    - type: website
+      website: https://kiaa.pku.edu.cn/info/1010/2663.htm
+    - type: ads
+      ads: https://ui.adsabs.harvard.edu/public-libraries/wefhFanSRAKcJd5WGRoDZg
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-3950-9317
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Xian-Chen-12
+
+
+
+- name: Nicolás Cuello
+  haswww: 1
+  webpage: https://cuellonicolas.wixsite.com/astrophysics
+  photo: nicolas.jpg
+  role: Postdoc 2016-2020
+  education: Then a Marie-Curie fellow at IPAG, Grenoble
+  area: Now a professor at Université Grenoble Alpes
+  labels:
+    - type: website
+      website: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=Ww3I55YAAAAJ&hl=es
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-3713-8073
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Nicolas-Cuello
+    - type: linkedin
+      linkedin: https://fr.linkedin.com/in/nicolas-cuello-astrophysics
+
+
+
+- name: Luciano del Valle
+  photo: luciano.jpg
+#  role: Postdoctoral researcher, NPF & PUC
+  haswww: 0
+  webpage: 
+#  email: ldelvalleb@astro.puc.cl
+#  education: PhD, Univ de Chile
+#  area: Solar System N-body - Circumbinary discs
+  role: Postdoc 2019-2022
+  labels:
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=D_2EijAAAAAJ&hl=es
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Luciano-Del-Valle
+    - type: academia
+      academia: https://uc-cl.academia.edu/LucianodelValle
+
+
+
+- name: Alex Dunhill
+  haswww: 1
+  webpage: http://www.acdunhill.com/
+  photo: alex.jpg
+  role: Postdoc 2013-2015
+  education:  Then a postdoc at UCLAN, Preston
+  area: Now a a data scientist
+  labels:
+    - type: website
+      website: https://www.acdunhill.com/
+    - type: linkedin
+      linkedin: https://www.linkedin.com/in/alex-dunhill-0ab031160/
+   
+
+
+- name: Virginie Faramaz
+  haswww: 1
+  webpage: http://virginie-faramaz.com/
+  photo: virginie.jpg
+  role: Postdoc 2014-17
+  education: Then a postdoc at JPL, Pasadena
+  area: Now a professor at the University of Arizona
+  labels:
+    - type: website
+      website: http://virginie-faramaz.com/
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=hnZeCwgAAAAJ
+    - type: linkedin
+      linkedin: https://www.linkedin.com/in/virginie-faramaz-05300a1a5
+
+
+
+- name: Camilo Fontecilla
+  photo: camilo.jpg
+#  role: PhD student, PUC
+  haswww: 1
+  webpage: https://cl.linkedin.com/in/cjfontec
+  role: BSc 2014, MSc 2017, PhD 2022
+  education: Now a data scientist
+#  email: cjfontec@uc.cl
+#  education:  MSc in Astrophysics, PUC
+#  area: Black holes and circumbinary discs
+  labels:
+    - type: linkedin
+      linkedin: https://cl.linkedin.com/in/cjfontec
+
+
+
+- name: Sofía Gallego
+  haswww: 1
+  webpage: https://sofiagallego.com/
+  photo: sofia.jpg
+  role: BSc 2012
+  education: Then MSc at PUC and PhD at ETH, Zürich
+  area: Now a postdoc at the University of Paris Cité
+  labels:
+    - type: website
+      website: https://sofiagallego.com/
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?hl=en&user=2rU-igEAAAAJ
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Sofia-Gallego
+    - type: academia
+      academia: https://u-paris.academia.edu/Sof%C3%ADaGallego
+    - type: linkedin
+      linkedin: https://fr.linkedin.com/in/sofia-gallego/en
+
+
+
+- name: Matías Gárate
+  haswww: 1
+  webpage: https://de.linkedin.com/in/mat%C3%ADas-g%C3%A1rate-silva-7784a714b
+  photo: matiasG.jpg
+  role: BSc 2015, MSc 2017
+  education: Then PhD at USM, Munich
+  area: Now a digital artist
+  labels:
+    - type: orcid
+      orcid: https://orcid.org/0000-0001-6802-834X
+    - type: github
+      github: https://github.com/matgarate
+    - type: youtube
+      youtube: https://www.youtube.com/@matiasgarate2387/featured
+    - type: behance
+      behance: https://www.behance.net/matiasgarate3d
+    - type: artstation
+      artstation: https://www.artstation.com/matiasgarate3d
+    - type: linkedin
+      linkedin: https://de.linkedin.com/in/mat%C3%ADas-g%C3%A1rate-silva-7784a714b
+
+
+
+- name: Juan Garrido-Deutelmoser
+  haswww: 0
+  webpage: https://www.jgarridodeutelmoser.com/
+  photo: juan.jpg
+  role: BSc 2019
+  education: Then MSc at PUC
+  area: Now a PhD student at the University of Arizona
+  labels:
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-7056-3226
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Juan-Garrido-Deutelmoser
+
+
+
+- name: Felipe G Goicovic
+  haswww: 1
+  webpage: https://de.linkedin.com/in/felipe-g-goicovic
+  photo: felipe.jpg
+  role: PhD 2017
+  education:  Then a postdoc at HITS and ITA, Heidelberg
+  area: Now a software developer
+  labels:
+    - type: linkedin
+      linkedin: https://de.linkedin.com/in/felipe-g-goicovic/en
+
+
+- name: Alex Gormaz-Matamala
+  photo: alexgm.jpg
+#  role: Postdoctoral researcher, UAI
+  haswww: 1
+  webpage: https://reevolucionestelar.wordpress.com/acerca-de/
+#  email: alex.gormaz@uv.cl
+#  education: PhD, Univ de Valparaíso
+#  area:  Stellar wind models
+  role: Postdoc 2021-2023
+  education: Now a postdoc at Nicolaus Copernicus Astronomical Center, Warsaw
+  labels:
+    - type: website
+      website: https://reevolucionestelar.wordpress.com/acerca-de/
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-2588-2391
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Alex-Gormaz-Matamala
+    - type: linkedin
+      linkedin: https://cl.linkedin.com/in/alex-gormaz-matamala-407875115
+      
+
+
+- name: Aira Lobo Gomes
+  haswww: 1
+  webpage: https://nl.linkedin.com/in/aiaragomes
+  photo: aiara.jpg
+  role: Postdoc 2016
+  education: Now a researcher on clinical data science
+  labels:
+    - type: website
+      website: https://cris.maastrichtuniversity.nl/en/persons/aiara-lobo-gomes
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-4670-6036
+    - type: linkedin
+      linkedin: https://nl.linkedin.com/in/aiaragomes
+      
+
+
+- name: Matías Montesinos
+  photo: matiasM.jpg
+  haswww: 0
+  role: Postdoc 2011-14; 2017
+  education: Then a postdoc at U de Valparaíso
+  area: Now a professor at Universidad Técnica Federico Santa María
+  labels:
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=5tYk0wMAAAAJ&hl=en
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Matias-Montesinos
+    - type: linkedin
+      linkedin: https://cl.linkedin.com/in/mat%C3%ADas-montesinos-67b53a8b
+      
+
+
+- name: Camila Ordenes-Huanca
+  photo: camila.jpg
+#  role: PhD student, PUC
+  haswww: 0
+#  email: cordenes@astro.puc.cl
+#  education:  MSc in Physics, UCN
+#  area: T Tauri stars variability
+  role: PhD 2023
+  education: Now a research assistant at PUC
+  labels:
+    - type: website
+      website: https://astrofisicamas.cl/camila-ordenes/
+
+
+
+- name: Pedro Poblete
+  haswww: 0
+  photo: pedro.jpg
+  role: BSc 2017, MSc 2019
+  education: Then PhD at Jena University
+  area: Now a postdoc at IPAG
+  labels:
+    - type: website
+      website: https://nicolascuello.github.io/Stellar-MADE/pedro-poblete
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-0974-8747
+    - type: linkedin
+      linkedin: https://de.linkedin.com/in/pedro-poblete-rivera-275984266
+
+
+
+- name: María Paula Ronco
+  photo: paula.jpg
+#  role: Postdoctoral researcher, PUC & NPF
+  haswww: 1
+  webpage: https://pullitze27.wixsite.com/paularonco
+#  email: pronco@npf.cl 
+#  education: PhD, Univ Nac La Plata
+#  area: Formation and dynamics of planetary systems
+  role: Postdoc 2018-2022
+  education: Now a researcher at CONICET-UNLP
+  labels:
+    - type: website
+      website: https://pullitze27.wixsite.com/paularonco
+    - type: googlescholar
+      googlescholar: https://scholar.google.com.ar/citations?user=AazA4G8AAAAJ&hl=en
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Maria-Ronco
+    - type: linkedin
+      linkedin: https://ar.linkedin.com/in/maria-paula-ronco-103a15109
+      
+
+
+- name: Christopher Russell
+  haswww: 1
+  webpage: https://www.linkedin.com/in/cmprussell
+  photo: chris.jpg
+  role: Postdoc 2017-2020
+  education: Then a postdoc at The Catholic University of America
+  area: Now a postdoc at U Delaware 
+  labels:
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Christopher-Russell-4
+    - type: youtube
+      youtube: https://www.youtube.com/channel/UCEbYRW6ql4rxCmgfVKxP5hw
+    - type: linkedin
+      linkedin: https://www.linkedin.com/in/cmprussell
+      
+
+
