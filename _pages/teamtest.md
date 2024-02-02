@@ -1,7 +1,7 @@
 ---
-title: "Mason Lab: Current Members"
+title: "TEST Plaga Members"
 layout: default
-excerpt: "Mason Lab: Current Members"
+excerpt: "TEST Plaga Members"
 sitemap: false
 permalink: /teamtest/
 ---
