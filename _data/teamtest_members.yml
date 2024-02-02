@@ -1,6 +1,6 @@
 - name: Jorge TEST
   photo: jorge.jpg
-  role: Full professor, UAI # <br> Deputy director, NPF
+  role: Full professor, UAI 
   haswww: 1
   webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
   email: jorge.cuadra@uai.cl
@@ -8,7 +8,9 @@
   area: Galactic Centre - Protoplanetary discs
   labels:
     - type: email
-      email: mason@lsu.edu
+      email: jorge.cuadra@uai.cl
+    - type: website
+      website: https://artesliberales.uai.cl/profesor/jorge-cuadra/
 
 
 #- name: Octavio Guilera
