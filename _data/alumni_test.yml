@@ -244,9 +244,6 @@
       
 
 
-
-
-
 - name: Camila Ordenes-Huanca
   photo: camila.jpg
 #  role: PhD student, PUC
@@ -256,6 +253,11 @@
 #  area: T Tauri stars variability
   role: PhD 2023
   education: Now a research assistant at PUC
+  labels:
+    - type: website
+      website: https://astrofisicamas.cl/camila-ordenes/
+
+
 
 - name: Pedro Poblete
   haswww: 0
@@ -263,6 +265,11 @@
   role: BSc 2017, MSc 2019
   education: Then PhD at Jena University
   area: Now a postdoc at IPAG
+  labels:
+    - type: linkedin
+      linkedin: https://de.linkedin.com/in/pedro-poblete-rivera-275984266
+
+
 
 - name: María Paula Ronco
   photo: paula.jpg
