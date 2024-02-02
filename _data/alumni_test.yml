@@ -178,7 +178,6 @@
 
 
 
-
 - name: Felipe G Goicovic
   haswww: 1
   webpage: https://de.linkedin.com/in/felipe-g-goicovic
@@ -186,6 +185,10 @@
   role: PhD 2017
   education:  Then a postdoc at HITS and ITA, Heidelberg
   area: Now a software developer
+  labels:
+    - type: linkedin
+      linkedin: https://de.linkedin.com/in/felipe-g-goicovic/en
+
 
 - name: Alex Gormaz-Matamala
   photo: alexgm.jpg
