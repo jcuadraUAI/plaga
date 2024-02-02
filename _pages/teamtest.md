@@ -49,3 +49,24 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+
+
+## Alumni
+
+{% assign number_printed = 0 %}
+{% for z in site.data.alumni_test %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+{% include person.html %}
+{% assign number_printed = number_printed | plus: 1 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+{% endfor %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
