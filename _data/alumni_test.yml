@@ -163,17 +163,21 @@
 
 
 
-
-
-
-
 - name: Juan Garrido-Deutelmoser
   haswww: 0
   webpage: https://www.jgarridodeutelmoser.com/
   photo: juan.jpg
   role: BSc 2019
   education: Then MSc at PUC
-  area: Now a PhD student at PUC
+  area: Now a PhD student at the University of Arizona
+  labels:
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-7056-3226
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Juan-Garrido-Deutelmoser
+
+
+
 
 - name: Felipe G Goicovic
   haswww: 1
