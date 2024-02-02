@@ -1,9 +1,6 @@
 - name: Jorge TEST
   photo: jorge.jpg
   role: Full professor, UAI 
-  haswww: 1
-  webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
-  email: jorge.cuadra@uai.cl
   education: PhD, MPA Garching
   area: Galactic Centre - Protoplanetary discs
   labels:
@@ -11,6 +8,8 @@
       email: jorge.cuadra@uai.cl
     - type: website
       website: https://artesliberales.uai.cl/profesor/jorge-cuadra/
+    - type: arxiv
+      arxiv: https://arxiv.org/a/cuadra_j_1.html
 
 
 #- name: Octavio Guilera
