@@ -2,7 +2,7 @@
   photo: jorge.jpg
   role: Full professor, UAI 
   education: PhD, MPA Garching
-  area: Galactic Centre - Protoplanetary discs
+  area: Galactic centre - protoplanetary discs - supermassive black hole binaries
   labels:
     - type: email
       email: jorge.cuadra@uai.cl
@@ -44,7 +44,7 @@
   photo: andres.jpg
   role: Postdoctoral researcher, PUC
   education: PhD, PUC
-  area: Cosmic and gamma rays in the Galactic Centre
+  area: cosmic and gamma rays in the Galactic centre
   labels:
     - type: email
       email: ascherer@uc.cl
@@ -70,7 +70,7 @@
 
 - name: "This could be you !"
   photo: astronaut.png
-  role: positions open
+  role: Check the link below for currently open positions, or simply contact us to discuss possible projects
   labels:
     - type: email
       email: jorge.cuadra@uai.cl
