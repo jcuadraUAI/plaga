@@ -100,6 +100,10 @@
   labels:
     - type: website
       website: http://virginie-faramaz.com/
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=hnZeCwgAAAAJ
+    - type: linkedin
+      linkedin: https://www.linkedin.com/in/virginie-faramaz-05300a1a5
 
 
 
