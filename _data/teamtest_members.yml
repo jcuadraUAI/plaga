@@ -60,12 +60,12 @@
       email: mario.sucerquia@edu.uai.cl
     - type: website
       website: https://malsuar.wixsite.com/mario-sucerquia
-    - type: researchgate
-      researchgate: https://www.researchgate.net/profile/Mario-Sucerquia
     - type: googlescholar
       googlescholar: https://scholar.google.com.co/citations?user=TyaIOBQAAAAJ
     - type: orcid
       orcid: https://orcid.org/0000-0002-8065-4199
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Mario-Sucerquia
 
 
 - name: "This could be you !"
