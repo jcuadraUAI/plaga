@@ -1,7 +1,7 @@
 ---
-title: "TEST Plaga Members"
-layout: default
-excerpt: "TEST Plaga Members"
+title: "NEW Plaga Members"
+layout: gridlay
+excerpt: "NEW Plaga Members"
 sitemap: false
 permalink: /teamtest/
 ---
