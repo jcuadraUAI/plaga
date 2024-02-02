@@ -53,14 +53,26 @@
 - name: Mario Sucerquia
   photo: mario.jpg
   role: FONDECYT postdoctoral fellow, UAI
-  haswww: 1
-  webpage: https://malsuar.wixsite.com/mario-sucerquia
-  email: mario.sucerquia@uv.cl
   education: PhD, Univ de Antioquia
   area: exo-moons and rings formation and dynamics
+  labels:
+    - type: email
+      email: mario.sucerquia@edu.uai.cl
+    - type: website
+      website: https://malsuar.wixsite.com/mario-sucerquia
+    - type: researchgate
+      arxiv: https://www.researchgate.net/profile/Mario-Sucerquia
+    - type: googlescholar
+      googlescholar: https://scholar.google.com.co/citations?user=TyaIOBQAAAAJ
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-8065-4199
+
 
 - name: "This could be you !"
   photo: astronaut.png
-  role: See [open positions](/plaga/vacancies)
-  haswww: 0
-  email: jorge.cuadra@uai.cl
+  labels:
+    - type: email
+      email: jorge.cuadra@uai.cl
+    - type: website
+      website: https://jrcuadra.github.io/plaga//vacancies
+ 
