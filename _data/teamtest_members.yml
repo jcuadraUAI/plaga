@@ -36,6 +36,8 @@
   labels:
     - type: email
       email: guido.granda@edu.uai.cl
+    - type: academia
+      academia: https://uni.academia.edu/GuidoGrandaMu%C3%B1oz
 
 
 - name: Andrés Scherer
