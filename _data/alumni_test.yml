@@ -73,8 +73,6 @@
       researchgate: https://www.researchgate.net/profile/Luciano-Del-Valle
     - type: academia
       academia: https://uc-cl.academia.edu/LucianodelValle
-    - type: linkedin
-      linkedin: https://www.linkedin.com/in/alex-dunhill-0ab031160/
 
 
 
@@ -90,7 +88,9 @@
   labels:
     - type: website
       website: https://www.acdunhill.com/
-    
+     - type: linkedin
+      linkedin: https://www.linkedin.com/in/alex-dunhill-0ab031160/
+   
 
 
 
