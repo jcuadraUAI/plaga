@@ -27,6 +27,7 @@
   photo: xian.jpg
   role: Postdoc 2015-2016
   education: Now a professor at Peking University
+  labels:
     - type: website
       website: https://kiaa.pku.edu.cn/info/1010/2663.htm
     - type: ads
