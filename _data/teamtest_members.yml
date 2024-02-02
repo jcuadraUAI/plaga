@@ -70,7 +70,7 @@
 
 - name: "This could be you !"
   photo: astronaut.png
-  role: Check the link below for currently open positions, or simply contact us to discuss possible projects
+  role: Check our currently open positions, or simply contact us!
   labels:
     - type: email
       email: jorge.cuadra@uai.cl
