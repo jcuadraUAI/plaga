@@ -66,6 +66,17 @@
 #  education: PhD, Univ de Chile
 #  area: Solar System N-body - Circumbinary discs
   role: Postdoc 2019-2022
+  labels:
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=D_2EijAAAAAJ&hl=es
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Luciano-Del-Valle
+    - type: academia
+      academia: https://uc-cl.academia.edu/LucianodelValle
+
+
+
+
 
 - name: Alex Dunhill
   haswww: 1
