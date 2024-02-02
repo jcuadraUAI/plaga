@@ -10,10 +10,10 @@
       website: https://artesliberales.uai.cl/profesor/jorge-cuadra/
     - type: arxiv
       arxiv: https://arxiv.org/a/cuadra_j_1.html
-    - type: orcid
-      orcid: https://orcid.org/0000-0003-1965-3346
     - type: googlescholar
       googlescholar: https://scholar.google.com/citations?hl=en&user=3aaunA0AAAAJ
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-1965-3346
     - type: cv
       cv: cuadra_CV.pdf
 
