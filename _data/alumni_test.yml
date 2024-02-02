@@ -122,13 +122,29 @@
       linkedin: https://cl.linkedin.com/in/cjfontec
 
 
+
 - name: Sofía Gallego
   haswww: 1
   webpage: https://sofiagallego.com/
   photo: sofia.jpg
   role: BSc 2012
   education: Then MSc at PUC and PhD at ETH, Zürich
-  area: Now a postdoc at the University of Paris Cite
+  area: Now a postdoc at the University of Paris Cité
+  labels:
+    - type: website
+      website: https://sofiagallego.com/
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Sofia-Gallego
+    - type: academia
+      academia: https://u-paris.academia.edu/Sof%C3%ADaGallego
+    - type: linkedin
+      linkedin: https://fr.linkedin.com/in/sofia-gallego/en
+
+
+
+
+
+
 
 - name: Matías Gárate
   haswww: 1
