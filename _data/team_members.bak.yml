@@ -1,0 +1,48 @@
+- name: Jorge Cuadra
+  photo: jorge.jpg
+  role: Full professor, UAI # <br> Deputy director, NPF
+  haswww: 1
+  webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
+  email: jorge.cuadra@uai.cl
+  education: PhD, MPA Garching
+  area: Galactic Centre - Protoplanetary discs
+
+#- name: Octavio Guilera
+#  photo: octavio.jpg
+#  role: Adjunct researcher, PUC & NPF <br> Researcher and lecturer, CONICET-UNLP
+#  haswww: 1
+#  webpage: http://gap.fcaglp.unlp.edu.ar/oguilera.html
+#  email: oguilera@fcaglp.unlp.edu.ar
+#  education: PhD, Univ Nac La Plata
+#  area: Planet formation
+
+- name: Guido Granda-Muñoz
+  photo: guido.jpg
+  role: Postdoctoral researcher, UAI
+  haswww: 0
+  email: guido.granda@edu.uai.cl
+  education: PhD, UNAM
+  area: protoplanetary disc simulations
+
+- name: Andrés Scherer
+  photo: andres.jpg
+  role: Postdoctoral researcher, PUC
+  haswww: 0
+  email: ascherer@uc.cl
+  education: PhD, PUC
+  area: Cosmic and gamma rays in the Galactic Centre
+
+- name: Mario Sucerquia
+  photo: mario.jpg
+  role: FONDECYT postdoctoral fellow, UAI
+  haswww: 1
+  webpage: https://malsuar.wixsite.com/mario-sucerquia
+  email: mario.sucerquia@uv.cl
+  education: PhD, Univ de Antioquia
+  area: exo-moons and rings formation and dynamics
+
+- name: "This could be you !"
+  photo: astronaut.png
+  role: See [open positions](/plaga/vacancies)
+  haswww: 0
+  email: jorge.cuadra@uai.cl
