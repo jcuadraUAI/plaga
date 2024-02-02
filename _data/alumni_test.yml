@@ -1,13 +1,25 @@
 - name: Diego Calderón
   photo: diego.jpg
   role: MSc 2015, PhD 2019
-  education: Afterwards a postdoc at Charles University, Prague
+  education: Then a postdoc at Charles University, Prague
   area: Now a postdoc at Hamburg Observatory
   labels:
     - type: website
       website: https://calderond.github.io/
     - type: ads
       ads: https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FMgG_N93RQbuiQcTwHzpnRQ)&sort=date%20desc%2C%20bibcode%20desc
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-9019-9951
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Diego-Calderon-16
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=IctqZOsAAAAJ&hl=en
+    - type: linkedin
+      linkedin: https://cz.linkedin.com/in/diego-calder%C3%B3n-aa149b1b4
+      
+
+
+      
 
 - name: Xian Chen
   haswww: 1
@@ -21,7 +33,7 @@
   webpage: https://cuellonicolas.wixsite.com/astrophysics
   photo: nicolas.jpg
   role: Postdoc 2016-2020
-  education: Afterwards a Marie-Curie fellow at IPAG, Grenoble
+  education: Then a Marie-Curie fellow at IPAG, Grenoble
   area: Now a professor at Université Grenoble Alpes
 
 - name: Luciano del Valle
@@ -39,7 +51,7 @@
   webpage: http://www.acdunhill.com/
   photo: alex.jpg
   role: Postdoc 2013-2015
-  education:  Afterwards a postdoc at UCLAN, Preston
+  education:  Then a postdoc at UCLAN, Preston
   area: Now a a data scientist
 
 - name: Virginie Faramaz
@@ -47,7 +59,7 @@
   webpage: http://virginie-faramaz.com/
   photo: virginie.jpg
   role: Postdoc 2014-17
-  education: Afterwards a postdoc at JPL, Pasadena
+  education: Then a postdoc at JPL, Pasadena
   area: Now a professor at the University of Arizona
 
 - name: Camilo Fontecilla
@@ -67,7 +79,7 @@
   webpage: https://sofiagallego.com/
   photo: sofia.jpg
   role: BSc 2012
-  education: Afterwards MSc at PUC and PhD at ETH, Zürich
+  education: Then MSc at PUC and PhD at ETH, Zürich
   area: Now a postdoc at the University of Paris Cite
 
 - name: Matías Gárate
@@ -75,7 +87,7 @@
   webpage: https://de.linkedin.com/in/mat%C3%ADas-g%C3%A1rate-silva-7784a714b
   photo: matiasG.jpg
   role: BSc 2015, MSc 2017
-  education: Afterwards PhD at USM, Munich
+  education: Then PhD at USM, Munich
   area: Now a digital artist
 
 - name: Juan Garrido-Deutelmoser
@@ -83,7 +95,7 @@
   webpage: https://www.jgarridodeutelmoser.com/
   photo: juan.jpg
   role: BSc 2019
-  education: Afterwards MSc at PUC
+  education: Then MSc at PUC
   area: Now a PhD student at PUC
 
 - name: Felipe G Goicovic
@@ -91,7 +103,7 @@
   webpage: https://de.linkedin.com/in/felipe-g-goicovic
   photo: felipe.jpg
   role: PhD 2017
-  education:  Afterwards a postdoc at HITS and ITA, Heidelberg
+  education:  Then a postdoc at HITS and ITA, Heidelberg
   area: Now a software developer
 
 - name: Alex Gormaz-Matamala
@@ -110,14 +122,14 @@
 #  webpage: https://nl.linkedin.com/in/aiaragomes
 #  photo: aiara.jpg
 #  role: Postdoc 2016
-#  education: Afterwards a data scientist
+#  education: Then a data scientist
 #area: Currently a postdoc at Maastricht University
 
 - name: Matías Montesinos
   photo: matiasM.jpg
   haswww: 0
   role: Postdoc 2011-14; 2017
-  education: Afterwards a postdoc at U de Chile and U de Valparaíso
+  education: Then a postdoc at U de Chile and U de Valparaíso
   area: Now a professor at Universidad Técnica Federico Santa María 
 
 - name: Camila Ordenes-Huanca
@@ -134,7 +146,7 @@
   haswww: 0
   photo: pedro.jpg
   role: BSc 2017, MSc 2019
-  education: Afterwards PhD at Jena University
+  education: Then PhD at Jena University
   area: Now a postdoc at IPAG
 
 - name: María Paula Ronco
@@ -154,6 +166,6 @@
   webpage: https://www.linkedin.com/in/cmprussell
   photo: chris.jpg
   role: Postdoc 2017-2020
-  education: Afterwards a postdoc at The Catholic University of America
+  education: Then a postdoc at The Catholic University of America
   area: Now a postdoc at U Delaware 
 
