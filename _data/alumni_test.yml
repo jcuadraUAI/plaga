@@ -302,4 +302,13 @@
   role: Postdoc 2017-2020
   education: Then a postdoc at The Catholic University of America
   area: Now a postdoc at U Delaware 
+  labels:
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Christopher-Russell-4
+    - type: youtube
+      youtube: https://www.youtube.com/channel/UCEbYRW6ql4rxCmgfVKxP5hw
+    - type: linkedin
+      linkedin: https://www.linkedin.com/in/cmprussell
+      
+
 
