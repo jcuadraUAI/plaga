@@ -27,6 +27,15 @@
   photo: xian.jpg
   role: Postdoc 2015-2016
   education: Now a professor at Peking University
+    - type: website
+      website: https://kiaa.pku.edu.cn/info/1010/2663.htm
+    - type: ads
+      ads: https://ui.adsabs.harvard.edu/public-libraries/wefhFanSRAKcJd5WGRoDZg
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-3950-9317
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Xian-Chen-12
+
 
 - name: Nicolás Cuello
   haswww: 1
