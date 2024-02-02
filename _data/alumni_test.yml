@@ -142,10 +142,6 @@
 
 
 
-
-
-
-
 - name: Matías Gárate
   haswww: 1
   webpage: https://de.linkedin.com/in/mat%C3%ADas-g%C3%A1rate-silva-7784a714b
@@ -153,6 +149,23 @@
   role: BSc 2015, MSc 2017
   education: Then PhD at USM, Munich
   area: Now a digital artist
+  labels:
+    - type: website
+      website: https://www.behance.net/matiasgarate3d
+    - type: orcid
+      orcid: https://orcid.org/0000-0001-6802-834X
+    - type: github
+      github: https://github.com/matgarate
+     - type: youtube
+      youtube: https://www.youtube.com/@matiasgarate2387/featured
+    - type: linkedin
+      linkedin: https://de.linkedin.com/in/mat%C3%ADas-g%C3%A1rate-silva-7784a714b
+
+
+
+
+
+
 
 - name: Juan Garrido-Deutelmoser
   haswww: 0
