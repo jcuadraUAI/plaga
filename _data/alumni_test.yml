@@ -1,10 +1,13 @@
 - name: Diego Calderón
-  haswww: 1
-  webpage: http://utf.mff.cuni.cz/~dcalderon/index.html
   photo: diego.jpg
   role: MSc 2015, PhD 2019
   education: Afterwards a postdoc at Charles University, Prague
   area: Now a postdoc at Hamburg Observatory
+  labels:
+    - type: website
+      website: https://calderond.github.io/
+    - type: ads
+      ads: https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FMgG_N93RQbuiQcTwHzpnRQ)&sort=date%20desc%2C%20bibcode%20desc
 
 - name: Xian Chen
   haswww: 1
