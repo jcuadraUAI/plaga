@@ -8,12 +8,12 @@
       website: https://calderond.github.io/
     - type: ads
       ads: https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FMgG_N93RQbuiQcTwHzpnRQ)&sort=date%20desc%2C%20bibcode%20desc
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=IctqZOsAAAAJ&hl=en
     - type: orcid
       orcid: https://orcid.org/0000-0002-9019-9951
     - type: researchgate
       researchgate: https://www.researchgate.net/profile/Diego-Calderon-16
-    - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?user=IctqZOsAAAAJ&hl=en
     - type: linkedin
       linkedin: https://cz.linkedin.com/in/diego-calder%C3%B3n-aa149b1b4
       
@@ -45,6 +45,17 @@
   role: Postdoc 2016-2020
   education: Then a Marie-Curie fellow at IPAG, Grenoble
   area: Now a professor at Université Grenoble Alpes
+  labels:
+    - type: website
+      website: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=Ww3I55YAAAAJ&hl=es
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Nicolas-Cuello
+    - type: linkedin
+      linkedin: https://fr.linkedin.com/in/nicolas-cuello-astrophysics
+
+
 
 - name: Luciano del Valle
   photo: luciano.jpg
