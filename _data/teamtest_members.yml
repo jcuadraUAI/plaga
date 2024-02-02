@@ -1,4 +1,4 @@
-- name: Jorge TEST
+- name: Jorge Cuadra
   photo: jorge.jpg
   role: Full professor, UAI 
   education: PhD, MPA Garching
@@ -19,8 +19,6 @@
 
               
 
-
-
 #- name: Octavio Guilera
 #  photo: octavio.jpg
 #  role: Adjunct researcher, PUC & NPF <br> Researcher and lecturer, CONICET-UNLP
@@ -33,10 +31,12 @@
 - name: Guido Granda-Muñoz
   photo: guido.jpg
   role: Postdoctoral researcher, UAI
-  haswww: 0
-  email: guido.granda@edu.uai.cl
   education: PhD, UNAM
   area: protoplanetary disc simulations
+  labels:
+    - type: email
+      email: guido.granda@edu.uai.cl
+
 
 - name: Andrés Scherer
   photo: andres.jpg
