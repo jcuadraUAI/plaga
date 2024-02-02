@@ -232,8 +232,20 @@
   photo: matiasM.jpg
   haswww: 0
   role: Postdoc 2011-14; 2017
-  education: Then a postdoc at U de Chile and U de Valparaíso
-  area: Now a professor at Universidad Técnica Federico Santa María 
+  education: Then a postdoc at U de Valparaíso
+  area: Now a professor at Universidad Técnica Federico Santa María
+  labels:
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=5tYk0wMAAAAJ&hl=en
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Matias-Montesinos
+    - type: linkedin
+      linkedin: https://cl.linkedin.com/in/mat%C3%ADas-montesinos-67b53a8b
+      
+
+
+
+
 
 - name: Camila Ordenes-Huanca
   photo: camila.jpg
