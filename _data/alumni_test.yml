@@ -135,6 +135,8 @@
   labels:
     - type: website
       website: https://sofiagallego.com/
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?hl=en&user=2rU-igEAAAAJ
     - type: researchgate
       researchgate: https://www.researchgate.net/profile/Sofia-Gallego
     - type: academia
