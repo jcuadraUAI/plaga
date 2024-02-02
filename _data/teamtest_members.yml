@@ -61,7 +61,7 @@
     - type: website
       website: https://malsuar.wixsite.com/mario-sucerquia
     - type: researchgate
-      arxiv: https://www.researchgate.net/profile/Mario-Sucerquia
+      researchgate: https://www.researchgate.net/profile/Mario-Sucerquia
     - type: googlescholar
       googlescholar: https://scholar.google.com.co/citations?user=TyaIOBQAAAAJ
     - type: orcid
@@ -70,6 +70,7 @@
 
 - name: "This could be you !"
   photo: astronaut.png
+  role: positions open
   labels:
     - type: email
       email: jorge.cuadra@uai.cl
