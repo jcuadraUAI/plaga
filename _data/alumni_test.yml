@@ -266,6 +266,8 @@
   education: Then PhD at Jena University
   area: Now a postdoc at IPAG
   labels:
+    - type: website
+      website: https://nicolascuello.github.io/Stellar-MADE/pedro-poblete
     - type: linkedin
       linkedin: https://de.linkedin.com/in/pedro-poblete-rivera-275984266
 
