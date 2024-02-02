@@ -268,6 +268,8 @@
   labels:
     - type: website
       website: https://nicolascuello.github.io/Stellar-MADE/pedro-poblete
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-0974-8747
     - type: linkedin
       linkedin: https://de.linkedin.com/in/pedro-poblete-rivera-275984266
 
