@@ -212,13 +212,21 @@
       
 
 
-#- name: Aira Lobo Gomes
-#  haswww: 1
-#  webpage: https://nl.linkedin.com/in/aiaragomes
-#  photo: aiara.jpg
-#  role: Postdoc 2016
-#  education: Then a data scientist
-#area: Currently a postdoc at Maastricht University
+- name: Aira Lobo Gomes
+  haswww: 1
+  webpage: https://nl.linkedin.com/in/aiaragomes
+  photo: aiara.jpg
+  role: Postdoc 2016
+  education: Now a researcher on clinical data science
+  labels:
+    - type: website
+      website: https://cris.maastrichtuniversity.nl/en/persons/aiara-lobo-gomes
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-4670-6036
+    - type: linkedin
+      linkedin: https://nl.linkedin.com/in/aiaragomes
+      
+
 
 - name: Matías Montesinos
   photo: matiasM.jpg
