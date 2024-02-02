@@ -13,3 +13,7 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 ## Faculty and Postdocs
 
 {% for z in site.data.teamtest_members %} {% include person.html %} {% endfor %}
+
+## Students
+
+{% for z in site.data.students_test %} {% include person.html %} {% endfor %}
