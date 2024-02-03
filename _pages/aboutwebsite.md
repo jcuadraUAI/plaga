@@ -10,9 +10,8 @@ permalink: /aboutwebsite.html
 
 This website is powered by [Jekyll](https://jekyllrb.com) and was made
 using the wonderful template available from the [Allan
-Lab](http://www.allanlab.org/aboutwebsite.html), with modifications
-inspired by (and code taken from) the [Mason
-Lab](https://mason-lab.org/).
+Lab](http://www.allanlab.org/), with modifications inspired by (and
+code taken from) the [Mason Lab](https://mason-lab.org/).
 
 Check out the [Allan Lab
 site](http://www.allanlab.org/aboutwebsite.html) for information on
