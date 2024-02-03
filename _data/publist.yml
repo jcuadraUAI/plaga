@@ -1,3 +1,13 @@
+- title: "The wind of rotating B supergiants - II. The δ-slow hydrodynamic regime" 
+  image: dummy.png 
+  description:  
+  authors: Venero, Curé, Puls, Cidale, Haucke, Araya, __Gormaz-Matamala__, and Arcos 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2024MNRAS.527...93V  
+    display: MNRAS 527, 93 (2024)  
+  highlight: 0  
+  news2:
+
 - title: "Modeling the Galactic center gamma-ray emission with more realistic cosmic-ray dynamics" 
   image: 2023A&A...679A.114S.png 
   description:  "We generated synthetic gamma-ray maps using a CR transport model with spherical injection, different diffusion regimes and polar advection. They show that the CMZ has a large inner cavity and that the GC PeVatron is a composite CR population accelerated by the Arches, Quintuplet, and nuclear star clusters, and Sgr A East."
@@ -8,6 +18,16 @@
   highlight: 1  
   news2:
 
+- title: "Sensitivity of the Cherenkov Telescope Array to TeV photon emission from the Large Magellanic Cloud" 
+  image: dummy.png 
+  description:  
+  authors: Acharyya, Adam, Aguasca-Cabot, et al. (incl. __Scherer__)
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.5353A  
+    display: MNRAS 523, 5353 (2023)  
+  highlight: 0  
+  news2:    
+
 - title: "Resolving the binary components of the outbursting protostar HBC 494 with ALMA" 
   image: dummy.png 
   description:  
@@ -16,6 +36,16 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1574N  
     display: MNRAS 523, 4970 (2023)  
+  highlight: 0  
+  news2:    
+
+- title: "Sensitivity of the Cherenkov Telescope Array to spectral signatures of hadronic PeVatrons with application to Galactic Supernova Remnants" 
+  image: dummy.png 
+  description:  
+  authors: Acero, Acharyya, Adam,  et al. (incl. __Scherer__)  
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2023APh...15002850A  
+    display: APh 150, 102850 (2023)  
   highlight: 0  
   news2:    
 
