@@ -17,6 +17,7 @@ For a full list see [below](#full-list). For our most recent papers follow this 
 
 
 {% assign number_printed = 0 %}
+{% assign number_total = 0 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -45,6 +46,7 @@ For a full list see [below](#full-list). For our most recent papers follow this 
 {% endif %}
 
 {% endif %}
+{% assign number_total = number_total | plus: 1 %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -61,7 +63,7 @@ For a full list see [below](#full-list). For our most recent papers follow this 
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+{{ number_total }}  {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+{% assign number_total = number_total | minus: 1 %}
 {% endfor %}
