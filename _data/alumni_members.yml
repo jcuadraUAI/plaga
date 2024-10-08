@@ -318,5 +318,15 @@
     - type: linkedin
       linkedin: https://www.linkedin.com/in/cmprussell
       
+- name: Andrés Scherer
+  haswww: 0
+  photo: andres.jpg
+  role: PhD 2023
+  education: Now a postdoc at USACH
+#  area: cosmic and gamma rays in the Galactic centre
+  labels:
+    - type: email
+      email: ascherer@uc.cl
+
 
 

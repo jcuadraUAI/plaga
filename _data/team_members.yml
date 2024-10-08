@@ -42,15 +42,6 @@
       academia: https://uni.academia.edu/GuidoGrandaMu%C3%B1oz
 
 
-- name: Andrés Scherer
-  photo: andres.jpg
-  role: Postdoctoral researcher, PUC
-  education: PhD, PUC
-  area: cosmic and gamma rays in the Galactic centre
-  labels:
-    - type: email
-      email: ascherer@uc.cl
-
 
 - name: Mario Sucerquia
   photo: mario.jpg
