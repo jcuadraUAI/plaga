@@ -331,4 +331,22 @@
     - type: googlescholar
       googlescholar: https://scholar.google.com/citations?user=pAAdhuoAAAAJ
 
+- name: Mario Sucerquia
+  photo: mario.jpg
+  role: Postdoc 2023-2024
+  education: Now a postdoc at IPAG
+ # area: exo-moons and rings formation and dynamics
+  labels:
+    - type: website
+      website: https://malsuar.wixsite.com/mario-sucerquia
+    - type: googlescholar
+      googlescholar: https://scholar.google.com.co/citations?user=TyaIOBQAAAAJ
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-8065-4199
+    - type: researchgate
+      researchgate: https://www.researchgate.net/profile/Mario-Sucerquia
+    - type: linkedin
+      linkedin: https://co.linkedin.com/in/mario-sucerquia-72035b173
+
+
 

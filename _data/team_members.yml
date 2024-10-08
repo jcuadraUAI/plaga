@@ -43,24 +43,6 @@
 
 
 
-- name: Mario Sucerquia
-  photo: mario.jpg
-  role: FONDECYT postdoctoral fellow, UAI
-  education: PhD, Univ de Antioquia
-  area: exo-moons and rings formation and dynamics
-  labels:
-    - type: email
-      email: mario.sucerquia@edu.uai.cl
-    - type: website
-      website: https://malsuar.wixsite.com/mario-sucerquia
-    - type: googlescholar
-      googlescholar: https://scholar.google.com.co/citations?user=TyaIOBQAAAAJ
-    - type: orcid
-      orcid: https://orcid.org/0000-0002-8065-4199
-    - type: researchgate
-      researchgate: https://www.researchgate.net/profile/Mario-Sucerquia
-    - type: linkedin
-      linkedin: https://co.linkedin.com/in/mario-sucerquia-72035b173
 
 - name: "This could be you !"
   photo: astronaut.png
