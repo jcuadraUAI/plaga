@@ -1,3 +1,13 @@
+- name: Daniela Cerda
+  photo: female.png
+  role: Astronomy student, UV
+  education: 
+  area: non-gravitational forces for comets 
+  labels:
+    - type: email
+      email: daniela.cerdal@alumnos.uv.cl
+ 
+
 - name: Miguel Vergara
   photo: miguel.jpg
   role: Computer Science Engineering student, UTFSM
