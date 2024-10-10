@@ -82,7 +82,7 @@
   webpage: http://www.acdunhill.com/
   photo: alex.jpg
   role: Postdoc 2013-2015
-  education:  Then a postdoc at UCLAN, Preston
+  education:  Then at UCLAN, Preston
   area: Now a a data scientist
   labels:
     - type: website
@@ -97,7 +97,7 @@
   webpage: http://virginie-faramaz.com/
   photo: virginie.jpg
   role: Postdoc 2014-17
-  education: Then a postdoc at JPL, Pasadena
+  education: Then at JPL, Pasadena
   area: Now a professor at the University of Arizona
   labels:
     - type: website
@@ -189,7 +189,7 @@
   webpage: https://de.linkedin.com/in/felipe-g-goicovic
   photo: felipe.jpg
   role: PhD 2017
-  education:  Then a postdoc at HITS and ITA, Heidelberg
+  education:  Then a postdoc at HITS, Heidelberg
   area: Now a software developer
   labels:
     - type: linkedin
@@ -205,7 +205,7 @@
 #  education: PhD, Univ de Valparaíso
   area:  Now at the Czech Academy of Sciences, Ondřejov
   role: Postdoc 2021-2023
-  education: Then a postdoc at Nicolaus Copernicus Astronomical Center, Warsaw
+  education: Then at the Nicolaus Copernicus Astronomical Center, Warsaw
   labels:
     - type: website
       website: https://reevolucionestelar.wordpress.com/acerca-de/
@@ -238,7 +238,7 @@
   photo: matiasM.jpg
   haswww: 0
   role: Postdoc 2011-14; 2017
-  education: Then a postdoc at U de Valparaíso
+  education: Then at U de Valparaíso
   area: Now a professor at Universidad Técnica Federico Santa María
   labels:
     - type: googlescholar
@@ -308,8 +308,8 @@
   webpage: https://www.linkedin.com/in/cmprussell
   photo: chris.jpg
   role: Postdoc 2017-2020
-  education: Then a postdoc at The Catholic University of America
-  area: Now a postdoc at U Delaware 
+  education: Then at The Catholic University of America
+  area: Now at U Delaware 
   labels:
     - type: researchgate
       researchgate: https://www.researchgate.net/profile/Christopher-Russell-4
@@ -334,7 +334,7 @@
 - name: Mario Sucerquia
   photo: mario.jpg
   role: Postdoc 2023-2024
-  education: Now a postdoc at IPAG
+  education: Now at IPAG
  # area: exo-moons and rings formation and dynamics
   labels:
     - type: website
