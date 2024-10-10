@@ -47,5 +47,5 @@ our [ad at the AAS job
 register](https://jobregister.aas.org/ad/a30cb4a6).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group.jpg" width="85%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/uai-vina.jpg" width="85%">
 </figure>
