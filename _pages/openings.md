@@ -17,6 +17,9 @@ Deadline is Jan 15, 2024.
 Tenemos proyectos y financiamiento para estudiantes de astronomía, física e ingeniería, de pre- o postgrado, interesada/os en trabajar con nosotros.  ¡[Contáctanos](mailto:jorge.cuadra@uai.cl)!  En particular, estamos buscando estudiantes que quieran continuar el desarrollo de un [videojuego basado en simulaciones astrofísicas](https://store.steampowered.com/app/2601120/Protoplanet_Express/).
 
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/uai-vina.jpg" width="85%">
+</figure>
 
 
 ## Previous announcements
@@ -46,6 +49,3 @@ Chilean citizens and residents are eligible this year.) Please check
 our [ad at the AAS job
 register](https://jobregister.aas.org/ad/a30cb4a6).
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/uai-vina.jpg" width="85%">
-</figure>
