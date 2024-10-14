@@ -1,3 +1,26 @@
+## - title: "%T" \n  image: dummy.png \n  description:  \n  authors: %f \n  link:   \n    url:  %u  \n    display: %q %V, %p (%Y)  \n  highlight: 0  \n  news2:    \n
+
+
+- title: "Multistructured Accretion Flow of Sgr A*. II. Signatures of a Cool Accretion Disk in Hydrodynamic Simulations of Stellar Winds" 
+  image: dummy.png 
+  description:  
+  authors: Balakrishnan, Russell, Corrales, Calderón, __Cuadra__, Haggard, Markoff, Neilsen, Nowak, Wang, and Baganoff 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2024ApJ...974...99B  
+    display: ApJ 974, 99 (2024)  
+  highlight: 0  
+  news2:    
+
+- title: "Multistructured Accretion Flow of Sgr A*. I. Examination of a Radiatively Inefficient Accretion Flow Model" 
+  image: dummy.png 
+  description:  
+  authors: Balakrishnan, Corrales, Markoff, Nowak, Haggard, Wang, Neilsen, Russell, Calderón, __Cuadra__, and Baganoff 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2024ApJ...974...98B  
+    display: ApJ 974, 98 (2024)  
+  highlight: 0  
+  news2:    
+
 - title: "Prospects for γ-ray observations of the Perseus galaxy cluster with the Cherenkov Telescope Array" 
   image: dummy.png 
   description:  
