@@ -171,7 +171,9 @@
     url:  https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.6191O  
     display: MNRAS 517, 6191 (2022)  
   highlight: 1  
-  news2:    
+  news2:  "MAS Press Release: [Scientific Paper Includes as co-authors Volunteers in Citizen Science Project](https://astrofisicamas.cl/en/co-autores-a-voluntarios-de-proyecto-de-ciencia-ciudadana/)
+  	 Original version: [Publicación científica incluye como co-autores a voluntarios de proyecto de ciencia ciudadana](https://astrofisicamas.cl/co-autores-a-voluntarios-de-proyecto-de-ciencia-ciudadana/)"
+
 
 - title: "Evolution of massive stars with new hydrodynamic wind models" 
   image: 2022A&A...665A.133G.png 
