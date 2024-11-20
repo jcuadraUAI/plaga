@@ -25,7 +25,7 @@
 
 - title: "Multistructured Accretion Flow of Sgr A*. II. Signatures of a Cool Accretion Disk in Hydrodynamic Simulations of Stellar Winds" 
   image: 2024ApJ...974...99B.png 
-  description:  
+  description: "We present updated SPH simulations that find that a cold gas disk forms around Sgr A*. The model presents a good fit to the dispersed Chandra spectra within 1.″5 of Sgr A*. NewAthena will offer a clearer differentiation between a RIAF plasma model and hydrodynamic simulations."  
   authors: Balakrishnan, Russell, Corrales, Calderón, __Cuadra__, Haggard, Markoff, Neilsen, Nowak, Wang, and Baganoff 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2024ApJ...974...99B  
