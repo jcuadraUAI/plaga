@@ -44,7 +44,7 @@
     url:  https://ui.adsabs.harvard.edu/abs/2024ApJ...974...99B  
     display: ApJ 974, 99 (2024)  
   highlight: 1  
-  news2: "Mayura's webinar [Dissecting the Sgr A* Accretion Flow in X-rays with Chandra, and Prospects for NewAthena](https://www.youtube.com/watch?v=1wQ_QSt6MIQ)"   
+  news2: "Mayura's webinar: [Dissecting the Sgr A* Accretion Flow in X-rays with Chandra, and Prospects for NewAthena](https://www.youtube.com/watch?v=1wQ_QSt6MIQ)"   
 
 - title: "Multistructured Accretion Flow of Sgr A*. I. Examination of a Radiatively Inefficient Accretion Flow Model" 
   image: dummy.png 
@@ -75,7 +75,7 @@
     url:  https://ui.adsabs.harvard.edu/abs/2024MNRAS.533..841O  
     display: MNRAS 533, 841 (2024)  
   highlight: 1  
-  news2:  "Camila's conference talk [Unveiling the structural content of NGC 6357](https://www.youtube.com/watch?v=vD4slEmlV-o)"  
+  news2:  "Camila's conference talk: [Unveiling the structural content of NGC 6357](https://www.youtube.com/watch?v=vD4slEmlV-o)"  
 
 - title: "Long-term evolution of binary orbits induced by circumbinary disks" 
   image: 2024A&A...688A.128V.png
