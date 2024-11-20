@@ -54,13 +54,13 @@
   news2:    
 
 - title: "Unveiling the structural content of NGC 6357 via kinematics and NIR variability" 
-  image: dummy.png 
+  image: 2024MNRAS.533..841O.jpeg
   description:  
   authors: __Ordenes-Huanca__, Zoccali, Bayo, __Cuadra__, Contreras Ramos, and Rojas-Arriagada 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2024MNRAS.533..841O  
     display: MNRAS 533, 841 (2024)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Long-term evolution of binary orbits induced by circumbinary disks" 
