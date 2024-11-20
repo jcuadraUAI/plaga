@@ -111,13 +111,15 @@ vea la contribución de un viento estelar a la vez.
 
 ## Columnas
 
+* [Blog de M Sucerquia](https://malsuar.wixsite.com/mario-sucerquia/research-blog)
+
 * [Columnas de J Cuadra](https://www.emol.com/especiales/2016/tecnologia/columna-astronomia/columnas.asp#!17) en la serie "Tendencias de la Astronomía" de emol.com
 
 * [Columnas del NPF](http://www.npf.cl/columnas/), algunas de ellas escritas por miembros de nuestro grupo
 
-* [Bestiario Astronómico](https://bestiarioastronomico.blogspot.com/), blog de Nicolás Cuello
-
 * [Re-Evolución Estelar](https://reevolucionestelar.wordpress.com/), blog de Alex Gormaz-Matamala
+
+* [Bestiario Astronómico](https://bestiarioastronomico.blogspot.com/), blog de Nicolás Cuello
 
 
 
