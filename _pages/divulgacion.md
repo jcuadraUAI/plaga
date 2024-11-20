@@ -111,6 +111,9 @@ vea la contribución de un viento estelar a la vez.
 
 ## Columnas
 
+* [Columnas de J Cuadra](https://revistaral.cl/autor/jorge-cuadra/) en la Revista de Artes Liberales (RAL)
+
+
 * [Blog de M Sucerquia](https://malsuar.wixsite.com/mario-sucerquia/research-blog)
 
 * [Columnas de J Cuadra](https://www.emol.com/especiales/2016/tecnologia/columna-astronomia/columnas.asp#!17) en la serie "Tendencias de la Astronomía" de emol.com
