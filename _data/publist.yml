@@ -66,12 +66,12 @@
 
 - title: "Long-term evolution of binary orbits induced by circumbinary disks" 
   image: 2024A&A...688A.128V.png
-  description:  
+  description: "We show that accretion onto the binary depletes the disk mass before inducing a significant change in the orbital separation or the mass ratio. However, the interaction can excite the eccentricity up to an equilibrium value, and induce a statistical correlation between the mass ratio and eccentricity." 
   authors: Valli, Tiede, Vigna-Gómez, __Cuadra__, Siwek, Ma, D'Orazio, Zrake, and de Mink 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2024A&A...688A.128V  
     display: A&A 688, A128 (2024)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Dark matter line searches with the Cherenkov Telescope Array" 
