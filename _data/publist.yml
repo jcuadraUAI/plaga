@@ -14,13 +14,13 @@
   news1: "Article on Science Alert: [Wait a Minute. Why Don't Any of The Solar System's Moons Have Rings?](https://www.sciencealert.com/wait-a-minute-why-dont-any-of-the-solar-systems-moons-have-rings)"
 
 - title: "Multiwavelength Galactic center gamma-ray observations explained by a unified cosmic-ray dynamics model" 
-  image: dummy.png 
+  image: 2024A&A...690L..14S.jpg
   description:  
   authors: __Scherer__ and __Cuadra__ 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2024A&A...690L..14S  
     display: A&A 690, L14 (2024)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Multistructured Accretion Flow of Sgr A*. II. Signatures of a Cool Accretion Disk in Hydrodynamic Simulations of Stellar Winds" 
