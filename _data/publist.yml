@@ -1,6 +1,27 @@
 ## - title: "%T" \n  image: dummy.png \n  description:  \n  authors: %f \n  link:   \n    url:  %u  \n    display: %q %V, %p (%Y)  \n  highlight: 0  \n  news2:    \n
 
 
+
+- title: "The missing rings around Solar System moons" 
+  image: dummy.png 
+  description:  
+  authors: Sucerquia, Alvarado-Montes, Zuluaga, Cuello, Cuadra, and Montesinos 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2024A&A...691A..74S  
+    display: A&A 691, A74 (2024)  
+  highlight: 0  
+  news2:    
+
+- title: "Multiwavelength Galactic center gamma-ray observations explained by a unified cosmic-ray dynamics model" 
+  image: dummy.png 
+  description:  
+  authors: Scherer and Cuadra 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2024A&A...690L..14S  
+    display: A&A 690, L14 (2024)  
+  highlight: 0  
+  news2:    
+
 - title: "Multistructured Accretion Flow of Sgr A*. II. Signatures of a Cool Accretion Disk in Hydrodynamic Simulations of Stellar Winds" 
   image: dummy.png 
   description:  
