@@ -10,7 +10,7 @@ permalink: /vacancies
 
 The [N&uacute;cleo Milenio for Transversal Research and Technology to explore Supermassive Black Holes (TITANS)](http://www.astro.udec.cl/titans/) invites applications to fill two [**postdoctoral positions**](https://jobregister.aas.org/ad/cf9d6d09).
 One of the positions focuses on theoretically understanding the link between single and binary SMBHs and their immediate environments, and can be held at UAI in Viña del Mar. 
-
+Deadline is Jan 15, 2024.
 
 
 
