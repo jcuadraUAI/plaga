@@ -85,13 +85,13 @@
   news2:    
 
 - title: "Evolution of rotating massive stars adopting a newer, self-consistent wind prescription at Small Magellanic Cloud metallicity" 
-  image: dummy.png 
+  image: 2024A&A...687A.290G.jpg
   description:  
   authors: __Gormaz-Matamala__, __Cuadra__, Ekström, Meynet, Curé, and Belczynski 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2024A&A...687A.290G  
     display: A&A 687, A290 (2024)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Alpha Centauri: Disc Dynamics, Planet Stability, Detectability" 
