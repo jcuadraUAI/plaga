@@ -30,22 +30,22 @@ accreting systems (see [Publications](publications)).
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GCVR_snap.jpg" alt="Galactic Center VR snapshot" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/flyby.jpg" alt="Flyby" />
+	     <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TidalBH24a.png" alt="Tidal disruption of a molecular cloud by a binary super-massive black hole" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PPE.jpg" alt="Protoplanet Express snapshot" />
+           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PPE.jpg" alt="Protoplanet Express snapshot" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GCdisc.jpg" alt="Disc in the Galactic Centre" />
         </div>
         <div class="item">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TidalBH24a.png" alt="Tidal disruption of a molecular cloud by a binary super-massive black hole" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/flyby.jpg" alt="Flyby" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/map-gamma.png" alt="Simulated gamma-ray map of the Central Molecular Zone" />
+        </div>
+         <div class="item">
+    	      <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GCVR_snap.jpg" alt="Galactic Center VR snapshot" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dustyclumps.jpg" alt="Dusty Clumps" />
