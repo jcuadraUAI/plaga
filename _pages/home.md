@@ -42,10 +42,10 @@ accreting systems (see [Publications](publications)).
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GCdisc.jpg" alt="Disc in the Galactic Centre" />
         </div>
         <div class="item">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jup-Nep.jpg" alt="Jupiter and Neptune by a red giant" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TidalBH24a.png" alt="Tidal disruption of a molecular cloud by a binary super-massive black hole" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/minispiral.jpg" alt="Minispiral observed by ALMA" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/map-gamma.png" alt="Simulated gamma-ray map of the Central Molecular Zone" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dustyclumps.jpg" alt="Dusty Clumps" />
