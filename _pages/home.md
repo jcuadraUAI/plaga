@@ -66,14 +66,11 @@ We are part of the [Faculty of Liberal
 Arts](https://artesliberales.uai.cl/) and the [Physics + Astro
 group](http://physics-astro.uai.cl/).
 
-Our work on formation and evolution of planetary systems is performed
-as part of the [Millennium Nucleus on Planet Formation
-(NPF)](http://www.npf.cl), while our work on accreting black holes and
+Our work on accreting black holes and
 their environment is carried out as part of the [Millennium Nucleus for
 Transversal Research and Technology to explore Supermassive Black
-Holes (TITANS)](http://www.astro.udec.cl/titans/), both funded by the
+Holes (TITANS)](http://www.astro.udec.cl/titans/), funded by the
 [Iniciativa Científica Milenio](http://www.iniciativamilenio.cl/).
-
 We are also grateful for funding from different [ANID](http://www.anid.cl) and [UAI](https://www.uai.cl) programmes.
 
 <P>&nbsp;</P>
