@@ -96,6 +96,9 @@ vea la contribución de un viento estelar a la vez.
 
 ## Capsulas
 
+
+{% include youtubePlayer.html id="Gdaf8dl0Eo4" %}
+<P>&nbsp;</P>
 {% include youtubePlayer.html id="SMJgH_NvLLE" %}
 <P>&nbsp;</P>
 {% include youtubePlayer.html id="uzfVTHsrGTU" %}
