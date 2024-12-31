@@ -8,9 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-The [N&uacute;cleo Milenio for Transversal Research and Technology to explore Supermassive Black Holes (TITANS)](http://www.astro.udec.cl/titans/) invites applications to fill one [**postdoctoral position**](https://jobregister.aas.org/ad/519e1af4) in SMBH astrophysics.  We  will give priority to candidates that can expand or complement our group from the computational and theoretical perspectives.
-The positions can be hosted at any of the TITANS member universities, including UAI in Viña del Mar. 
-Deadline is Dec 10, 2024.
+Universidad Adolfo Ibáñez has short-term (March–December 2025) [**postdoctoral positions** open](https://uai.cdn7pm.net/documentos/bases-pai-post-doctorado-2025.pdf), with the aim of applying for a 3-year FONDECYT fellowship.  This requires a PhD obtained in 2022 or later for the applicant (longer period applies to recent mothers).  If interested please contact [J Cuadra](mailto:jorge.cuadra@uai.cl) well before the Jan 20, 2025 deadline.
 
 
 
@@ -23,6 +21,11 @@ Tenemos proyectos y financiamiento para estudiantes de astronomía, física e in
 
 
 ## Previous announcements
+
+The [N&uacute;cleo Milenio for Transversal Research and Technology to explore Supermassive Black Holes (TITANS)](http://www.astro.udec.cl/titans/) invites applications to fill one [**postdoctoral position**](https://jobregister.aas.org/ad/519e1af4) in SMBH astrophysics.  We  will give priority to candidates that can expand or complement our group from the computational and theoretical perspectives.
+The positions can be hosted at any of the TITANS member universities, including UAI in Viña del Mar. 
+Deadline is Dec 10, 2024.
+
 
 The [N&uacute;cleo Milenio for Transversal Research and Technology to explore Supermassive Black Holes (TITANS)](http://www.astro.udec.cl/titans/) invites applications to fill two [**postdoctoral positions**](https://jobregister.aas.org/ad/cf9d6d09).
 One of the positions focuses on theoretically understanding the link between single and binary SMBHs and their immediate environments, and can be held at UAI in Viña del Mar. 
